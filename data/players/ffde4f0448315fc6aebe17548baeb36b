@@ -1,0 +1,45 @@
+{
+    "bax_d": 500.0,
+    "bax_d_history": [
+        500.0
+    ],
+    "bax_m": 500.0,
+    "bax_m_history": [
+        500.0
+    ],
+    "bax_s": 500.0,
+    "bax_s_history": [
+        500.0
+    ],
+    "bax_u": 500.0,
+    "bax_u_history": [
+        500.0
+    ],
+    "gender": "m",
+    "id": "ffde4f0448315fc6aebe17548baeb36b",
+    "matches_d": [],
+    "matches_d_history": [],
+    "matches_m": [],
+    "matches_m_history": [],
+    "matches_s": [],
+    "matches_s_history": [],
+    "matches_u": [],
+    "matches_u_history": [],
+    "name": "Matti Rohlf",
+    "pbr_d": 50.0,
+    "pbr_d_history": [
+        50.0
+    ],
+    "pbr_m": 50.0,
+    "pbr_m_history": [
+        50.0
+    ],
+    "pbr_s": 50.0,
+    "pbr_s_history": [
+        50.0
+    ],
+    "pbr_u": 50.0,
+    "pbr_u_history": [
+        50.0
+    ]
+}

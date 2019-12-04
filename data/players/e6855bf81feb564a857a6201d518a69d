@@ -1,0 +1,112 @@
+{
+    "bax_d": 500.28145759826623,
+    "bax_d_history": [
+        500.0,
+        496.5,
+        500.28145759826623
+    ],
+    "bax_m": 500.0,
+    "bax_m_history": [
+        500.0
+    ],
+    "bax_s": 500.0,
+    "bax_s_history": [
+        500.0
+    ],
+    "bax_u": 500.0,
+    "bax_u_history": [
+        500.0
+    ],
+    "gender": "m",
+    "id": "e6855bf81feb564a857a6201d518a69d",
+    "matches_d": [],
+    "matches_d_history": [
+        {
+            "baxA": 500.0,
+            "baxB": 500.0,
+            "date": "2019-11-26",
+            "games": [
+                [
+                    16,
+                    21
+                ],
+                [
+                    16,
+                    21
+                ]
+            ],
+            "pbrA": 50.0,
+            "pbrB": 50.0,
+            "score_difference": -5.0,
+            "sideA": [
+                "Hark Empen",
+                "Sebastian Mootz"
+            ],
+            "sideB": [
+                "Johannes Rosenzweig",
+                "Alexander Voigt"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Johannes Rosenzweig",
+                "Alexander Voigt"
+            ]
+        },
+        {
+            "baxA": 500.0,
+            "baxB": 500.0,
+            "date": "2019-11-26",
+            "games": [
+                [
+                    12,
+                    21
+                ],
+                [
+                    13,
+                    21
+                ]
+            ],
+            "pbrA": 50.0,
+            "pbrB": 50.0,
+            "score_difference": -8.5,
+            "sideA": [
+                "Sebastian Mootz",
+                "Alexander Voigt"
+            ],
+            "sideB": [
+                "Hark Empen",
+                "Johannes Rosenzweig"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Hark Empen",
+                "Johannes Rosenzweig"
+            ]
+        }
+    ],
+    "matches_m": [],
+    "matches_m_history": [],
+    "matches_s": [],
+    "matches_s_history": [],
+    "matches_u": [],
+    "matches_u_history": [],
+    "name": "Hark Empen",
+    "pbr_d": 53.0,
+    "pbr_d_history": [
+        50.0,
+        47.5,
+        53.0
+    ],
+    "pbr_m": 50.0,
+    "pbr_m_history": [
+        50.0
+    ],
+    "pbr_s": 50.0,
+    "pbr_s_history": [
+        50.0
+    ],
+    "pbr_u": 50.0,
+    "pbr_u_history": [
+        50.0
+    ]
+}
