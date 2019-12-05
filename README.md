@@ -10,7 +10,8 @@
 | 6        | Laura Preuß                        | 500.00  |                 | 6        | Laura Preuß                        | 50.00   |
 | 7        | Johannes Rosenzweig                | 500.00  |                 | 7        | Johannes Rosenzweig                | 50.00   |
 | 8        | Hark Empen                         | 500.00  |                 | 8        | Hark Empen                         | 50.00   |
-| 9        | Alexander Voigt                    | 500.00  |                 | 9        | Alexander Voigt                    | 50.00   |
+| 9        | Divya Sree Madichati               | 500.00  |                 | 9        | Divya Sree Madichati               | 50.00   |
+| 10       | Alexander Voigt                    | 500.00  |                 | 10       | Alexander Voigt                    | 50.00   |
 |          |                                    |         | **Rankings MS** |          |                                    |         |
 | **Rank** | **Name**                           | **BAX** |                 | **Rank** | **Name**                           | **PBR** |
 | 1        | Tobias Henschel                    | 502.10  |                 | 1        | Tobias Henschel                    | 51.67   |
@@ -22,21 +23,23 @@
 | 7        | Alexander Voigt                    | 497.90  |                 | 7        | Alexander Voigt                    | 48.33   |
 |          |                                    |         | **Rankings MD** |          |                                    |         |
 | **Rank** | **Name**                           | **BAX** |                 | **Rank** | **Name**                           | **PBR** |
-| 1        | Johannes Rosenzweig                | 506.72  |                 | 1        | Johannes Rosenzweig                | 55.50   |
-| 2        | Hark Empen                         | 500.28  |                 | 2        | Hark Empen                         | 53.00   |
-| 3        | Tobias Henschel                    | 500.00  |                 | 3        | Tobias Henschel                    | 50.00   |
+| 1        | Hark Empen                         | 504.03  |                 | 1        | Hark Empen                         | 55.38   |
+| 2        | Tobias Henschel                    | 503.77  |                 | 2        | Tobias Henschel                    | 53.88   |
+| 3        | Johannes Rosenzweig                | 502.69  |                 | 3        | Johannes Rosenzweig                | 51.00   |
 | 4        | Till Staude                        | 500.00  |                 | 4        | Till Staude                        | 50.00   |
-| 5        | Matti Rohlf                        | 500.00  |                 | 5        | Matti Rohlf                        | 50.00   |
-| 6        | Alexander Voigt                    | 499.72  |                 | 6        | Alexander Voigt                    | 47.00   |
+| 5        | Alexander Voigt                    | 499.72  |                 | 5        | Matti Rohlf                        | 48.25   |
+| 6        | Matti Rohlf                        | 496.51  |                 | 6        | Alexander Voigt                    | 47.00   |
 | 7        | Sebastian Mootz                    | 493.28  |                 | 7        | Sebastian Mootz                    | 44.50   |
 |          |                                    |         | **Rankings WS** |          |                                    |         |
 | **Rank** | **Name**                           | **BAX** |                 | **Rank** | **Name**                           | **PBR** |
 | 1        | Lea Song-I Park                    | 500.00  |                 | 1        | Lea Song-I Park                    | 50.00   |
 | 2        | Laura Preuß                        | 500.00  |                 | 2        | Laura Preuß                        | 50.00   |
+| 3        | Divya Sree Madichati               | 500.00  |                 | 3        | Divya Sree Madichati               | 50.00   |
 |          |                                    |         | **Rankings WD** |          |                                    |         |
 | **Rank** | **Name**                           | **BAX** |                 | **Rank** | **Name**                           | **PBR** |
 | 1        | Lea Song-I Park                    | 500.00  |                 | 1        | Lea Song-I Park                    | 50.00   |
 | 2        | Laura Preuß                        | 500.00  |                 | 2        | Laura Preuß                        | 50.00   |
+| 3        | Divya Sree Madichati               | 500.00  |                 | 3        | Divya Sree Madichati               | 50.00   |
 |          |                                    |         | **Rankings MX** |          |                                    |         |
 | **Rank** | **Name**                           | **BAX** |                 | **Rank** | **Name**                           | **PBR** |
 | 1        | Tobias Henschel                    | 500.00  |                 | 1        | Tobias Henschel                    | 50.00   |
@@ -47,7 +50,8 @@
 | 6        | Laura Preuß                        | 500.00  |                 | 6        | Laura Preuß                        | 50.00   |
 | 7        | Johannes Rosenzweig                | 500.00  |                 | 7        | Johannes Rosenzweig                | 50.00   |
 | 8        | Hark Empen                         | 500.00  |                 | 8        | Hark Empen                         | 50.00   |
-| 9        | Alexander Voigt                    | 500.00  |                 | 9        | Alexander Voigt                    | 50.00   |
+| 9        | Divya Sree Madichati               | 500.00  |                 | 9        | Divya Sree Madichati               | 50.00   |
+| 10       | Alexander Voigt                    | 500.00  |                 | 10       | Alexander Voigt                    | 50.00   |
 # HSC-rankings
 These are our internal rankings. Each player gets a BAX \[1\] and a PBR \[2\] for each discipline (Wo/Men's singles, Wo/Men's doubles, mixed doubles). There is also an additional BAX and PBR for each player for matches that are in neihter of the aforementioned disciplines, i.e. a male vs. female singles match.
 

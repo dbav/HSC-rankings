@@ -1,7 +1,8 @@
 {
-    "bax_d": 500.0,
+    "bax_d": 496.51134136153087,
     "bax_d_history": [
-        500.0
+        500.0,
+        496.51134136153087
     ],
     "bax_m": 500.0,
     "bax_m_history": [
@@ -18,7 +19,39 @@
     "gender": "m",
     "id": "ffde4f0448315fc6aebe17548baeb36b",
     "matches_d": [],
-    "matches_d_history": [],
+    "matches_d_history": [
+        {
+            "baxA": 500.1407287991331,
+            "baxB": 503.3592712008669,
+            "date": "2019-12- 5",
+            "games": [
+                [
+                    21,
+                    19
+                ],
+                [
+                    21,
+                    13
+                ]
+            ],
+            "pbrA": 51.5,
+            "pbrB": 52.75,
+            "score_difference": 5.0,
+            "sideA": [
+                "Tobias Henschel",
+                "Hark Empen"
+            ],
+            "sideB": [
+                "Matti Rohlf",
+                "Johannes Rosenzweig"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Tobias Henschel",
+                "Hark Empen"
+            ]
+        }
+    ],
     "matches_m": [],
     "matches_m_history": [],
     "matches_s": [],
@@ -26,9 +59,10 @@
     "matches_u": [],
     "matches_u_history": [],
     "name": "Matti Rohlf",
-    "pbr_d": 50.0,
+    "pbr_d": 48.25,
     "pbr_d_history": [
-        50.0
+        50.0,
+        48.25
     ],
     "pbr_m": 50.0,
     "pbr_m_history": [
