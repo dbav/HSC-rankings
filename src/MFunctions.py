@@ -4,12 +4,15 @@
 from CPlayerlist import Playerlist
 from CPlayer import Player
 from CMatch import Match
+from MPaths import readmemdpath, readmepath
 from random import random, randrange#, choice
 ########################################################################
 #%% printing constants     #############################################
 ########################################################################
-borderstr  = "{0:#^72s}".format("")
-messagefmt = "{0:#^18s}     {{0: ^26s}}     {0:#^18s}".format("")
+borderstr      = "{0:#^72s}".format("")
+messagefmt     = "{0:#^18s}     {{0: ^26s}}     {0:#^18s}".format("")
+tablerowfmt    = "| {0: <8s} | {1: <34s} | {2: <7s} | {3: <15s} | {0: <8s} | {4: <34s} | {5: <7s} |\n"
+tableheaderfmt = "|{0:-<10s}|{0:-<36s}|{0:-<9s}|{0:-<17s}|{0:-<10s}|{0:-<36s}|{0:-<9s}|\n".format("")
 ########################################################################
 #%% prints the menu     ################################################
 ########################################################################
@@ -197,6 +200,7 @@ def enter_new_match():
       i.add_match_u(match.__dict__)
   else:
     raise ValueError("ERROR: Unknown match type '{0:s}' enountered in 'enter_new_match'".format(type))
+  update_rankings()
 ########################################################################
 #%% show players     ###################################################
 ########################################################################
@@ -219,13 +223,9 @@ def show_players():
 #%% show rankings     ##################################################
 ########################################################################
 def show_rankings():
-  show_ranking("ud")
-  show_ranking("ms")
-  show_ranking("md")
-  show_ranking("ws")
-  show_ranking("wd")
-  show_ranking("mx")
-def show_ranking(type):
+  for type in ["ud", "ms", "md", "ws", "wd", "mx"]:
+    show_ranking(type)
+def create_ranking(type):
   playerlist  = Playerlist()
   baxlist     = []
   pbrlist     = []
@@ -252,6 +252,9 @@ def show_ranking(type):
   baxlist.sort(reverse=True)
   pbrlist.sort(reverse=True)
   assert(len(baxlist) == len(pbrlist))
+  return((baxlist, pbrlist))
+def show_ranking(type):
+  baxlist, pbrlist = create_ranking(type)
   print(borderstr)
   print(borderstr)
   print(messagefmt.format("Ranking {0:s}".format(type.upper())))
@@ -265,6 +268,18 @@ def show_ranking(type):
   print(borderstr)
   print(borderstr)
   print("")    
+def update_rankings():
+  with open(readmemdpath,"w") as outfile:
+    outfile.write(tablerowfmt.format("", "", "", "", "", ""))
+    outfile.write(tableheaderfmt)
+    for type in ["ud", "ms", "md", "ws", "wd", "mx"]:
+      baxlist, pbrlist = create_ranking(type)
+      outfile.write(tablerowfmt.format("", "", "", "**Rankings {0:s}**".format(type.upper()), "", ""))
+      outfile.write(tablerowfmt.format("**Rank**", "**Name**", "**BAX**", "", "**Name**", "**PBR**"))
+      for i in range(len(baxlist)):
+        outfile.write(tablerowfmt.format("{0: <8d}".format(i+1), baxlist[i][1], "{0: <7.2f}".format(baxlist[i][0]), "", pbrlist[i][1], "{0: <7.2f}".format(pbrlist[i][0]) ))
+    with open(readmepath, "r") as appendfile:
+      outfile.write(appendfile.read())
 ########################################################################
 #%% draw random (within constraints) matches of the week     ###########
 ########################################################################
