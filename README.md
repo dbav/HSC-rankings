@@ -14,13 +14,13 @@
 | 10       | Alexander Voigt                    | 500.00  |                 | 10       | Alexander Voigt                    | 50.00   |
 |          |                                    |         | **Rankings MS** |          |                                    |         |
 | **Rank** | **Name**                           | **BAX** |                 | **Rank** | **Name**                           | **PBR** |
-| 1        | Tobias Henschel                    | 502.10  |                 | 1        | Tobias Henschel                    | 51.67   |
-| 2        | Till Staude                        | 500.00  |                 | 2        | Till Staude                        | 50.00   |
-| 3        | Sebastian Mootz                    | 500.00  |                 | 3        | Sebastian Mootz                    | 50.00   |
-| 4        | Matti Rohlf                        | 500.00  |                 | 4        | Matti Rohlf                        | 50.00   |
-| 5        | Johannes Rosenzweig                | 500.00  |                 | 5        | Johannes Rosenzweig                | 50.00   |
-| 6        | Hark Empen                         | 500.00  |                 | 6        | Hark Empen                         | 50.00   |
-| 7        | Alexander Voigt                    | 497.90  |                 | 7        | Alexander Voigt                    | 48.33   |
+| 1        | Johannes Rosenzweig                | 503.50  |                 | 1        | Johannes Rosenzweig                | 52.00   |
+| 2        | Tobias Henschel                    | 502.10  |                 | 2        | Tobias Henschel                    | 51.67   |
+| 3        | Till Staude                        | 500.00  |                 | 3        | Till Staude                        | 50.00   |
+| 4        | Sebastian Mootz                    | 500.00  |                 | 4        | Sebastian Mootz                    | 50.00   |
+| 5        | Hark Empen                         | 500.00  |                 | 5        | Hark Empen                         | 50.00   |
+| 6        | Alexander Voigt                    | 497.90  |                 | 6        | Alexander Voigt                    | 48.33   |
+| 7        | Matti Rohlf                        | 496.50  |                 | 7        | Matti Rohlf                        | 48.00   |
 |          |                                    |         | **Rankings MD** |          |                                    |         |
 | **Rank** | **Name**                           | **BAX** |                 | **Rank** | **Name**                           | **PBR** |
 | 1        | Hark Empen                         | 504.03  |                 | 1        | Hark Empen                         | 55.38   |
