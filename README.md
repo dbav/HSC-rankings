@@ -14,21 +14,21 @@
 | 10       | Alexander Voigt                    | 500.00  |                 | 10       | Alexander Voigt                    | 50.00   |
 |          |                                    |         | **Rankings MS** |          |                                    |         |
 | **Rank** | **Name**                           | **BAX** |                 | **Rank** | **Name**                           | **PBR** |
-| 1        | Johannes Rosenzweig                | 503.50  |                 | 1        | Johannes Rosenzweig                | 52.00   |
-| 2        | Tobias Henschel                    | 502.10  |                 | 2        | Tobias Henschel                    | 51.67   |
+| 1        | Tobias Henschel                    | 505.43  |                 | 1        | Tobias Henschel                    | 52.08   |
+| 2        | Johannes Rosenzweig                | 503.50  |                 | 2        | Johannes Rosenzweig                | 52.00   |
 | 3        | Till Staude                        | 500.00  |                 | 3        | Till Staude                        | 50.00   |
 | 4        | Sebastian Mootz                    | 500.00  |                 | 4        | Sebastian Mootz                    | 50.00   |
-| 5        | Hark Empen                         | 500.00  |                 | 5        | Hark Empen                         | 50.00   |
-| 6        | Alexander Voigt                    | 497.90  |                 | 6        | Alexander Voigt                    | 48.33   |
+| 5        | Alexander Voigt                    | 497.90  |                 | 5        | Hark Empen                         | 49.58   |
+| 6        | Hark Empen                         | 496.67  |                 | 6        | Alexander Voigt                    | 48.33   |
 | 7        | Matti Rohlf                        | 496.50  |                 | 7        | Matti Rohlf                        | 48.00   |
 |          |                                    |         | **Rankings MD** |          |                                    |         |
 | **Rank** | **Name**                           | **BAX** |                 | **Rank** | **Name**                           | **PBR** |
-| 1        | Hark Empen                         | 504.03  |                 | 1        | Hark Empen                         | 55.38   |
-| 2        | Tobias Henschel                    | 503.77  |                 | 2        | Tobias Henschel                    | 53.88   |
-| 3        | Johannes Rosenzweig                | 502.69  |                 | 3        | Johannes Rosenzweig                | 51.00   |
-| 4        | Till Staude                        | 500.00  |                 | 4        | Till Staude                        | 50.00   |
-| 5        | Alexander Voigt                    | 499.72  |                 | 5        | Matti Rohlf                        | 48.25   |
-| 6        | Matti Rohlf                        | 496.51  |                 | 6        | Alexander Voigt                    | 47.00   |
+| 1        | Hark Empen                         | 505.67  |                 | 1        | Till Staude                        | 52.48   |
+| 2        | Tobias Henschel                    | 505.43  |                 | 2        | Hark Empen                         | 52.08   |
+| 3        | Johannes Rosenzweig                | 502.69  |                 | 3        | Matti Rohlf                        | 51.60   |
+| 4        | Alexander Voigt                    | 499.72  |                 | 4        | Tobias Henschel                    | 51.33   |
+| 5        | Till Staude                        | 498.21  |                 | 5        | Johannes Rosenzweig                | 51.00   |
+| 6        | Matti Rohlf                        | 495.00  |                 | 6        | Alexander Voigt                    | 47.00   |
 | 7        | Sebastian Mootz                    | 493.28  |                 | 7        | Sebastian Mootz                    | 44.50   |
 |          |                                    |         | **Rankings WS** |          |                                    |         |
 | **Rank** | **Name**                           | **BAX** |                 | **Rank** | **Name**                           | **PBR** |
