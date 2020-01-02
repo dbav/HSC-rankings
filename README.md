@@ -2,16 +2,16 @@
 |----------|------------------------------------|---------|-----------------|----------|------------------------------------|---------|
 |          |                                    |         | **Rankings UD** |          |                                    |         |
 | **Rank** | **Name**                           | **BAX** |                 | **Rank** | **Name**                           | **PBR** |
-| 1        | Tobias Henschel                    | 500.00  |                 | 1        | Tobias Henschel                    | 50.00   |
-| 2        | Till Staude                        | 500.00  |                 | 2        | Till Staude                        | 50.00   |
-| 3        | Sebastian Mootz                    | 500.00  |                 | 3        | Sebastian Mootz                    | 50.00   |
-| 4        | Matti Rohlf                        | 500.00  |                 | 4        | Matti Rohlf                        | 50.00   |
-| 5        | Lea Song-I Park                    | 500.00  |                 | 5        | Lea Song-I Park                    | 50.00   |
-| 6        | Laura Preuß                        | 500.00  |                 | 6        | Laura Preuß                        | 50.00   |
+| 1        | Alexander Voigt                    | 503.50  |                 | 1        | Alexander Voigt                    | 57.75   |
+| 2        | Tobias Henschel                    | 500.00  |                 | 2        | Tobias Henschel                    | 50.00   |
+| 3        | Till Staude                        | 500.00  |                 | 3        | Till Staude                        | 50.00   |
+| 4        | Sebastian Mootz                    | 500.00  |                 | 4        | Sebastian Mootz                    | 50.00   |
+| 5        | Matti Rohlf                        | 500.00  |                 | 5        | Matti Rohlf                        | 50.00   |
+| 6        | Lea Song-I Park                    | 500.00  |                 | 6        | Lea Song-I Park                    | 50.00   |
 | 7        | Johannes Rosenzweig                | 500.00  |                 | 7        | Johannes Rosenzweig                | 50.00   |
 | 8        | Hark Empen                         | 500.00  |                 | 8        | Hark Empen                         | 50.00   |
 | 9        | Divya Sree Madichati               | 500.00  |                 | 9        | Divya Sree Madichati               | 50.00   |
-| 10       | Alexander Voigt                    | 500.00  |                 | 10       | Alexander Voigt                    | 50.00   |
+| 10       | Laura Preuß                        | 496.50  |                 | 10       | Laura Preuß                        | 42.25   |
 |          |                                    |         | **Rankings MS** |          |                                    |         |
 | **Rank** | **Name**                           | **BAX** |                 | **Rank** | **Name**                           | **PBR** |
 | 1        | Tobias Henschel                    | 505.43  |                 | 1        | Tobias Henschel                    | 52.08   |

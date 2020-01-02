@@ -11,9 +11,10 @@
     "bax_s_history": [
         500.0
     ],
-    "bax_u": 500.0,
+    "bax_u": 496.5,
     "bax_u_history": [
-        500.0
+        500.0,
+        496.5
     ],
     "gender": "f",
     "id": "f27a8a1393da5e29a9ed1e2334e6dde5",
@@ -24,7 +25,36 @@
     "matches_s": [],
     "matches_s_history": [],
     "matches_u": [],
-    "matches_u_history": [],
+    "matches_u_history": [
+        {
+            "baxA": 500.0,
+            "baxB": 500.0,
+            "date": "2019-12-30",
+            "games": [
+                [
+                    5,
+                    21
+                ],
+                [
+                    6,
+                    21
+                ]
+            ],
+            "pbrA": 50.0,
+            "pbrB": 50.0,
+            "score_difference": -15.5,
+            "sideA": [
+                "Laura Preu\u00df"
+            ],
+            "sideB": [
+                "Alexander Voigt"
+            ],
+            "type": "Undefined discipline",
+            "winner": [
+                "Alexander Voigt"
+            ]
+        }
+    ],
     "name": "Laura Preu\u00df",
     "pbr_d": 50.0,
     "pbr_d_history": [
@@ -38,8 +68,9 @@
     "pbr_s_history": [
         50.0
     ],
-    "pbr_u": 50.0,
+    "pbr_u": 42.25,
     "pbr_u_history": [
-        50.0
+        50.0,
+        42.25
     ]
 }
