@@ -63,6 +63,7 @@ def get_side(otherside=None):
   while (True):
     print("Enter name(s) of player(s) of side {0:s}, i.e. 'Tobi, Hark' (q to quit):".format(mode))
     side = input("    --> ").strip().split(',')
+    side = [i.strip() for i in side]
     if (side[0] == "q"):
       return(side)
     if (len(side) > 2):
