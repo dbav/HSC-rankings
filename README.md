@@ -23,13 +23,13 @@
 | 7        | Matti Rohlf                        | 496.50  |                 | 7        | Matti Rohlf                        | 48.00   |
 |          |                                    |         | **Rankings MD** |          |                                    |         |
 | **Rank** | **Name**                           | **BAX** |                 | **Rank** | **Name**                           | **PBR** |
-| 1        | Hark Empen                         | 505.67  |                 | 1        | Till Staude                        | 52.48   |
-| 2        | Tobias Henschel                    | 505.43  |                 | 2        | Hark Empen                         | 52.08   |
-| 3        | Johannes Rosenzweig                | 502.69  |                 | 3        | Matti Rohlf                        | 51.60   |
-| 4        | Alexander Voigt                    | 499.72  |                 | 4        | Tobias Henschel                    | 51.33   |
-| 5        | Till Staude                        | 498.21  |                 | 5        | Johannes Rosenzweig                | 51.00   |
-| 6        | Matti Rohlf                        | 495.00  |                 | 6        | Alexander Voigt                    | 47.00   |
-| 7        | Sebastian Mootz                    | 493.28  |                 | 7        | Sebastian Mootz                    | 44.50   |
+| 1        | Hark Empen                         | 507.37  |                 | 1        | Hark Empen                         | 52.16   |
+| 2        | Tobias Henschel                    | 505.43  |                 | 2        | Tobias Henschel                    | 51.33   |
+| 3        | Johannes Rosenzweig                | 502.69  |                 | 3        | Matti Rohlf                        | 51.12   |
+| 4        | Alexander Voigt                    | 499.12  |                 | 4        | Johannes Rosenzweig                | 51.00   |
+| 5        | Till Staude                        | 497.84  |                 | 5        | Till Staude                        | 49.65   |
+| 6        | Matti Rohlf                        | 495.92  |                 | 6        | Alexander Voigt                    | 48.29   |
+| 7        | Sebastian Mootz                    | 491.64  |                 | 7        | Sebastian Mootz                    | 46.45   |
 |          |                                    |         | **Rankings WS** |          |                                    |         |
 | **Rank** | **Name**                           | **BAX** |                 | **Rank** | **Name**                           | **PBR** |
 | 1        | Lea Song-I Park                    | 500.00  |                 | 1        | Lea Song-I Park                    | 50.00   |

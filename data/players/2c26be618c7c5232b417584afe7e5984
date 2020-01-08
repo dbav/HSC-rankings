@@ -1,9 +1,10 @@
 {
-    "bax_d": 493.28145759826623,
+    "bax_d": 491.6369781092132,
     "bax_d_history": [
         500.0,
         496.5,
-        493.28145759826623
+        493.28145759826623,
+        491.6369781092132
     ],
     "bax_m": 500.0,
     "bax_m_history": [
@@ -82,6 +83,41 @@
                 "Hark Empen",
                 "Johannes Rosenzweig"
             ]
+        },
+        {
+            "baxA": 494.14127336883075,
+            "baxB": 498.96598701462983,
+            "date": "2020- 1- 8",
+            "games": [
+                [
+                    21,
+                    19
+                ],
+                [
+                    17,
+                    21
+                ],
+                [
+                    22,
+                    24
+                ]
+            ],
+            "pbrA": 48.052083333333336,
+            "pbrB": 49.739583333333336,
+            "score_difference": -1.3333333333333333,
+            "sideA": [
+                "Matti Rohlf",
+                "Sebastian Mootz"
+            ],
+            "sideB": [
+                "Till Staude",
+                "Alexander Voigt"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Till Staude",
+                "Alexander Voigt"
+            ]
         }
     ],
     "matches_m": [],
@@ -91,11 +127,12 @@
     "matches_u": [],
     "matches_u_history": [],
     "name": "Sebastian Mootz",
-    "pbr_d": 44.5,
+    "pbr_d": 46.453125,
     "pbr_d_history": [
         50.0,
         47.5,
-        44.5
+        44.5,
+        46.453125
     ],
     "pbr_m": 50.0,
     "pbr_m_history": [

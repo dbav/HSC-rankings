@@ -1,9 +1,11 @@
 {
-    "bax_d": 495.00108913939533,
+    "bax_d": 495.9150301886228,
     "bax_d_history": [
         500.0,
         496.51134136153087,
-        495.00108913939533
+        495.00108913939533,
+        493.21973735677676,
+        495.9150301886228
     ],
     "bax_m": 500.0,
     "bax_m_history": [
@@ -87,6 +89,76 @@
                 "Hark Empen",
                 "Tobias Henschel"
             ]
+        },
+        {
+            "baxA": 494.14127336883075,
+            "baxB": 498.96598701462983,
+            "date": "2020- 1- 8",
+            "games": [
+                [
+                    21,
+                    19
+                ],
+                [
+                    17,
+                    21
+                ],
+                [
+                    22,
+                    24
+                ]
+            ],
+            "pbrA": 48.052083333333336,
+            "pbrB": 49.739583333333336,
+            "score_difference": -1.3333333333333333,
+            "sideA": [
+                "Matti Rohlf",
+                "Sebastian Mootz"
+            ],
+            "sideB": [
+                "Till Staude",
+                "Alexander Voigt"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Till Staude",
+                "Alexander Voigt"
+            ]
+        },
+        {
+            "baxA": 499.44313119012867,
+            "baxB": 500.67886759434623,
+            "date": "2020- 1- 8",
+            "games": [
+                [
+                    21,
+                    17
+                ],
+                [
+                    19,
+                    21
+                ],
+                [
+                    21,
+                    15
+                ]
+            ],
+            "pbrA": 51.04427083333333,
+            "pbrB": 49.5625,
+            "score_difference": 2.6666666666666665,
+            "sideA": [
+                "Matti Rohlf",
+                "Hark Empen"
+            ],
+            "sideB": [
+                "Till Staude",
+                "Alexander Voigt"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Matti Rohlf",
+                "Hark Empen"
+            ]
         }
     ],
     "matches_m": [],
@@ -125,11 +197,13 @@
     "matches_u": [],
     "matches_u_history": [],
     "name": "Matti Rohlf",
-    "pbr_d": 51.60416666666667,
+    "pbr_d": 51.1171875,
     "pbr_d_history": [
         50.0,
         48.25,
-        51.60416666666667
+        51.60416666666667,
+        50.005208333333336,
+        51.1171875
     ],
     "pbr_m": 50.0,
     "pbr_m_history": [
