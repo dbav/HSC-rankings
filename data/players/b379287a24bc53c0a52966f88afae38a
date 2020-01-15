@@ -11,10 +11,12 @@
     "bax_m_history": [
         500.0
     ],
-    "bax_s": 497.9,
+    "bax_s": 503.39630198279866,
     "bax_s_history": [
         500.0,
-        497.9
+        497.9,
+        499.88721239631127,
+        503.39630198279866
     ],
     "bax_u": 503.5,
     "bax_u_history": [
@@ -193,6 +195,66 @@
             "winner": [
                 "Tobias Henschel"
             ]
+        },
+        {
+            "baxA": 496.5,
+            "baxB": 497.9,
+            "date": "2020- 1-14",
+            "games": [
+                [
+                    21,
+                    23
+                ],
+                [
+                    21,
+                    14
+                ],
+                [
+                    17,
+                    21
+                ]
+            ],
+            "pbrA": 48.0,
+            "pbrB": 48.33333333333333,
+            "score_difference": 0.3333333333333333,
+            "sideA": [
+                "Matti Rohlf"
+            ],
+            "sideB": [
+                "Alexander Voigt"
+            ],
+            "type": "Men's singles",
+            "winner": [
+                "Alexander Voigt"
+            ]
+        },
+        {
+            "baxA": 500.0,
+            "baxB": 499.88721239631127,
+            "date": "2020- 1-14",
+            "games": [
+                [
+                    17,
+                    21
+                ],
+                [
+                    16,
+                    21
+                ]
+            ],
+            "pbrA": 50.0,
+            "pbrB": 48.0,
+            "score_difference": -4.5,
+            "sideA": [
+                "Durga P.B. Nasika"
+            ],
+            "sideB": [
+                "Alexander Voigt"
+            ],
+            "type": "Men's singles",
+            "winner": [
+                "Alexander Voigt"
+            ]
         }
     ],
     "matches_u": [],
@@ -239,10 +301,12 @@
     "pbr_m_history": [
         50.0
     ],
-    "pbr_s": 48.33333333333333,
+    "pbr_s": 51.25,
     "pbr_s_history": [
         50.0,
-        48.33333333333333
+        48.33333333333333,
+        48.0,
+        51.25
     ],
     "pbr_u": 57.75,
     "pbr_u_history": [

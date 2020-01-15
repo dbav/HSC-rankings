@@ -1,20 +1,22 @@
 {
-    "bax_d": 495.9150301886228,
+    "bax_d": 494.2504651472808,
     "bax_d_history": [
         500.0,
         496.51134136153087,
         495.00108913939533,
         493.21973735677676,
-        495.9150301886228
+        495.9150301886228,
+        494.2504651472808
     ],
     "bax_m": 500.0,
     "bax_m_history": [
         500.0
     ],
-    "bax_s": 496.5,
+    "bax_s": 494.5127876036887,
     "bax_s_history": [
         500.0,
-        496.5
+        496.5,
+        494.5127876036887
     ],
     "bax_u": 500.0,
     "bax_u_history": [
@@ -159,6 +161,41 @@
                 "Matti Rohlf",
                 "Hark Empen"
             ]
+        },
+        {
+            "baxA": 501.34622499109054,
+            "baxB": 496.8787390490697,
+            "date": "2020- 1-14",
+            "games": [
+                [
+                    21,
+                    16
+                ],
+                [
+                    14,
+                    21
+                ],
+                [
+                    21,
+                    9
+                ]
+            ],
+            "pbrA": 50.5,
+            "pbrB": 50.386067708333336,
+            "score_difference": 3.3333333333333335,
+            "sideA": [
+                "Johannes Rosenzweig",
+                "Arne Wischmann"
+            ],
+            "sideB": [
+                "Matti Rohlf",
+                "Till Staude"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Johannes Rosenzweig",
+                "Arne Wischmann"
+            ]
         }
     ],
     "matches_m": [],
@@ -192,27 +229,61 @@
             "winner": [
                 "Johannes Rosenzweig"
             ]
+        },
+        {
+            "baxA": 496.5,
+            "baxB": 497.9,
+            "date": "2020- 1-14",
+            "games": [
+                [
+                    21,
+                    23
+                ],
+                [
+                    21,
+                    14
+                ],
+                [
+                    17,
+                    21
+                ]
+            ],
+            "pbrA": 48.0,
+            "pbrB": 48.33333333333333,
+            "score_difference": 0.3333333333333333,
+            "sideA": [
+                "Matti Rohlf"
+            ],
+            "sideB": [
+                "Alexander Voigt"
+            ],
+            "type": "Men's singles",
+            "winner": [
+                "Alexander Voigt"
+            ]
         }
     ],
     "matches_u": [],
     "matches_u_history": [],
     "name": "Matti Rohlf",
-    "pbr_d": 51.1171875,
+    "pbr_d": 49.14192708333333,
     "pbr_d_history": [
         50.0,
         48.25,
         51.60416666666667,
         50.005208333333336,
-        51.1171875
+        51.1171875,
+        49.14192708333333
     ],
     "pbr_m": 50.0,
     "pbr_m_history": [
         50.0
     ],
-    "pbr_s": 48.0,
+    "pbr_s": 48.33333333333333,
     "pbr_s_history": [
         50.0,
-        48.0
+        48.0,
+        48.33333333333333
     ],
     "pbr_u": 50.0,
     "pbr_u_history": [

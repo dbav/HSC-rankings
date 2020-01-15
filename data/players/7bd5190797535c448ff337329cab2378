@@ -1,18 +1,20 @@
 {
-    "bax_d": 497.8424479095166,
+    "bax_d": 496.0242079340021,
     "bax_d_history": [
         500.0,
         498.2134316275259,
         499.98621283806165,
-        497.8424479095166
+        497.8424479095166,
+        496.0242079340021
     ],
     "bax_m": 500.0,
     "bax_m_history": [
         500.0
     ],
-    "bax_s": 500.0,
+    "bax_s": 497.9,
     "bax_s_history": [
-        500.0
+        500.0,
+        497.9
     ],
     "bax_u": 500.0,
     "bax_u_history": [
@@ -126,29 +128,99 @@
                 "Matti Rohlf",
                 "Hark Empen"
             ]
+        },
+        {
+            "baxA": 501.34622499109054,
+            "baxB": 496.8787390490697,
+            "date": "2020- 1-14",
+            "games": [
+                [
+                    21,
+                    16
+                ],
+                [
+                    14,
+                    21
+                ],
+                [
+                    21,
+                    9
+                ]
+            ],
+            "pbrA": 50.5,
+            "pbrB": 50.386067708333336,
+            "score_difference": 3.3333333333333335,
+            "sideA": [
+                "Johannes Rosenzweig",
+                "Arne Wischmann"
+            ],
+            "sideB": [
+                "Matti Rohlf",
+                "Till Staude"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Johannes Rosenzweig",
+                "Arne Wischmann"
+            ]
         }
     ],
     "matches_m": [],
     "matches_m_history": [],
     "matches_s": [],
-    "matches_s_history": [],
+    "matches_s_history": [
+        {
+            "baxA": 500.0,
+            "baxB": 500.0,
+            "date": "2020- 1-14",
+            "games": [
+                [
+                    15,
+                    21
+                ],
+                [
+                    21,
+                    15
+                ],
+                [
+                    21,
+                    19
+                ]
+            ],
+            "pbrA": 50.0,
+            "pbrB": 50.0,
+            "score_difference": 0.6666666666666666,
+            "sideA": [
+                "Sebastian Mootz"
+            ],
+            "sideB": [
+                "Till Staude"
+            ],
+            "type": "Men's singles",
+            "winner": [
+                "Sebastian Mootz"
+            ]
+        }
+    ],
     "matches_u": [],
     "matches_u_history": [],
     "name": "Till Staude",
-    "pbr_d": 49.65494791666667,
+    "pbr_d": 48.41080729166667,
     "pbr_d_history": [
         50.0,
         52.47916666666667,
         50.93229166666667,
-        49.65494791666667
+        49.65494791666667,
+        48.41080729166667
     ],
     "pbr_m": 50.0,
     "pbr_m_history": [
         50.0
     ],
-    "pbr_s": 50.0,
+    "pbr_s": 49.66666666666667,
     "pbr_s_history": [
-        50.0
+        50.0,
+        49.66666666666667
     ],
     "pbr_u": 50.0,
     "pbr_u_history": [

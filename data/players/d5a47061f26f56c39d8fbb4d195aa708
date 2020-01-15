@@ -1,7 +1,8 @@
 {
-    "bax_d": 500.0,
+    "bax_d": 501.84888829017405,
     "bax_d_history": [
-        500.0
+        500.0,
+        501.84888829017405
     ],
     "bax_m": 500.0,
     "bax_m_history": [
@@ -18,7 +19,43 @@
     "gender": "m",
     "id": "d5a47061f26f56c39d8fbb4d195aa708",
     "matches_d": [],
-    "matches_d_history": [],
+    "matches_d_history": [
+        {
+            "baxA": 501.34622499109054,
+            "baxB": 496.8787390490697,
+            "date": "2020- 1-14",
+            "games": [
+                [
+                    21,
+                    16
+                ],
+                [
+                    14,
+                    21
+                ],
+                [
+                    21,
+                    9
+                ]
+            ],
+            "pbrA": 50.5,
+            "pbrB": 50.386067708333336,
+            "score_difference": 3.3333333333333335,
+            "sideA": [
+                "Johannes Rosenzweig",
+                "Arne Wischmann"
+            ],
+            "sideB": [
+                "Matti Rohlf",
+                "Till Staude"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Johannes Rosenzweig",
+                "Arne Wischmann"
+            ]
+        }
+    ],
     "matches_m": [],
     "matches_m_history": [],
     "matches_s": [],
@@ -26,9 +63,10 @@
     "matches_u": [],
     "matches_u_history": [],
     "name": "Arne Wischmann",
-    "pbr_d": 50.0,
+    "pbr_d": 51.859700520833336,
     "pbr_d_history": [
-        50.0
+        50.0,
+        51.859700520833336
     ],
     "pbr_m": 50.0,
     "pbr_m_history": [

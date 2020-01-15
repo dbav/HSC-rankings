@@ -1,10 +1,11 @@
 {
-    "bax_d": 502.6924499821811,
+    "bax_d": 504.32669900700495,
     "bax_d_history": [
         500.0,
         503.5,
         506.71854240173377,
-        502.6924499821811
+        502.6924499821811,
+        504.32669900700495
     ],
     "bax_m": 500.0,
     "bax_m_history": [
@@ -115,6 +116,41 @@
                 "Tobias Henschel",
                 "Hark Empen"
             ]
+        },
+        {
+            "baxA": 501.34622499109054,
+            "baxB": 496.8787390490697,
+            "date": "2020- 1-14",
+            "games": [
+                [
+                    21,
+                    16
+                ],
+                [
+                    14,
+                    21
+                ],
+                [
+                    21,
+                    9
+                ]
+            ],
+            "pbrA": 50.5,
+            "pbrB": 50.386067708333336,
+            "score_difference": 3.3333333333333335,
+            "sideA": [
+                "Johannes Rosenzweig",
+                "Arne Wischmann"
+            ],
+            "sideB": [
+                "Matti Rohlf",
+                "Till Staude"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Johannes Rosenzweig",
+                "Arne Wischmann"
+            ]
         }
     ],
     "matches_m": [],
@@ -153,12 +189,13 @@
     "matches_u": [],
     "matches_u_history": [],
     "name": "Johannes Rosenzweig",
-    "pbr_d": 51.0,
+    "pbr_d": 52.359700520833336,
     "pbr_d_history": [
         50.0,
         52.5,
         55.5,
-        51.0
+        51.0,
+        52.359700520833336
     ],
     "pbr_m": 50.0,
     "pbr_m_history": [

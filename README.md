@@ -11,28 +11,34 @@
 | 7        | Lea Song-I Park                    | 500.00  |                 | 7        | Lea Song-I Park                    | 50.00   |
 | 8        | Johannes Rosenzweig                | 500.00  |                 | 8        | Johannes Rosenzweig                | 50.00   |
 | 9        | Hark Empen                         | 500.00  |                 | 9        | Hark Empen                         | 50.00   |
-| 10       | Divya Sree Madichati               | 500.00  |                 | 10       | Divya Sree Madichati               | 50.00   |
-| 11       | Laura Preuß                        | 496.50  |                 | 11       | Laura Preuß                        | 42.25   |
+| 10       | Durga P.B. Nasika                  | 500.00  |                 | 10       | Durga P.B. Nasika                  | 50.00   |
+| 11       | Divya Sree Madichati               | 500.00  |                 | 11       | Divya Sree Madichati               | 50.00   |
+| 12       | Arne Wischmann                     | 500.00  |                 | 12       | Arne Wischmann                     | 50.00   |
+| 13       | Laura Preuß                        | 496.50  |                 | 13       | Laura Preuß                        | 42.25   |
 |          |                                    |         | **Rankings MS** |          |                                    |         |
 | **Rank** | **Name**                           | **BAX** |                 | **Rank** | **Name**                           | **PBR** |
 | 1        | Tobias Henschel                    | 505.43  |                 | 1        | Hark Empen                         | 54.29   |
 | 2        | Johannes Rosenzweig                | 503.50  |                 | 2        | Tobias Henschel                    | 52.08   |
-| 3        | Hark Empen                         | 500.44  |                 | 3        | Johannes Rosenzweig                | 52.00   |
-| 4        | Till Staude                        | 500.00  |                 | 4        | Till Staude                        | 50.00   |
-| 5        | Sebastian Mootz                    | 500.00  |                 | 5        | Sebastian Mootz                    | 50.00   |
-| 6        | Alexander Voigt                    | 497.90  |                 | 6        | Alexander Voigt                    | 48.33   |
-| 7        | Matti Rohlf                        | 496.50  |                 | 7        | Matti Rohlf                        | 48.00   |
-| 8        | Norman Lahr                        | 496.23  |                 | 8        | Norman Lahr                        | 45.29   |
+| 3        | Alexander Voigt                    | 503.40  |                 | 3        | Johannes Rosenzweig                | 52.00   |
+| 4        | Sebastian Mootz                    | 502.10  |                 | 4        | Alexander Voigt                    | 51.25   |
+| 5        | Hark Empen                         | 500.44  |                 | 5        | Sebastian Mootz                    | 50.33   |
+| 6        | Arne Wischmann                     | 500.00  |                 | 6        | Arne Wischmann                     | 50.00   |
+| 7        | Till Staude                        | 497.90  |                 | 7        | Till Staude                        | 49.67   |
+| 8        | Durga P.B. Nasika                  | 496.49  |                 | 8        | Matti Rohlf                        | 48.33   |
+| 9        | Norman Lahr                        | 496.23  |                 | 9        | Durga P.B. Nasika                  | 46.75   |
+| 10       | Matti Rohlf                        | 494.51  |                 | 10       | Norman Lahr                        | 45.29   |
 |          |                                    |         | **Rankings MD** |          |                                    |         |
 | **Rank** | **Name**                           | **BAX** |                 | **Rank** | **Name**                           | **PBR** |
-| 1        | Hark Empen                         | 507.37  |                 | 1        | Hark Empen                         | 52.16   |
-| 2        | Tobias Henschel                    | 505.43  |                 | 2        | Tobias Henschel                    | 51.33   |
-| 3        | Johannes Rosenzweig                | 502.69  |                 | 3        | Matti Rohlf                        | 51.12   |
-| 4        | Norman Lahr                        | 500.00  |                 | 4        | Johannes Rosenzweig                | 51.00   |
-| 5        | Alexander Voigt                    | 499.12  |                 | 5        | Norman Lahr                        | 50.00   |
-| 6        | Till Staude                        | 497.84  |                 | 6        | Till Staude                        | 49.65   |
-| 7        | Matti Rohlf                        | 495.92  |                 | 7        | Alexander Voigt                    | 48.29   |
-| 8        | Sebastian Mootz                    | 491.64  |                 | 8        | Sebastian Mootz                    | 46.45   |
+| 1        | Hark Empen                         | 507.37  |                 | 1        | Johannes Rosenzweig                | 52.36   |
+| 2        | Tobias Henschel                    | 505.43  |                 | 2        | Hark Empen                         | 52.16   |
+| 3        | Johannes Rosenzweig                | 504.33  |                 | 3        | Arne Wischmann                     | 51.86   |
+| 4        | Arne Wischmann                     | 501.85  |                 | 4        | Tobias Henschel                    | 51.33   |
+| 5        | Norman Lahr                        | 500.00  |                 | 5        | Norman Lahr                        | 50.00   |
+| 6        | Durga P.B. Nasika                  | 500.00  |                 | 6        | Durga P.B. Nasika                  | 50.00   |
+| 7        | Alexander Voigt                    | 499.12  |                 | 7        | Matti Rohlf                        | 49.14   |
+| 8        | Till Staude                        | 496.02  |                 | 8        | Till Staude                        | 48.41   |
+| 9        | Matti Rohlf                        | 494.25  |                 | 9        | Alexander Voigt                    | 48.29   |
+| 10       | Sebastian Mootz                    | 491.64  |                 | 10       | Sebastian Mootz                    | 46.45   |
 |          |                                    |         | **Rankings WS** |          |                                    |         |
 | **Rank** | **Name**                           | **BAX** |                 | **Rank** | **Name**                           | **PBR** |
 | 1        | Lea Song-I Park                    | 500.00  |                 | 1        | Lea Song-I Park                    | 50.00   |
@@ -54,8 +60,10 @@
 | 7        | Laura Preuß                        | 500.00  |                 | 7        | Laura Preuß                        | 50.00   |
 | 8        | Johannes Rosenzweig                | 500.00  |                 | 8        | Johannes Rosenzweig                | 50.00   |
 | 9        | Hark Empen                         | 500.00  |                 | 9        | Hark Empen                         | 50.00   |
-| 10       | Divya Sree Madichati               | 500.00  |                 | 10       | Divya Sree Madichati               | 50.00   |
-| 11       | Alexander Voigt                    | 500.00  |                 | 11       | Alexander Voigt                    | 50.00   |
+| 10       | Durga P.B. Nasika                  | 500.00  |                 | 10       | Durga P.B. Nasika                  | 50.00   |
+| 11       | Divya Sree Madichati               | 500.00  |                 | 11       | Divya Sree Madichati               | 50.00   |
+| 12       | Arne Wischmann                     | 500.00  |                 | 12       | Arne Wischmann                     | 50.00   |
+| 13       | Alexander Voigt                    | 500.00  |                 | 13       | Alexander Voigt                    | 50.00   |
 # HSC-rankings
 These are our internal rankings. Each player gets a BAX \[1\] and a PBR \[2\] for each discipline (Wo/Men's singles, Wo/Men's doubles, mixed doubles). There is also an additional BAX and PBR for each player for matches that are in neihter of the aforementioned disciplines, i.e. a male vs. female singles match.
 
