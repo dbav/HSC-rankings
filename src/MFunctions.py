@@ -5,7 +5,7 @@ from CPlayerlist import Playerlist
 from CPlayer import Player
 from CMatch import Match
 from MPaths import readmemdpath, readmepath
-from random import random, randrange#, choice
+from random import random, choice
 ########################################################################
 #%% printing constants     #############################################
 ########################################################################
@@ -293,141 +293,137 @@ def print_random_matches(matches):
   print("")
   for i, item in enumerate(matches):
     print("")
-    print("{0:3d}: {1:^70s}".format(i, item))
+    print("{0:2d}: {1:s}".format(i+1, item))
     print("")
   print("")
   print(borderstr)
   print(borderstr)
   print("")
+def match2str(matches):
+  matchstrs = []
+  for i in matches:
+    if (len(i) == 4):
+      # UDD, MX or *D match
+      matchstrA = ", ".join([j.name for j in i[0:2]])
+      matchstrB = ", ".join([j.name for j in i[2:4]])
+      matchstr  = " *vs.* ".join([matchstrA, matchstrB])
+      if (i[0].gender != i[1].gender and i[2].gender != i[3].gender):
+        # MX match
+        baxA = 0.5*(i[0].bax_m + i[1].bax_m)
+        baxB = 0.5*(i[2].bax_m + i[3].bax_m)
+        pbrA = 0.5*(i[0].pbr_m + i[1].pbr_m)
+        pbrB = 0.5*(i[2].pbr_m + i[3].pbr_m)
+        if (abs(baxA - baxB) > 30.0 or abs(pbrA - pbrB) > 12.0):
+          matchstr += " *(FORBIDDEN)*"
+      elif (i[0].gender == i[1].gender and i[1].gender == i[2].gender and i[2].gender == i[3].gender):
+        # *D match
+        baxA = 0.5*(i[0].bax_d + i[1].bax_d)
+        baxB = 0.5*(i[2].bax_d + i[3].bax_d)
+        pbrA = 0.5*(i[0].pbr_d + i[1].pbr_d)
+        pbrB = 0.5*(i[2].pbr_d + i[3].pbr_d)
+        if (abs(baxA - baxB) > 30.0 or abs(pbrA - pbrB) > 12.0):
+          matchstr += " *(FORBIDDEN)*"
+      else:
+        # UDD match
+        baxA = 0.5*(i[0].bax_u + i[1].bax_u)
+        baxB = 0.5*(i[2].bax_u + i[3].bax_u)
+        pbrA = 0.5*(i[0].pbr_u + i[1].pbr_u)
+        pbrB = 0.5*(i[2].pbr_u + i[3].pbr_u)
+        if (abs(baxA - baxB) > 30.0 or abs(pbrA - pbrB) > 12.0):
+          matchstr += " *(FORBIDDEN)*"
+    elif (len(i) == 2):
+      matchstr  = " *vs.* ".join([j.name for j in i])
+      # UDS or *S match
+      if (i[0].gender == i[1].gender):
+        # *S match
+        if (abs(i[0].bax_s - i[1].bax_s) > 30.0 or abs(i[0].pbr_s - i[1].pbr_s) > 12.0):
+          matchstr += " *(FORBIDDEN)*"
+      else:
+        # UDS match
+        if (abs(i[0].bax_u - i[1].bax_u) > 30.0 or abs(i[0].pbr_u - i[1].pbr_u) > 12.0):
+          matchstr += " *(FORBIDDEN)*"
+    matchstrs.append(matchstr)
+  return(matchstrs)
+def draw_players(players, allplayers, allmales, allfemales, *args):
+  match = []
+  match.append(choice(players))
+  sexA  = match[0].gender
+  for i in args[1:]:
+    if (i == "any"):
+      while(True):
+        tmp = choice(allplayers)
+        if not (tmp.name in [j.name for j in match]):
+          break
+    elif (i == "same"):
+      if (sexA == "m"):
+        while(True):
+          tmp = choice(allmales)
+          if not (tmp.name in [j.name for j in match]):
+            break
+      elif (sexA == "f"):
+        while(True):
+          tmp = choice(allfemales)
+          if not (tmp.name in [j.name for j in match]):
+            break
+      else:
+        raise ValueError("gender error in same draw in draw_players()")
+    elif (i == "other"):
+      if (sexA == "m"):
+        while(True):
+          tmp = choice(allfemales)
+          if not (tmp.name in [j.name for j in match]):
+            break
+      elif (sexA == "f"):
+        while(True):
+          tmp = choice(allmales)
+          if not (tmp.name in [j.name for j in match]):
+            break
+      else:
+        raise ValueError("gender error in other draw in draw_players()")
+    else:
+      raise ValueError("error in draw_players()")
+    match.append(tmp)
+  return(match)
 def draw_random_matches():
-  maxretries = 4
   playerlist = Playerlist()
   players    = [Player.load(i) for i in playerlist.ids]
+  allplayers = players[:]
   males      = [i for i in players if i.gender == "m"]
+  allmales   = males[:]
   females    = [i for i in players if i.gender == "f"]
+  allfemales = females[:]
   matches    = []
-  retries    = 0
-  while (len(players) >= 2):
-    if (retries > maxretries):
-      print_random_matches(matches)
-    rng        = random()
-    if (rng <= 0.7):
-      # any match
-      tmpplayers = players.copy()
+  while (len(players) >= 1):
+    match_type = ""
+    rng = random()
+    if (rng <= 0.19):
+      # UD match
       rng = random()
       if (rng <= 0.5):
-        # any doubles
-        if (len(tmpplayers) < 4):
-          retries += 1
-          continue
-        sideAA = tmpplayers.pop(randrange(len(tmpplayers)))
-        sideAB = tmpplayers.pop(randrange(len(tmpplayers)))
-        sideA  = "{0:s},{1:s}".format(sideAA.name, sideAB.name)
-        sideBA = tmpplayers.pop(randrange(len(tmpplayers)))
-        sideBB = tmpplayers.pop(randrange(len(tmpplayers)))
-        sideB  = "{0:s},{1:s}".format(sideBA.name, sideBB.name)
-        match  = sideA+" vs. "+sideB
-        pbrs   = [sideAA.pbr_d, sideAB.pbr_d, sideBA.pbr_d, sideBB.pbr_d]
-        if (max(pbrs) - min(pbrs) > 12.0):
-          match += " !!! FORBIDDEN !!!"
-        if (retries < maxretries and "FORBIDDEN" in match):
-          retries += 1
-          continue
-        else:
-          matches.append(match)
-          players = tmpplayers.copy()
-          retries = 0
+        # UD doubles
+        match = draw_players(players, allplayers, allmales, allfemales, "any", "any", "any", "any")
+      elif (rng <= 1.0):
+        # UD singles
+        match = draw_players(players, allplayers, allmales, allfemales, "any", "any")
       else:
-        # any singles
-        if (len(tmpplayers) < 2):
-          retries += 1
-          continue
-        sideA  = tmpplayers.pop(randrange(len(tmpplayers)))
-        sideB  = tmpplayers.pop(randrange(len(tmpplayers)))
-        match  = "{0:s} vs. {1:s}".format(sideA.name, sideB.name)
-        pbrs   = [sideA.pbr_s, sideB.pbr_s]
-        if (max(pbrs) - min(pbrs) > 12.0):
-          match += " !!! FORBIDDEN !!!"
-        if (retries < maxretries and "FORBIDDEN" in match):
-          retries += 1
-          continue
-        else:
-          matches.append(match)
-          players = tmpplayers.copy()
-          retries = 0
-    elif (rng <= 0.8):
-      # mixed
-      males   = [i for i in players if i.gender == "m"]
-      females = [i for i in players if i.gender == "f"]
-      if (len(males) < 2 or len(females) < 2):
-        retries += 1
-        continue
-      sideAA  = males.pop(randrange(len(males)))
-      sideAB  = females.pop(randrange(len(females)))
-      sideA   = "{0:s},{1:s}".format(sideAA.name, sideAB.name)
-      sideBA  = males.pop(randrange(len(males)))
-      sideBB  = females.pop(randrange(len(females)))
-      sideB   = "{0:s},{1:s}".format(sideBA.name, sideBB.name)
-      match   = sideA+" vs. "+sideB
-      pbrs    = [sideAA.pbr_m, sideAB.pbr_m, sideBA.pbr_m, sideBB.pbr_m]
-      if (max(pbrs) - min(pbrs) > 12.0):
-        match += " !!! FORBIDDEN !!!"
-      if (retries < maxretries and "FORBIDDEN" in match):
-        retries += 1
-        continue
-      else:
-        matches.append(match)
-        players = males.copy()+females.copy()
-        retries = 0
-    elif (rng <= 0.9):
-      # doubles
-      males      = [i for i in players if i.gender == "m"]
-      females    = [i for i in players if i.gender == "f"]
-      rng = random()
-      tmpplayers = males if rng <= 0.5 else females
-      if (len(tmpplayers) < 4):
-        retries += 1
-        continue
-      sideAA = tmpplayers.pop(randrange(len(tmpplayers)))
-      sideAB = tmpplayers.pop(randrange(len(tmpplayers)))
-      sideA  = "{0:s},{1:s}".format(sideAA.name, sideAB.name)
-      sideBA = tmpplayers.pop(randrange(len(tmpplayers)))
-      sideBB = tmpplayers.pop(randrange(len(tmpplayers)))
-      sideB  = "{0:s},{1:s}".format(sideBA.name, sideBB.name)
-      match  = sideA+" vs. "+sideB
-      pbrs   = [sideAA.pbr_d, sideAB.pbr_d, sideBA.pbr_d, sideBB.pbr_d]
-      if (max(pbrs) - min(pbrs) > 12.0):
-        match += " !!! FORBIDDEN !!!"
-      if (retries < maxretries and "FORBIDDEN" in match):
-        retries += 1
-        continue
-      else:
-        matches.append(match)
-        players = males.copy()+females.copy()
-        retries = 0
-    elif (rng <= 1.0):
-      # singles
-      males      = [i for i in players if i.gender == "m"]
-      females    = [i for i in players if i.gender == "f"]
-      rng = random()
-      tmpplayers = males if rng <= 0.5 else females
-      if (len(tmpplayers) < 2):
-        retries += 1
-        continue
-      sideA = tmpplayers.pop(randrange(len(tmpplayers)))
-      sideB = tmpplayers.pop(randrange(len(tmpplayers)))
-      match  = "{0:s} vs. {1:s}".format(sideA.name, sideB.name)
-      pbrs   = [sideA.pbr_s, sideB.pbr_s]
-      if (max(pbrs) - min(pbrs) > 12.0):
-        match += " !!! FORBIDDEN !!!"
-      if (retries < maxretries and "FORBIDDEN" in match):
-        retries += 1
-        continue
-      else:
-        matches.append(match)
-        players = males.copy()+females.copy()
-        retries = 0
-  print_random_matches(matches)
+        raise ValueError("Invalid random number in UD match draw")
+    elif (rng <= 0.46):
+      # MX match
+        match = draw_players(players, allplayers, allmales, allfemales, "any", "other", "same", "other")
+    elif (rng <= 0.73):
+      # *D match
+        match = draw_players(players, allplayers, allmales, allfemales, "any", "same", "same", "same")
+    elif (rng <= 1.00):
+      # *S match
+        match = draw_players(players, allplayers, allmales, allfemales, "any", "same")
+    else:
+      raise ValueError("Invalid random number in draw_random_matches")
+    for i in match:
+      for j, jtem in enumerate(players):
+        if (i.name == jtem.name):
+          del players[j]
+    matches.append(match)
+  print_random_matches(match2str(matches))
 ########################################################################
 #%% create new player     ##############################################
 ########################################################################
