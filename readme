@@ -9,7 +9,7 @@ These are our internal rankings. Each player gets a BAX \[1\] and a PBR \[2\] fo
 - [ ] Add player statistics plots (radar charts would be nice with each axis representing one discipline)
 # Documentation
 ## Forbidden matches
-Players/Pairs whose PBR ratings differ by more than 12 points, are not allowed to compete in ranked matches (of course, exceptions can be made). The PBR rating system is no longer applicable in a meaningful manner when the competing players PBR rating differences are to large.
+Players/Pairs whose BAX (PBR) ratings differ by more than 30 (12) points, are not allowed to compete in ranked matches (of course, exceptions can be made). The rating systems are no longer applicable in a meaningful manner when the competing players rating differences are to large.
 ## Point Based Rating
 The Point Based Rating (PBR) is based on score differences of players `A` and `B` of a match `i`. It is based on the the average of the score (`S_i`) differences of the played games of a match. The average score difference,
 
