@@ -10,10 +10,11 @@
     "bax_m_history": [
         500.0
     ],
-    "bax_s": 502.1,
+    "bax_s": 498.86791304569607,
     "bax_s_history": [
         500.0,
-        502.1
+        502.1,
+        498.86791304569607
     ],
     "bax_u": 500.0,
     "bax_u_history": [
@@ -156,6 +157,34 @@
             "winner": [
                 "Sebastian Mootz"
             ]
+        },
+        {
+            "baxA": 505.4308917745286,
+            "baxB": 502.1,
+            "date": "2020- 1-17",
+            "games": [
+                [
+                    21,
+                    9
+                ],
+                [
+                    21,
+                    19
+                ]
+            ],
+            "pbrA": 52.083333333333336,
+            "pbrB": 50.33333333333333,
+            "score_difference": 7.0,
+            "sideA": [
+                "Tobias Henschel"
+            ],
+            "sideB": [
+                "Sebastian Mootz"
+            ],
+            "type": "Men's singles",
+            "winner": [
+                "Tobias Henschel"
+            ]
         }
     ],
     "matches_u": [],
@@ -172,10 +201,11 @@
     "pbr_m_history": [
         50.0
     ],
-    "pbr_s": 50.33333333333333,
+    "pbr_s": 47.70833333333333,
     "pbr_s_history": [
         50.0,
-        50.33333333333333
+        50.33333333333333,
+        47.70833333333333
     ],
     "pbr_u": 50.0,
     "pbr_u_history": [

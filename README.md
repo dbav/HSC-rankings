@@ -3,28 +3,29 @@
 |          |                                    |         | **Rankings UD** |          |                                    |         |
 | **Rank** | **Name**                           | **BAX** |                 | **Rank** | **Name**                           | **PBR** |
 | 1        | Alexander Voigt                    | 503.50  |                 | 1        | Alexander Voigt                    | 57.75   |
-| 2        | Tobias Henschel                    | 500.00  |                 | 2        | Tobias Henschel                    | 50.00   |
-| 3        | Till Staude                        | 500.00  |                 | 3        | Till Staude                        | 50.00   |
-| 4        | Sebastian Mootz                    | 500.00  |                 | 4        | Sebastian Mootz                    | 50.00   |
-| 5        | Norman Lahr                        | 500.00  |                 | 5        | Norman Lahr                        | 50.00   |
-| 6        | Matti Rohlf                        | 500.00  |                 | 6        | Matti Rohlf                        | 50.00   |
-| 7        | Lea Song-I Park                    | 500.00  |                 | 7        | Lea Song-I Park                    | 50.00   |
-| 8        | Johannes Rosenzweig                | 500.00  |                 | 8        | Johannes Rosenzweig                | 50.00   |
-| 9        | Hark Empen                         | 500.00  |                 | 9        | Hark Empen                         | 50.00   |
-| 10       | Durga P.B. Nasika                  | 500.00  |                 | 10       | Durga P.B. Nasika                  | 50.00   |
-| 11       | Divya Sree Madichati               | 500.00  |                 | 11       | Divya Sree Madichati               | 50.00   |
-| 12       | Arne Wischmann                     | 500.00  |                 | 12       | Arne Wischmann                     | 50.00   |
-| 13       | Laura Preuß                        | 496.50  |                 | 13       | Laura Preuß                        | 42.25   |
+| 2        | Woon Hong Kwa                      | 500.00  |                 | 2        | Woon Hong Kwa                      | 50.00   |
+| 3        | Tobias Henschel                    | 500.00  |                 | 3        | Tobias Henschel                    | 50.00   |
+| 4        | Till Staude                        | 500.00  |                 | 4        | Till Staude                        | 50.00   |
+| 5        | Sebastian Mootz                    | 500.00  |                 | 5        | Sebastian Mootz                    | 50.00   |
+| 6        | Norman Lahr                        | 500.00  |                 | 6        | Norman Lahr                        | 50.00   |
+| 7        | Matti Rohlf                        | 500.00  |                 | 7        | Matti Rohlf                        | 50.00   |
+| 8        | Lea Song-I Park                    | 500.00  |                 | 8        | Lea Song-I Park                    | 50.00   |
+| 9        | Johannes Rosenzweig                | 500.00  |                 | 9        | Johannes Rosenzweig                | 50.00   |
+| 10       | Hark Empen                         | 500.00  |                 | 10       | Hark Empen                         | 50.00   |
+| 11       | Durga P.B. Nasika                  | 500.00  |                 | 11       | Durga P.B. Nasika                  | 50.00   |
+| 12       | Divya Sree Madichati               | 500.00  |                 | 12       | Divya Sree Madichati               | 50.00   |
+| 13       | Arne Wischmann                     | 500.00  |                 | 13       | Arne Wischmann                     | 50.00   |
+| 14       | Laura Preuß                        | 496.50  |                 | 14       | Laura Preuß                        | 42.25   |
 |          |                                    |         | **Rankings MS** |          |                                    |         |
 | **Rank** | **Name**                           | **BAX** |                 | **Rank** | **Name**                           | **PBR** |
-| 1        | Tobias Henschel                    | 505.43  |                 | 1        | Hark Empen                         | 54.29   |
-| 2        | Johannes Rosenzweig                | 503.50  |                 | 2        | Tobias Henschel                    | 52.08   |
+| 1        | Tobias Henschel                    | 508.66  |                 | 1        | Tobias Henschel                    | 54.71   |
+| 2        | Johannes Rosenzweig                | 503.50  |                 | 2        | Hark Empen                         | 54.29   |
 | 3        | Alexander Voigt                    | 503.40  |                 | 3        | Johannes Rosenzweig                | 52.00   |
-| 4        | Sebastian Mootz                    | 502.10  |                 | 4        | Alexander Voigt                    | 51.25   |
-| 5        | Hark Empen                         | 500.44  |                 | 5        | Sebastian Mootz                    | 50.33   |
-| 6        | Arne Wischmann                     | 500.00  |                 | 6        | Arne Wischmann                     | 50.00   |
-| 7        | Till Staude                        | 497.90  |                 | 7        | Till Staude                        | 49.67   |
-| 8        | Durga P.B. Nasika                  | 496.49  |                 | 8        | Matti Rohlf                        | 48.33   |
+| 4        | Hark Empen                         | 500.44  |                 | 4        | Alexander Voigt                    | 51.25   |
+| 5        | Arne Wischmann                     | 500.00  |                 | 5        | Arne Wischmann                     | 50.00   |
+| 6        | Sebastian Mootz                    | 498.87  |                 | 6        | Till Staude                        | 49.67   |
+| 7        | Till Staude                        | 497.90  |                 | 7        | Matti Rohlf                        | 48.33   |
+| 8        | Durga P.B. Nasika                  | 496.49  |                 | 8        | Sebastian Mootz                    | 47.71   |
 | 9        | Norman Lahr                        | 496.23  |                 | 9        | Durga P.B. Nasika                  | 46.75   |
 | 10       | Matti Rohlf                        | 494.51  |                 | 10       | Norman Lahr                        | 45.29   |
 |          |                                    |         | **Rankings MD** |          |                                    |         |
@@ -41,29 +42,32 @@
 | 10       | Sebastian Mootz                    | 491.64  |                 | 10       | Sebastian Mootz                    | 46.45   |
 |          |                                    |         | **Rankings WS** |          |                                    |         |
 | **Rank** | **Name**                           | **BAX** |                 | **Rank** | **Name**                           | **PBR** |
-| 1        | Lea Song-I Park                    | 500.00  |                 | 1        | Lea Song-I Park                    | 50.00   |
-| 2        | Laura Preuß                        | 500.00  |                 | 2        | Laura Preuß                        | 50.00   |
-| 3        | Divya Sree Madichati               | 500.00  |                 | 3        | Divya Sree Madichati               | 50.00   |
+| 1        | Woon Hong Kwa                      | 500.00  |                 | 1        | Woon Hong Kwa                      | 50.00   |
+| 2        | Lea Song-I Park                    | 500.00  |                 | 2        | Lea Song-I Park                    | 50.00   |
+| 3        | Laura Preuß                        | 500.00  |                 | 3        | Laura Preuß                        | 50.00   |
+| 4        | Divya Sree Madichati               | 500.00  |                 | 4        | Divya Sree Madichati               | 50.00   |
 |          |                                    |         | **Rankings WD** |          |                                    |         |
 | **Rank** | **Name**                           | **BAX** |                 | **Rank** | **Name**                           | **PBR** |
-| 1        | Lea Song-I Park                    | 500.00  |                 | 1        | Lea Song-I Park                    | 50.00   |
-| 2        | Laura Preuß                        | 500.00  |                 | 2        | Laura Preuß                        | 50.00   |
-| 3        | Divya Sree Madichati               | 500.00  |                 | 3        | Divya Sree Madichati               | 50.00   |
+| 1        | Woon Hong Kwa                      | 500.00  |                 | 1        | Woon Hong Kwa                      | 50.00   |
+| 2        | Lea Song-I Park                    | 500.00  |                 | 2        | Lea Song-I Park                    | 50.00   |
+| 3        | Laura Preuß                        | 500.00  |                 | 3        | Laura Preuß                        | 50.00   |
+| 4        | Divya Sree Madichati               | 500.00  |                 | 4        | Divya Sree Madichati               | 50.00   |
 |          |                                    |         | **Rankings MX** |          |                                    |         |
 | **Rank** | **Name**                           | **BAX** |                 | **Rank** | **Name**                           | **PBR** |
-| 1        | Tobias Henschel                    | 500.00  |                 | 1        | Tobias Henschel                    | 50.00   |
-| 2        | Till Staude                        | 500.00  |                 | 2        | Till Staude                        | 50.00   |
-| 3        | Sebastian Mootz                    | 500.00  |                 | 3        | Sebastian Mootz                    | 50.00   |
-| 4        | Norman Lahr                        | 500.00  |                 | 4        | Norman Lahr                        | 50.00   |
-| 5        | Matti Rohlf                        | 500.00  |                 | 5        | Matti Rohlf                        | 50.00   |
-| 6        | Lea Song-I Park                    | 500.00  |                 | 6        | Lea Song-I Park                    | 50.00   |
-| 7        | Laura Preuß                        | 500.00  |                 | 7        | Laura Preuß                        | 50.00   |
-| 8        | Johannes Rosenzweig                | 500.00  |                 | 8        | Johannes Rosenzweig                | 50.00   |
-| 9        | Hark Empen                         | 500.00  |                 | 9        | Hark Empen                         | 50.00   |
-| 10       | Durga P.B. Nasika                  | 500.00  |                 | 10       | Durga P.B. Nasika                  | 50.00   |
-| 11       | Divya Sree Madichati               | 500.00  |                 | 11       | Divya Sree Madichati               | 50.00   |
-| 12       | Arne Wischmann                     | 500.00  |                 | 12       | Arne Wischmann                     | 50.00   |
-| 13       | Alexander Voigt                    | 500.00  |                 | 13       | Alexander Voigt                    | 50.00   |
+| 1        | Woon Hong Kwa                      | 500.00  |                 | 1        | Woon Hong Kwa                      | 50.00   |
+| 2        | Tobias Henschel                    | 500.00  |                 | 2        | Tobias Henschel                    | 50.00   |
+| 3        | Till Staude                        | 500.00  |                 | 3        | Till Staude                        | 50.00   |
+| 4        | Sebastian Mootz                    | 500.00  |                 | 4        | Sebastian Mootz                    | 50.00   |
+| 5        | Norman Lahr                        | 500.00  |                 | 5        | Norman Lahr                        | 50.00   |
+| 6        | Matti Rohlf                        | 500.00  |                 | 6        | Matti Rohlf                        | 50.00   |
+| 7        | Lea Song-I Park                    | 500.00  |                 | 7        | Lea Song-I Park                    | 50.00   |
+| 8        | Laura Preuß                        | 500.00  |                 | 8        | Laura Preuß                        | 50.00   |
+| 9        | Johannes Rosenzweig                | 500.00  |                 | 9        | Johannes Rosenzweig                | 50.00   |
+| 10       | Hark Empen                         | 500.00  |                 | 10       | Hark Empen                         | 50.00   |
+| 11       | Durga P.B. Nasika                  | 500.00  |                 | 11       | Durga P.B. Nasika                  | 50.00   |
+| 12       | Divya Sree Madichati               | 500.00  |                 | 12       | Divya Sree Madichati               | 50.00   |
+| 13       | Arne Wischmann                     | 500.00  |                 | 13       | Arne Wischmann                     | 50.00   |
+| 14       | Alexander Voigt                    | 500.00  |                 | 14       | Alexander Voigt                    | 50.00   |
 # HSC-rankings
 These are our internal rankings. Each player gets a BAX \[1\] and a PBR \[2\] for each discipline (Wo/Men's singles, Wo/Men's doubles, mixed doubles). There is also an additional BAX and PBR for each player for matches that are in neihter of the aforementioned disciplines, i.e. a male vs. female singles match.
 
@@ -75,7 +79,7 @@ These are our internal rankings. Each player gets a BAX \[1\] and a PBR \[2\] fo
 - [ ] Add player statistics plots (radar charts would be nice with each axis representing one discipline)
 # Documentation
 ## Forbidden matches
-Players/Pairs whose PBR ratings differ by more than 12 points, are not allowed to compete in ranked matches (of course, exceptions can be made). The PBR rating system is no longer applicable in a meaningful manner when the competing players PBR rating differences are to large.
+Players/Pairs whose BAX (PBR) ratings differ by more than 30 (12) points, are not allowed to compete in ranked matches (of course, exceptions can be made). The rating systems are no longer applicable in a meaningful manner when the competing players rating differences are to large.
 ## Point Based Rating
 The Point Based Rating (PBR) is based on score differences of players `A` and `B` of a match `i`. It is based on the the average of the score (`S_i`) differences of the played games of a match. The average score difference,
 
