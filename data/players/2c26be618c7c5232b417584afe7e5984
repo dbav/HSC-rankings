@@ -1,20 +1,23 @@
 {
-    "bax_d": 491.6369781092132,
+    "bax_d": 486.2577861267157,
     "bax_d_history": [
         500.0,
         496.5,
         493.28145759826623,
-        491.6369781092132
+        491.6369781092132,
+        488.74732232177973,
+        486.2577861267157
     ],
     "bax_m": 500.0,
     "bax_m_history": [
         500.0
     ],
-    "bax_s": 498.86791304569607,
+    "bax_s": 495.95998403078124,
     "bax_s_history": [
         500.0,
         502.1,
-        498.86791304569607
+        498.86791304569607,
+        495.95998403078124
     ],
     "bax_u": 500.0,
     "bax_u_history": [
@@ -120,6 +123,68 @@
                 "Till Staude",
                 "Alexander Voigt"
             ]
+        },
+        {
+            "baxA": 495.81848905460663,
+            "baxB": 499.2885820771429,
+            "date": "2020- 1-21",
+            "games": [
+                [
+                    16,
+                    21
+                ],
+                [
+                    25,
+                    27
+                ]
+            ],
+            "pbrA": 48.2265625,
+            "pbrB": 50.75081380208333,
+            "score_difference": -3.5,
+            "sideA": [
+                "Kevin Erkelenz",
+                "Sebastian Mootz"
+            ],
+            "sideB": [
+                "Matti Rohlf",
+                "Johannes Rosenzweig"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Matti Rohlf",
+                "Johannes Rosenzweig"
+            ]
+        },
+        {
+            "baxA": 501.6524601858043,
+            "baxB": 493.93176838106706,
+            "date": "2020- 1-21",
+            "games": [
+                [
+                    21,
+                    13
+                ],
+                [
+                    21,
+                    18
+                ]
+            ],
+            "pbrA": 50.8837890625,
+            "pbrB": 47.56856282552083,
+            "score_difference": 5.5,
+            "sideA": [
+                "Tobias Henschel",
+                "Matti Rohlf"
+            ],
+            "sideB": [
+                "Sebastian Mootz",
+                "Alexander Voigt"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Tobias Henschel",
+                "Matti Rohlf"
+            ]
         }
     ],
     "matches_m": [],
@@ -185,27 +250,58 @@
             "winner": [
                 "Tobias Henschel"
             ]
+        },
+        {
+            "baxA": 498.86791304569607,
+            "baxB": 506.2858809454626,
+            "date": "2020- 1-21",
+            "games": [
+                [
+                    16,
+                    21
+                ],
+                [
+                    22,
+                    24
+                ]
+            ],
+            "pbrA": 47.70833333333333,
+            "pbrB": 54.666666666666664,
+            "score_difference": -3.5,
+            "sideA": [
+                "Sebastian Mootz"
+            ],
+            "sideB": [
+                "Johannes Rosenzweig"
+            ],
+            "type": "Men's singles",
+            "winner": [
+                "Johannes Rosenzweig"
+            ]
         }
     ],
     "matches_u": [],
     "matches_u_history": [],
     "name": "Sebastian Mootz",
-    "pbr_d": 46.453125,
+    "pbr_d": 46.11787923177083,
     "pbr_d_history": [
         50.0,
         47.5,
         44.5,
-        46.453125
+        46.453125,
+        46.851969401041664,
+        46.11787923177083
     ],
     "pbr_m": 50.0,
     "pbr_m_history": [
         50.0
     ],
-    "pbr_s": 47.70833333333333,
+    "pbr_s": 49.4375,
     "pbr_s_history": [
         50.0,
         50.33333333333333,
-        47.70833333333333
+        47.70833333333333,
+        49.4375
     ],
     "pbr_u": 50.0,
     "pbr_u_history": [

@@ -1,22 +1,26 @@
 {
-    "bax_d": 494.2504651472808,
+    "bax_d": 504.59399340695643,
     "bax_d_history": [
         500.0,
         496.51134136153087,
         495.00108913939533,
         493.21973735677676,
         495.9150301886228,
-        494.2504651472808
+        494.2504651472808,
+        497.8767780624467,
+        501.0597194251465,
+        504.59399340695643
     ],
     "bax_m": 500.0,
     "bax_m_history": [
         500.0
     ],
-    "bax_s": 494.5127876036887,
+    "bax_s": 491.7269066582261,
     "bax_s_history": [
         500.0,
         496.5,
-        494.5127876036887
+        494.5127876036887,
+        491.7269066582261
     ],
     "bax_u": 500.0,
     "bax_u_history": [
@@ -196,6 +200,99 @@
                 "Johannes Rosenzweig",
                 "Arne Wischmann"
             ]
+        },
+        {
+            "baxA": 495.81848905460663,
+            "baxB": 499.2885820771429,
+            "date": "2020- 1-21",
+            "games": [
+                [
+                    16,
+                    21
+                ],
+                [
+                    25,
+                    27
+                ]
+            ],
+            "pbrA": 48.2265625,
+            "pbrB": 50.75081380208333,
+            "score_difference": -3.5,
+            "sideA": [
+                "Kevin Erkelenz",
+                "Sebastian Mootz"
+            ],
+            "sideB": [
+                "Matti Rohlf",
+                "Johannes Rosenzweig"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Matti Rohlf",
+                "Johannes Rosenzweig"
+            ]
+        },
+        {
+            "baxA": 501.6524601858043,
+            "baxB": 493.93176838106706,
+            "date": "2020- 1-21",
+            "games": [
+                [
+                    21,
+                    13
+                ],
+                [
+                    21,
+                    18
+                ]
+            ],
+            "pbrA": 50.8837890625,
+            "pbrB": 47.56856282552083,
+            "score_difference": 5.5,
+            "sideA": [
+                "Tobias Henschel",
+                "Matti Rohlf"
+            ],
+            "sideB": [
+                "Sebastian Mootz",
+                "Alexander Voigt"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Tobias Henschel",
+                "Matti Rohlf"
+            ]
+        },
+        {
+            "baxA": 504.54120728370117,
+            "baxB": 501.48501876789294,
+            "date": "2020- 1-21",
+            "games": [
+                [
+                    21,
+                    17
+                ],
+                [
+                    21,
+                    12
+                ]
+            ],
+            "pbrA": 51.976175944010414,
+            "pbrB": 49.438802083333336,
+            "score_difference": 6.5,
+            "sideA": [
+                "Tobias Henschel",
+                "Matti Rohlf"
+            ],
+            "sideB": [
+                "Johannes Rosenzweig",
+                "Alexander Voigt"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Tobias Henschel",
+                "Matti Rohlf"
+            ]
         }
     ],
     "matches_m": [],
@@ -261,29 +358,61 @@
             "winner": [
                 "Alexander Voigt"
             ]
+        },
+        {
+            "baxA": 494.5127876036887,
+            "baxB": 503.5,
+            "date": "2020- 1-21",
+            "games": [
+                [
+                    13,
+                    21
+                ],
+                [
+                    11,
+                    21
+                ]
+            ],
+            "pbrA": 48.33333333333333,
+            "pbrB": 52.0,
+            "score_difference": -9.0,
+            "sideA": [
+                "Matti Rohlf"
+            ],
+            "sideB": [
+                "Johannes Rosenzweig"
+            ],
+            "type": "Men's singles",
+            "winner": [
+                "Johannes Rosenzweig"
+            ]
         }
     ],
     "matches_u": [],
     "matches_u_history": [],
     "name": "Matti Rohlf",
-    "pbr_d": 49.14192708333333,
+    "pbr_d": 53.845102945963546,
     "pbr_d_history": [
         50.0,
         48.25,
         51.60416666666667,
         50.005208333333336,
         51.1171875,
-        49.14192708333333
+        49.14192708333333,
+        50.434244791666664,
+        51.75140380859375,
+        53.845102945963546
     ],
     "pbr_m": 50.0,
     "pbr_m_history": [
         50.0
     ],
-    "pbr_s": 48.33333333333333,
+    "pbr_s": 45.666666666666664,
     "pbr_s_history": [
         50.0,
         48.0,
-        48.33333333333333
+        48.33333333333333,
+        45.666666666666664
     ],
     "pbr_u": 50.0,
     "pbr_u_history": [

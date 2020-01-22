@@ -1,20 +1,24 @@
 {
-    "bax_d": 504.32669900700495,
+    "bax_d": 503.43969401850404,
     "bax_d_history": [
         500.0,
         503.5,
         506.71854240173377,
         502.6924499821811,
-        504.32669900700495
+        504.32669900700495,
+        507.14965788475206,
+        503.43969401850404
     ],
     "bax_m": 500.0,
     "bax_m_history": [
         500.0
     ],
-    "bax_s": 503.5,
+    "bax_s": 509.19380996037745,
     "bax_s_history": [
         500.0,
-        503.5
+        503.5,
+        506.2858809454626,
+        509.19380996037745
     ],
     "bax_u": 500.0,
     "bax_u_history": [
@@ -151,6 +155,68 @@
                 "Johannes Rosenzweig",
                 "Arne Wischmann"
             ]
+        },
+        {
+            "baxA": 495.81848905460663,
+            "baxB": 499.2885820771429,
+            "date": "2020- 1-21",
+            "games": [
+                [
+                    16,
+                    21
+                ],
+                [
+                    25,
+                    27
+                ]
+            ],
+            "pbrA": 48.2265625,
+            "pbrB": 50.75081380208333,
+            "score_difference": -3.5,
+            "sideA": [
+                "Kevin Erkelenz",
+                "Sebastian Mootz"
+            ],
+            "sideB": [
+                "Matti Rohlf",
+                "Johannes Rosenzweig"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Matti Rohlf",
+                "Johannes Rosenzweig"
+            ]
+        },
+        {
+            "baxA": 504.54120728370117,
+            "baxB": 501.48501876789294,
+            "date": "2020- 1-21",
+            "games": [
+                [
+                    21,
+                    17
+                ],
+                [
+                    21,
+                    12
+                ]
+            ],
+            "pbrA": 51.976175944010414,
+            "pbrB": 49.438802083333336,
+            "score_difference": 6.5,
+            "sideA": [
+                "Tobias Henschel",
+                "Matti Rohlf"
+            ],
+            "sideB": [
+                "Johannes Rosenzweig",
+                "Alexander Voigt"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Tobias Henschel",
+                "Matti Rohlf"
+            ]
         }
     ],
     "matches_m": [],
@@ -184,27 +250,87 @@
             "winner": [
                 "Johannes Rosenzweig"
             ]
+        },
+        {
+            "baxA": 494.5127876036887,
+            "baxB": 503.5,
+            "date": "2020- 1-21",
+            "games": [
+                [
+                    13,
+                    21
+                ],
+                [
+                    11,
+                    21
+                ]
+            ],
+            "pbrA": 48.33333333333333,
+            "pbrB": 52.0,
+            "score_difference": -9.0,
+            "sideA": [
+                "Matti Rohlf"
+            ],
+            "sideB": [
+                "Johannes Rosenzweig"
+            ],
+            "type": "Men's singles",
+            "winner": [
+                "Johannes Rosenzweig"
+            ]
+        },
+        {
+            "baxA": 498.86791304569607,
+            "baxB": 506.2858809454626,
+            "date": "2020- 1-21",
+            "games": [
+                [
+                    16,
+                    21
+                ],
+                [
+                    22,
+                    24
+                ]
+            ],
+            "pbrA": 47.70833333333333,
+            "pbrB": 54.666666666666664,
+            "score_difference": -3.5,
+            "sideA": [
+                "Sebastian Mootz"
+            ],
+            "sideB": [
+                "Johannes Rosenzweig"
+            ],
+            "type": "Men's singles",
+            "winner": [
+                "Johannes Rosenzweig"
+            ]
         }
     ],
     "matches_u": [],
     "matches_u_history": [],
     "name": "Johannes Rosenzweig",
-    "pbr_d": 52.359700520833336,
+    "pbr_d": 48.759653727213546,
     "pbr_d_history": [
         50.0,
         52.5,
         55.5,
         51.0,
-        52.359700520833336
+        52.359700520833336,
+        52.04313151041667,
+        48.759653727213546
     ],
     "pbr_m": 50.0,
     "pbr_m_history": [
         50.0
     ],
-    "pbr_s": 52.0,
+    "pbr_s": 52.9375,
     "pbr_s_history": [
         50.0,
-        52.0
+        52.0,
+        54.666666666666664,
+        52.9375
     ],
     "pbr_u": 50.0,
     "pbr_u_history": [
