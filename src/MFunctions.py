@@ -11,7 +11,7 @@ from random import random, choice
 ########################################################################
 borderstr      = "{0:#^72s}".format("")
 messagefmt     = "{0:#^18s}     {{0: ^26s}}     {0:#^18s}".format("")
-tablerowfmt    = "| {0: <8s} | {1: <34s} | {2: <7s} | {3: <15s} | {0: <8s} | {4: <34s} | {5: <7s} |\n"
+tablerowfmt    = "| {rank: <8s} | {baxname: <29s} {baxnmatches: >4s} | {bax: <7s} | {empty: <15s} | {rank: <8s} | {pbrname: <29s} {pbrnmatches: >4s} | {pbr: <7s} |\n"
 tableheaderfmt = "|{0:-<10s}|{0:-<36s}|{0:-<9s}|{0:-<17s}|{0:-<10s}|{0:-<36s}|{0:-<9s}|\n".format("")
 ########################################################################
 #%% prints the menu     ################################################
@@ -233,23 +233,23 @@ def create_ranking(type):
   for i in playerlist.ids:
     player = Player.load(i)
     if (type == "ms" and player.gender == "m"):
-      baxlist.append((player.bax_s, player.name))
-      pbrlist.append((player.pbr_s, player.name))
+      baxlist.append((player.bax_s, player.name, len(player.bax_s_history)-1))
+      pbrlist.append((player.pbr_s, player.name, len(player.pbr_s_history)-1))
     elif (type == "md" and player.gender == "m"):
-      baxlist.append((player.bax_d, player.name))
-      pbrlist.append((player.pbr_d, player.name))
+      baxlist.append((player.bax_d, player.name, len(player.bax_d_history)-1))
+      pbrlist.append((player.pbr_d, player.name, len(player.pbr_d_history)-1))
     elif (type == "ws" and player.gender == "f"):
-      baxlist.append((player.bax_s, player.name))
-      pbrlist.append((player.pbr_s, player.name))
+      baxlist.append((player.bax_s, player.name, len(player.bax_s_history)-1))
+      pbrlist.append((player.pbr_s, player.name, len(player.pbr_s_history)-1))
     elif (type == "wd" and player.gender == "f"):
-      baxlist.append((player.bax_d, player.name))
-      pbrlist.append((player.pbr_d, player.name))
+      baxlist.append((player.bax_d, player.name, len(player.bax_d_history)-1))
+      pbrlist.append((player.pbr_d, player.name, len(player.pbr_d_history)-1))
     elif (type == "mx"):
-      baxlist.append((player.bax_m, player.name))
-      pbrlist.append((player.pbr_m, player.name))
+      baxlist.append((player.bax_m, player.name, len(player.bax_m_history)-1))
+      pbrlist.append((player.pbr_m, player.name, len(player.pbr_m_history)-1))
     elif (type == "ud"):
-      baxlist.append((player.bax_u, player.name))
-      pbrlist.append((player.pbr_u, player.name))
+      baxlist.append((player.bax_u, player.name, len(player.bax_u_history)-1))
+      pbrlist.append((player.pbr_u, player.name, len(player.pbr_u_history)-1))
   baxlist.sort(reverse=True)
   pbrlist.sort(reverse=True)
   assert(len(baxlist) == len(pbrlist))
@@ -264,21 +264,21 @@ def show_ranking(type):
   print("")
   print("{0:_^34}____{1:_^34}".format("BAX","PBR"))
   for i in range(len(baxlist)):
-    print("{4: >2d} {0: <25s} {1: <6.2f} | {4: >2d} {2: <25s} {3: <6.2f}".format(baxlist[i][1], baxlist[i][0], pbrlist[i][1], pbrlist[i][0], i+1))
+    print("{rank: >2d} {baxname: <20s} ({baxnmatches: >2d}) {bax: <6.2f} | {rank: >2d} {pbrname: <20s} ({pbrnmatches: >2d}) {pbr: <6.2f}".format(baxname=baxlist[i][1], bax=baxlist[i][0], baxnmatches=baxlist[i][2], pbrname=pbrlist[i][1], pbr=pbrlist[i][0], pbrnmatches=pbrlist[i][2], rank=i+1))
   print("")
   print(borderstr)
   print(borderstr)
   print("")    
 def update_rankings():
   with open(readmemdpath,"w") as outfile:
-    outfile.write(tablerowfmt.format("", "", "", "", "", ""))
+    outfile.write(tablerowfmt.format(rank="", baxname="", bax="", baxnmatches="", empty="", pbrname="", pbr="", pbrnmatches=""))
     outfile.write(tableheaderfmt)
     for type in ["ud", "ms", "md", "ws", "wd", "mx"]:
       baxlist, pbrlist = create_ranking(type)
-      outfile.write(tablerowfmt.format("", "", "", "**Rankings {0:s}**".format(type.upper()), "", ""))
-      outfile.write(tablerowfmt.format("**Rank**", "**Name**", "**BAX**", "", "**Name**", "**PBR**"))
+      outfile.write(tablerowfmt.format(rank="", baxname="", bax="", baxnmatches="", empty="**Rankings {0:s}**".format(type.upper()), pbrname="", pbr="", pbrnmatches=""))
+      outfile.write(tablerowfmt.format(rank="**Rank**", baxname="**Name (# of matches)**", bax="**BAX**", baxnmatches="", empty="", pbrname="**Name (# of matches)**", pbr="**PBR**", pbrnmatches=""))
       for i in range(len(baxlist)):
-        outfile.write(tablerowfmt.format("{0: <8d}".format(i+1), baxlist[i][1], "{0: <7.2f}".format(baxlist[i][0]), "", pbrlist[i][1], "{0: <7.2f}".format(pbrlist[i][0]) ))
+        outfile.write(tablerowfmt.format(rank="{0: <8d}".format(i+1), baxname=baxlist[i][1], bax="{0: <7.2f}".format(baxlist[i][0]), baxnmatches="({0: >2d})".format(baxlist[i][2]), empty="", pbrname=pbrlist[i][1], pbr="{0: <7.2f}".format(pbrlist[i][0]), pbrnmatches="({0: >2d})".format(pbrlist[i][2]) ))
     with open(readmepath, "r") as appendfile:
       outfile.write(appendfile.read())
 ########################################################################
