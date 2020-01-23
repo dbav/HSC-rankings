@@ -1,9 +1,10 @@
 {
-    "bax_d": 505.42814230916184,
+    "bax_d": 508.3742133406135,
     "bax_d_history": [
         500.0,
         503.77018664213324,
-        505.42814230916184
+        505.42814230916184,
+        508.3742133406135
     ],
     "bax_m": 500.0,
     "bax_m_history": [
@@ -88,6 +89,37 @@
             "winner": [
                 "Hark Empen",
                 "Tobias Henschel"
+            ]
+        },
+        {
+            "baxA": 506.2889000969569,
+            "baxB": 498.4964962514006,
+            "date": "2020- 1-21",
+            "games": [
+                [
+                    21,
+                    13
+                ],
+                [
+                    21,
+                    18
+                ]
+            ],
+            "pbrA": 51.688232421875,
+            "pbrB": 49.35970052083333,
+            "score_difference": 5.5,
+            "sideA": [
+                "Tobias Henschel",
+                "Johannes Rosenzweig"
+            ],
+            "sideB": [
+                "Matti Rohlf",
+                "Alexander Voigt"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Tobias Henschel",
+                "Johannes Rosenzweig"
             ]
         }
     ],
@@ -187,11 +219,12 @@
     "matches_u": [],
     "matches_u_history": [],
     "name": "Tobias Henschel",
-    "pbr_d": 51.33333333333333,
+    "pbr_d": 53.09651692708333,
     "pbr_d_history": [
         50.0,
         53.875,
-        51.33333333333333
+        51.33333333333333,
+        53.09651692708333
     ],
     "pbr_m": 50.0,
     "pbr_m_history": [
