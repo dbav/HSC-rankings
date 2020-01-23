@@ -1,5 +1,5 @@
 {
-    "bax_d": 509.96137945443553,
+    "bax_d": 505.8043068710209,
     "bax_d_history": [
         500.0,
         503.5,
@@ -7,7 +7,8 @@
         502.6924499821811,
         504.32669900700495,
         507.14965788475206,
-        509.96137945443553
+        509.96137945443553,
+        505.8043068710209
     ],
     "bax_m": 500.0,
     "bax_m_history": [
@@ -217,6 +218,37 @@
                 "Tobias Henschel",
                 "Johannes Rosenzweig"
             ]
+        },
+        {
+            "baxA": 501.71028767001826,
+            "baxB": 503.07522248788246,
+            "date": "2020- 1-21",
+            "games": [
+                [
+                    21,
+                    17
+                ],
+                [
+                    21,
+                    12
+                ]
+            ],
+            "pbrA": 50.70387776692708,
+            "pbrB": 50.34405517578125,
+            "score_difference": 6.5,
+            "sideA": [
+                "Tobias Henschel",
+                "Matti Rohlf"
+            ],
+            "sideB": [
+                "Johannes Rosenzweig",
+                "Alexander Voigt"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Tobias Henschel",
+                "Matti Rohlf"
+            ]
         }
     ],
     "matches_m": [],
@@ -311,7 +343,7 @@
     "matches_u": [],
     "matches_u_history": [],
     "name": "Johannes Rosenzweig",
-    "pbr_d": 53.451416015625,
+    "pbr_d": 48.82764689127604,
     "pbr_d_history": [
         50.0,
         52.5,
@@ -319,7 +351,8 @@
         51.0,
         52.359700520833336,
         52.04313151041667,
-        53.451416015625
+        53.451416015625,
+        48.82764689127604
     ],
     "pbr_m": 50.0,
     "pbr_m_history": [
