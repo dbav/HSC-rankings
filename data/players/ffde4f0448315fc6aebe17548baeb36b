@@ -1,12 +1,13 @@
 {
-    "bax_d": 494.2504651472808,
+    "bax_d": 497.8767780624467,
     "bax_d_history": [
         500.0,
         496.51134136153087,
         495.00108913939533,
         493.21973735677676,
         495.9150301886228,
-        494.2504651472808
+        494.2504651472808,
+        497.8767780624467
     ],
     "bax_m": 500.0,
     "bax_m_history": [
@@ -196,6 +197,37 @@
                 "Johannes Rosenzweig",
                 "Arne Wischmann"
             ]
+        },
+        {
+            "baxA": 495.81848905460663,
+            "baxB": 499.2885820771429,
+            "date": "2020- 1-21",
+            "games": [
+                [
+                    16,
+                    21
+                ],
+                [
+                    25,
+                    27
+                ]
+            ],
+            "pbrA": 48.2265625,
+            "pbrB": 50.75081380208333,
+            "score_difference": -3.5,
+            "sideA": [
+                "Kevin Erkelenz",
+                "Sebastian Mootz"
+            ],
+            "sideB": [
+                "Matti Rohlf",
+                "Johannes Rosenzweig"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Matti Rohlf",
+                "Johannes Rosenzweig"
+            ]
         }
     ],
     "matches_m": [],
@@ -266,14 +298,15 @@
     "matches_u": [],
     "matches_u_history": [],
     "name": "Matti Rohlf",
-    "pbr_d": 49.14192708333333,
+    "pbr_d": 50.434244791666664,
     "pbr_d_history": [
         50.0,
         48.25,
         51.60416666666667,
         50.005208333333336,
         51.1171875,
-        49.14192708333333
+        49.14192708333333,
+        50.434244791666664
     ],
     "pbr_m": 50.0,
     "pbr_m_history": [
