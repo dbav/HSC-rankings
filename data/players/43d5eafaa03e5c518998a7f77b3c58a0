@@ -12,11 +12,12 @@
     "bax_m_history": [
         500.0
     ],
-    "bax_s": 506.2858809454626,
+    "bax_s": 509.19380996037745,
     "bax_s_history": [
         500.0,
         503.5,
-        506.2858809454626
+        506.2858809454626,
+        509.19380996037745
     ],
     "bax_u": 500.0,
     "bax_u_history": [
@@ -245,6 +246,34 @@
             "winner": [
                 "Johannes Rosenzweig"
             ]
+        },
+        {
+            "baxA": 498.86791304569607,
+            "baxB": 506.2858809454626,
+            "date": "2020- 1-21",
+            "games": [
+                [
+                    16,
+                    21
+                ],
+                [
+                    22,
+                    24
+                ]
+            ],
+            "pbrA": 47.70833333333333,
+            "pbrB": 54.666666666666664,
+            "score_difference": -3.5,
+            "sideA": [
+                "Sebastian Mootz"
+            ],
+            "sideB": [
+                "Johannes Rosenzweig"
+            ],
+            "type": "Men's singles",
+            "winner": [
+                "Johannes Rosenzweig"
+            ]
         }
     ],
     "matches_u": [],
@@ -263,11 +292,12 @@
     "pbr_m_history": [
         50.0
     ],
-    "pbr_s": 54.666666666666664,
+    "pbr_s": 52.9375,
     "pbr_s_history": [
         50.0,
         52.0,
-        54.666666666666664
+        54.666666666666664,
+        52.9375
     ],
     "pbr_u": 50.0,
     "pbr_u_history": [
