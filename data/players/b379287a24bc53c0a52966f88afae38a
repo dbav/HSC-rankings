@@ -1,13 +1,11 @@
 {
-    "bax_d": 493.01389882124164,
+    "bax_d": 499.1162144403544,
     "bax_d_history": [
         500.0,
         503.5,
         499.71854240173377,
         501.37152235063087,
-        499.1162144403544,
-        495.8203796510339,
-        493.01389882124164
+        499.1162144403544
     ],
     "bax_m": 500.0,
     "bax_m_history": [
@@ -160,68 +158,6 @@
                 "Matti Rohlf",
                 "Hark Empen"
             ]
-        },
-        {
-            "baxA": 501.6524601858043,
-            "baxB": 493.93176838106706,
-            "date": "2020- 1-21",
-            "games": [
-                [
-                    21,
-                    13
-                ],
-                [
-                    21,
-                    18
-                ]
-            ],
-            "pbrA": 50.8837890625,
-            "pbrB": 47.56856282552083,
-            "score_difference": 5.5,
-            "sideA": [
-                "Tobias Henschel",
-                "Matti Rohlf"
-            ],
-            "sideB": [
-                "Sebastian Mootz",
-                "Alexander Voigt"
-            ],
-            "type": "Men's doubles",
-            "winner": [
-                "Tobias Henschel",
-                "Matti Rohlf"
-            ]
-        },
-        {
-            "baxA": 504.54120728370117,
-            "baxB": 501.48501876789294,
-            "date": "2020- 1-21",
-            "games": [
-                [
-                    21,
-                    17
-                ],
-                [
-                    21,
-                    12
-                ]
-            ],
-            "pbrA": 51.976175944010414,
-            "pbrB": 49.438802083333336,
-            "score_difference": 6.5,
-            "sideA": [
-                "Tobias Henschel",
-                "Matti Rohlf"
-            ],
-            "sideB": [
-                "Johannes Rosenzweig",
-                "Alexander Voigt"
-            ],
-            "type": "Men's doubles",
-            "winner": [
-                "Tobias Henschel",
-                "Matti Rohlf"
-            ]
         }
     ],
     "matches_m": [],
@@ -353,15 +289,13 @@
         }
     ],
     "name": "Alexander Voigt",
-    "pbr_d": 46.155324300130204,
+    "pbr_d": 48.28515625,
     "pbr_d_history": [
         50.0,
         52.5,
         47.0,
         48.192708333333336,
-        48.28515625,
-        46.83447265625,
-        46.155324300130204
+        48.28515625
     ],
     "pbr_m": 50.0,
     "pbr_m_history": [

@@ -1,11 +1,9 @@
 {
-    "bax_d": 510.99976475602244,
+    "bax_d": 505.42814230916184,
     "bax_d_history": [
         500.0,
         503.77018664213324,
-        505.42814230916184,
-        508.0226951422558,
-        510.99976475602244
+        505.42814230916184
     ],
     "bax_m": 500.0,
     "bax_m_history": [
@@ -90,68 +88,6 @@
             "winner": [
                 "Hark Empen",
                 "Tobias Henschel"
-            ]
-        },
-        {
-            "baxA": 501.6524601858043,
-            "baxB": 493.93176838106706,
-            "date": "2020- 1-21",
-            "games": [
-                [
-                    21,
-                    13
-                ],
-                [
-                    21,
-                    18
-                ]
-            ],
-            "pbrA": 50.8837890625,
-            "pbrB": 47.56856282552083,
-            "score_difference": 5.5,
-            "sideA": [
-                "Tobias Henschel",
-                "Matti Rohlf"
-            ],
-            "sideB": [
-                "Sebastian Mootz",
-                "Alexander Voigt"
-            ],
-            "type": "Men's doubles",
-            "winner": [
-                "Tobias Henschel",
-                "Matti Rohlf"
-            ]
-        },
-        {
-            "baxA": 504.54120728370117,
-            "baxB": 501.48501876789294,
-            "date": "2020- 1-21",
-            "games": [
-                [
-                    21,
-                    17
-                ],
-                [
-                    21,
-                    12
-                ]
-            ],
-            "pbrA": 51.976175944010414,
-            "pbrB": 49.438802083333336,
-            "score_difference": 6.5,
-            "sideA": [
-                "Tobias Henschel",
-                "Matti Rohlf"
-            ],
-            "sideB": [
-                "Johannes Rosenzweig",
-                "Alexander Voigt"
-            ],
-            "type": "Men's doubles",
-            "winner": [
-                "Tobias Henschel",
-                "Matti Rohlf"
             ]
         }
     ],
@@ -251,13 +187,11 @@
     "matches_u": [],
     "matches_u_history": [],
     "name": "Tobias Henschel",
-    "pbr_d": 54.069875081380204,
+    "pbr_d": 51.33333333333333,
     "pbr_d_history": [
         50.0,
         53.875,
-        51.33333333333333,
-        52.20094807942708,
-        54.069875081380204
+        51.33333333333333
     ],
     "pbr_m": 50.0,
     "pbr_m_history": [
