@@ -9,9 +9,10 @@
         496.1890655213293,
         493.131641677821
     ],
-    "bax_m": 500.0,
+    "bax_m": 496.5,
     "bax_m_history": [
-        500.0
+        500.0,
+        496.5
     ],
     "bax_s": 506.3241152878151,
     "bax_s_history": [
@@ -226,7 +227,39 @@
         }
     ],
     "matches_m": [],
-    "matches_m_history": [],
+    "matches_m_history": [
+        {
+            "baxA": 500.0,
+            "baxB": 500.0,
+            "date": "2020- 1-28",
+            "games": [
+                [
+                    21,
+                    19
+                ],
+                [
+                    21,
+                    16
+                ]
+            ],
+            "pbrA": 50.0,
+            "pbrB": 50.0,
+            "score_difference": 3.5,
+            "sideA": [
+                "Tobias Henschel",
+                "Lea Song-I Park"
+            ],
+            "sideB": [
+                "Laura Preu\u00df",
+                "Alexander Voigt"
+            ],
+            "type": "Mixed doubles",
+            "winner": [
+                "Tobias Henschel",
+                "Lea Song-I Park"
+            ]
+        }
+    ],
     "matches_s": [],
     "matches_s_history": [
         {
@@ -392,9 +425,10 @@
         47.2366943359375,
         45.72028605143229
     ],
-    "pbr_m": 50.0,
+    "pbr_m": 48.25,
     "pbr_m_history": [
-        50.0
+        50.0,
+        48.25
     ],
     "pbr_s": 52.270833333333336,
     "pbr_s_history": [
