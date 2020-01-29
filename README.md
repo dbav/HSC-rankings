@@ -21,15 +21,15 @@
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
 | 1        | Tobias Henschel               ( 4) | 511.17  |                 | 1        | Tobias Henschel               ( 4) | 54.57   |
 | 2        | Johannes Rosenzweig           ( 3) | 509.19  |                 | 2        | Hark Empen                    ( 2) | 54.29   |
-| 3        | Alexander Voigt               ( 3) | 503.40  |                 | 3        | Johannes Rosenzweig           ( 3) | 52.94   |
-| 4        | Hark Empen                    ( 2) | 500.44  |                 | 4        | Alexander Voigt               ( 3) | 51.25   |
+| 3        | Alexander Voigt               ( 4) | 506.32  |                 | 3        | Johannes Rosenzweig           ( 3) | 52.94   |
+| 4        | Hark Empen                    ( 2) | 500.44  |                 | 4        | Alexander Voigt               ( 4) | 52.27   |
 | 5        | Kevin Erkelenz                ( 0) | 500.00  |                 | 5        | Kevin Erkelenz                ( 0) | 50.00   |
 | 6        | Arne Wischmann                ( 0) | 500.00  |                 | 6        | Arne Wischmann                ( 0) | 50.00   |
 | 7        | Till Staude                   ( 1) | 497.90  |                 | 7        | Till Staude                   ( 1) | 49.67   |
 | 8        | Durga P.B. Nasika             ( 1) | 496.49  |                 | 8        | Sebastian Mootz               ( 4) | 49.57   |
-| 9        | Norman Lahr                   ( 1) | 496.23  |                 | 9        | Durga P.B. Nasika             ( 1) | 46.75   |
-| 10       | Sebastian Mootz               ( 4) | 493.46  |                 | 10       | Matti Rohlf                   ( 3) | 45.67   |
-| 11       | Matti Rohlf                   ( 3) | 491.73  |                 | 11       | Norman Lahr                   ( 1) | 45.29   |
+| 9        | Sebastian Mootz               ( 4) | 493.46  |                 | 9        | Durga P.B. Nasika             ( 1) | 46.75   |
+| 10       | Norman Lahr                   ( 2) | 493.30  |                 | 10       | Matti Rohlf                   ( 3) | 45.67   |
+| 11       | Matti Rohlf                   ( 3) | 491.73  |                 | 11       | Norman Lahr                   ( 2) | 44.27   |
 |          |                                    |         | **Rankings MD** |          |                                    |         |
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
 | 1        | Tobias Henschel               ( 4) | 511.45  |                 | 1        | Tobias Henschel               ( 4) | 54.97   |
