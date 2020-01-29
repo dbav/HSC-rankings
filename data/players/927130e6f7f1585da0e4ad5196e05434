@@ -3,9 +3,10 @@
     "bax_d_history": [
         500.0
     ],
-    "bax_m": 500.0,
+    "bax_m": 502.2409570542507,
     "bax_m_history": [
-        500.0
+        500.0,
+        502.2409570542507
     ],
     "bax_s": 500.0,
     "bax_s_history": [
@@ -20,7 +21,43 @@
     "matches_d": [],
     "matches_d_history": [],
     "matches_m": [],
-    "matches_m_history": [],
+    "matches_m_history": [
+        {
+            "baxA": 501.75,
+            "baxB": 498.25,
+            "date": "2020- 1-28",
+            "games": [
+                [
+                    21,
+                    18
+                ],
+                [
+                    13,
+                    21
+                ],
+                [
+                    18,
+                    21
+                ]
+            ],
+            "pbrA": 50.875,
+            "pbrB": 49.125,
+            "score_difference": -2.6666666666666665,
+            "sideA": [
+                "Norman Lahr",
+                "Lea Song-I Park"
+            ],
+            "sideB": [
+                "Jan Hoffmann",
+                "Laura Preu\u00df"
+            ],
+            "type": "Mixed doubles",
+            "winner": [
+                "Jan Hoffmann",
+                "Laura Preu\u00df"
+            ]
+        }
+    ],
     "matches_s": [],
     "matches_s_history": [],
     "matches_u": [],
@@ -30,9 +67,10 @@
     "pbr_d_history": [
         50.0
     ],
-    "pbr_m": 50.0,
+    "pbr_m": 51.77083333333333,
     "pbr_m_history": [
-        50.0
+        50.0,
+        51.77083333333333
     ],
     "pbr_s": 50.0,
     "pbr_s_history": [

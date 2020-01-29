@@ -12,24 +12,26 @@
 | 8        | Lea Song-I Park               ( 0) | 500.00  |                 | 8        | Lea Song-I Park               ( 0) | 50.00   |
 | 9        | Kevin Erkelenz                ( 0) | 500.00  |                 | 9        | Kevin Erkelenz                ( 0) | 50.00   |
 | 10       | Johannes Rosenzweig           ( 0) | 500.00  |                 | 10       | Johannes Rosenzweig           ( 0) | 50.00   |
-| 11       | Hark Empen                    ( 0) | 500.00  |                 | 11       | Hark Empen                    ( 0) | 50.00   |
-| 12       | Durga P.B. Nasika             ( 0) | 500.00  |                 | 12       | Durga P.B. Nasika             ( 0) | 50.00   |
-| 13       | Divya Sree Madichati          ( 0) | 500.00  |                 | 13       | Divya Sree Madichati          ( 0) | 50.00   |
-| 14       | Arne Wischmann                ( 0) | 500.00  |                 | 14       | Arne Wischmann                ( 0) | 50.00   |
-| 15       | Laura Preuß                   ( 1) | 496.50  |                 | 15       | Laura Preuß                   ( 1) | 42.25   |
+| 11       | Jan Hoffmann                  ( 0) | 500.00  |                 | 11       | Jan Hoffmann                  ( 0) | 50.00   |
+| 12       | Hark Empen                    ( 0) | 500.00  |                 | 12       | Hark Empen                    ( 0) | 50.00   |
+| 13       | Durga P.B. Nasika             ( 0) | 500.00  |                 | 13       | Durga P.B. Nasika             ( 0) | 50.00   |
+| 14       | Divya Sree Madichati          ( 0) | 500.00  |                 | 14       | Divya Sree Madichati          ( 0) | 50.00   |
+| 15       | Arne Wischmann                ( 0) | 500.00  |                 | 15       | Arne Wischmann                ( 0) | 50.00   |
+| 16       | Laura Preuß                   ( 1) | 496.50  |                 | 16       | Laura Preuß                   ( 1) | 42.25   |
 |          |                                    |         | **Rankings MS** |          |                                    |         |
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
 | 1        | Tobias Henschel               ( 5) | 514.57  |                 | 1        | Tobias Henschel               ( 5) | 54.85   |
 | 2        | Johannes Rosenzweig           ( 5) | 506.55  |                 | 2        | Hark Empen                    ( 2) | 54.29   |
 | 3        | Alexander Voigt               ( 4) | 506.32  |                 | 3        | Alexander Voigt               ( 4) | 52.27   |
 | 4        | Hark Empen                    ( 2) | 500.44  |                 | 4        | Kevin Erkelenz                ( 0) | 50.00   |
-| 5        | Kevin Erkelenz                ( 0) | 500.00  |                 | 5        | Arne Wischmann                ( 0) | 50.00   |
-| 6        | Arne Wischmann                ( 0) | 500.00  |                 | 6        | Till Staude                   ( 1) | 49.67   |
-| 7        | Till Staude                   ( 1) | 497.90  |                 | 7        | Sebastian Mootz               ( 4) | 49.57   |
-| 8        | Durga P.B. Nasika             ( 1) | 496.49  |                 | 8        | Matti Rohlf                   ( 4) | 49.47   |
-| 9        | Sebastian Mootz               ( 4) | 493.46  |                 | 9        | Johannes Rosenzweig           ( 5) | 48.85   |
-| 10       | Norman Lahr                   ( 2) | 493.30  |                 | 10       | Durga P.B. Nasika             ( 1) | 46.75   |
-| 11       | Matti Rohlf                   ( 4) | 490.96  |                 | 11       | Norman Lahr                   ( 2) | 44.27   |
+| 5        | Kevin Erkelenz                ( 0) | 500.00  |                 | 5        | Jan Hoffmann                  ( 0) | 50.00   |
+| 6        | Jan Hoffmann                  ( 0) | 500.00  |                 | 6        | Arne Wischmann                ( 0) | 50.00   |
+| 7        | Arne Wischmann                ( 0) | 500.00  |                 | 7        | Till Staude                   ( 1) | 49.67   |
+| 8        | Till Staude                   ( 1) | 497.90  |                 | 8        | Sebastian Mootz               ( 4) | 49.57   |
+| 9        | Durga P.B. Nasika             ( 1) | 496.49  |                 | 9        | Matti Rohlf                   ( 4) | 49.47   |
+| 10       | Sebastian Mootz               ( 4) | 493.46  |                 | 10       | Johannes Rosenzweig           ( 5) | 48.85   |
+| 11       | Norman Lahr                   ( 2) | 493.30  |                 | 11       | Durga P.B. Nasika             ( 1) | 46.75   |
+| 12       | Matti Rohlf                   ( 4) | 490.96  |                 | 12       | Norman Lahr                   ( 2) | 44.27   |
 |          |                                    |         | **Rankings MD** |          |                                    |         |
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
 | 1        | Tobias Henschel               ( 4) | 511.45  |                 | 1        | Tobias Henschel               ( 4) | 54.97   |
@@ -37,12 +39,13 @@
 | 3        | Johannes Rosenzweig           ( 7) | 505.80  |                 | 3        | Hark Empen                    ( 5) | 52.16   |
 | 4        | Arne Wischmann                ( 1) | 501.85  |                 | 4        | Arne Wischmann                ( 1) | 51.86   |
 | 5        | Norman Lahr                   ( 0) | 500.00  |                 | 5        | Norman Lahr                   ( 0) | 50.00   |
-| 6        | Durga P.B. Nasika             ( 0) | 500.00  |                 | 6        | Durga P.B. Nasika             ( 0) | 50.00   |
-| 7        | Matti Rohlf                   ( 8) | 499.19  |                 | 7        | Johannes Rosenzweig           ( 7) | 48.83   |
-| 8        | Kevin Erkelenz                ( 1) | 496.44  |                 | 8        | Kevin Erkelenz                ( 1) | 48.63   |
-| 9        | Till Staude                   ( 4) | 496.02  |                 | 9        | Till Staude                   ( 4) | 48.41   |
-| 10       | Alexander Voigt               ( 6) | 493.13  |                 | 10       | Sebastian Mootz               ( 4) | 46.85   |
-| 11       | Sebastian Mootz               ( 4) | 488.75  |                 | 11       | Alexander Voigt               ( 6) | 45.72   |
+| 6        | Jan Hoffmann                  ( 0) | 500.00  |                 | 6        | Jan Hoffmann                  ( 0) | 50.00   |
+| 7        | Durga P.B. Nasika             ( 0) | 500.00  |                 | 7        | Durga P.B. Nasika             ( 0) | 50.00   |
+| 8        | Matti Rohlf                   ( 8) | 499.19  |                 | 8        | Johannes Rosenzweig           ( 7) | 48.83   |
+| 9        | Kevin Erkelenz                ( 1) | 496.44  |                 | 9        | Kevin Erkelenz                ( 1) | 48.63   |
+| 10       | Till Staude                   ( 4) | 496.02  |                 | 10       | Till Staude                   ( 4) | 48.41   |
+| 11       | Alexander Voigt               ( 6) | 493.13  |                 | 11       | Sebastian Mootz               ( 4) | 46.85   |
+| 12       | Sebastian Mootz               ( 4) | 488.75  |                 | 12       | Alexander Voigt               ( 6) | 45.72   |
 |          |                                    |         | **Rankings WS** |          |                                    |         |
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
 | 1        | Laura Preuß                   ( 1) | 503.50  |                 | 1        | Laura Preuß                   ( 1) | 53.50   |
@@ -57,12 +60,12 @@
 | 4        | Divya Sree Madichati          ( 0) | 500.00  |                 | 4        | Divya Sree Madichati          ( 0) | 50.00   |
 |          |                                    |         | **Rankings MX** |          |                                    |         |
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
-| 1        | Tobias Henschel               ( 1) | 503.50  |                 | 1        | Tobias Henschel               ( 1) | 51.75   |
-| 2        | Lea Song-I Park               ( 1) | 503.50  |                 | 2        | Lea Song-I Park               ( 1) | 51.75   |
-| 3        | Woon Hong Kwa                 ( 0) | 500.00  |                 | 3        | Woon Hong Kwa                 ( 0) | 50.00   |
-| 4        | Till Staude                   ( 0) | 500.00  |                 | 4        | Till Staude                   ( 0) | 50.00   |
-| 5        | Sebastian Mootz               ( 0) | 500.00  |                 | 5        | Sebastian Mootz               ( 0) | 50.00   |
-| 6        | Norman Lahr                   ( 0) | 500.00  |                 | 6        | Norman Lahr                   ( 0) | 50.00   |
+| 1        | Tobias Henschel               ( 1) | 503.50  |                 | 1        | Jan Hoffmann                  ( 1) | 51.77   |
+| 2        | Jan Hoffmann                  ( 1) | 502.24  |                 | 2        | Tobias Henschel               ( 1) | 51.75   |
+| 3        | Lea Song-I Park               ( 2) | 500.98  |                 | 3        | Laura Preuß                   ( 2) | 50.90   |
+| 4        | Woon Hong Kwa                 ( 0) | 500.00  |                 | 4        | Woon Hong Kwa                 ( 0) | 50.00   |
+| 5        | Till Staude                   ( 0) | 500.00  |                 | 5        | Till Staude                   ( 0) | 50.00   |
+| 6        | Sebastian Mootz               ( 0) | 500.00  |                 | 6        | Sebastian Mootz               ( 0) | 50.00   |
 | 7        | Matti Rohlf                   ( 0) | 500.00  |                 | 7        | Matti Rohlf                   ( 0) | 50.00   |
 | 8        | Kevin Erkelenz                ( 0) | 500.00  |                 | 8        | Kevin Erkelenz                ( 0) | 50.00   |
 | 9        | Johannes Rosenzweig           ( 0) | 500.00  |                 | 9        | Johannes Rosenzweig           ( 0) | 50.00   |
@@ -70,8 +73,9 @@
 | 11       | Durga P.B. Nasika             ( 0) | 500.00  |                 | 11       | Durga P.B. Nasika             ( 0) | 50.00   |
 | 12       | Divya Sree Madichati          ( 0) | 500.00  |                 | 12       | Divya Sree Madichati          ( 0) | 50.00   |
 | 13       | Arne Wischmann                ( 0) | 500.00  |                 | 13       | Arne Wischmann                ( 0) | 50.00   |
-| 14       | Laura Preuß                   ( 1) | 496.50  |                 | 14       | Laura Preuß                   ( 1) | 48.25   |
-| 15       | Alexander Voigt               ( 1) | 496.50  |                 | 15       | Alexander Voigt               ( 1) | 48.25   |
+| 14       | Laura Preuß                   ( 2) | 499.02  |                 | 14       | Lea Song-I Park               ( 2) | 49.10   |
+| 15       | Norman Lahr                   ( 1) | 497.76  |                 | 15       | Alexander Voigt               ( 1) | 48.25   |
+| 16       | Alexander Voigt               ( 1) | 496.50  |                 | 16       | Norman Lahr                   ( 1) | 48.23   |
 # HSC-rankings
 These are our internal rankings. Each player gets a BAX \[1\] and a PBR \[2\] for each discipline (Wo/Men's singles, Wo/Men's doubles, mixed doubles). There is also an additional BAX and PBR for each player for matches that are in neihter of the aforementioned disciplines, i.e. a male vs. female singles match.
 

@@ -3,10 +3,11 @@
     "bax_d_history": [
         500.0
     ],
-    "bax_m": 503.5,
+    "bax_m": 500.97894898337665,
     "bax_m_history": [
         500.0,
-        503.5
+        503.5,
+        500.97894898337665
     ],
     "bax_s": 496.5,
     "bax_s_history": [
@@ -53,6 +54,41 @@
                 "Tobias Henschel",
                 "Lea Song-I Park"
             ]
+        },
+        {
+            "baxA": 501.75,
+            "baxB": 498.25,
+            "date": "2020- 1-28",
+            "games": [
+                [
+                    21,
+                    18
+                ],
+                [
+                    13,
+                    21
+                ],
+                [
+                    18,
+                    21
+                ]
+            ],
+            "pbrA": 50.875,
+            "pbrB": 49.125,
+            "score_difference": -2.6666666666666665,
+            "sideA": [
+                "Norman Lahr",
+                "Lea Song-I Park"
+            ],
+            "sideB": [
+                "Jan Hoffmann",
+                "Laura Preu\u00df"
+            ],
+            "type": "Mixed doubles",
+            "winner": [
+                "Jan Hoffmann",
+                "Laura Preu\u00df"
+            ]
         }
     ],
     "matches_s": [],
@@ -93,10 +129,11 @@
     "pbr_d_history": [
         50.0
     ],
-    "pbr_m": 51.75,
+    "pbr_m": 49.10416666666667,
     "pbr_m_history": [
         50.0,
-        51.75
+        51.75,
+        49.10416666666667
     ],
     "pbr_s": 46.5,
     "pbr_s_history": [
