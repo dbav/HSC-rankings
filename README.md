@@ -45,10 +45,10 @@
 | 11       | Sebastian Mootz               ( 4) | 488.75  |                 | 11       | Alexander Voigt               ( 6) | 45.72   |
 |          |                                    |         | **Rankings WS** |          |                                    |         |
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
-| 1        | Woon Hong Kwa                 ( 0) | 500.00  |                 | 1        | Woon Hong Kwa                 ( 0) | 50.00   |
-| 2        | Lea Song-I Park               ( 0) | 500.00  |                 | 2        | Lea Song-I Park               ( 0) | 50.00   |
-| 3        | Laura Preuß                   ( 0) | 500.00  |                 | 3        | Laura Preuß                   ( 0) | 50.00   |
-| 4        | Divya Sree Madichati          ( 0) | 500.00  |                 | 4        | Divya Sree Madichati          ( 0) | 50.00   |
+| 1        | Laura Preuß                   ( 1) | 503.50  |                 | 1        | Laura Preuß                   ( 1) | 53.50   |
+| 2        | Woon Hong Kwa                 ( 0) | 500.00  |                 | 2        | Woon Hong Kwa                 ( 0) | 50.00   |
+| 3        | Divya Sree Madichati          ( 0) | 500.00  |                 | 3        | Divya Sree Madichati          ( 0) | 50.00   |
+| 4        | Lea Song-I Park               ( 1) | 496.50  |                 | 4        | Lea Song-I Park               ( 1) | 46.50   |
 |          |                                    |         | **Rankings WD** |          |                                    |         |
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
 | 1        | Woon Hong Kwa                 ( 0) | 500.00  |                 | 1        | Woon Hong Kwa                 ( 0) | 50.00   |

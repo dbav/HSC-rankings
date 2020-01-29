@@ -7,9 +7,10 @@
     "bax_m_history": [
         500.0
     ],
-    "bax_s": 500.0,
+    "bax_s": 503.5,
     "bax_s_history": [
-        500.0
+        500.0,
+        503.5
     ],
     "bax_u": 496.5,
     "bax_u_history": [
@@ -23,7 +24,36 @@
     "matches_m": [],
     "matches_m_history": [],
     "matches_s": [],
-    "matches_s_history": [],
+    "matches_s_history": [
+        {
+            "baxA": 500.0,
+            "baxB": 500.0,
+            "date": "2020- 1-28",
+            "games": [
+                [
+                    21,
+                    23
+                ],
+                [
+                    9,
+                    21
+                ]
+            ],
+            "pbrA": 50.0,
+            "pbrB": 50.0,
+            "score_difference": -7.0,
+            "sideA": [
+                "Lea Song-I Park"
+            ],
+            "sideB": [
+                "Laura Preu\u00df"
+            ],
+            "type": "Women's singles",
+            "winner": [
+                "Laura Preu\u00df"
+            ]
+        }
+    ],
     "matches_u": [],
     "matches_u_history": [
         {
@@ -64,9 +94,10 @@
     "pbr_m_history": [
         50.0
     ],
-    "pbr_s": 50.0,
+    "pbr_s": 53.5,
     "pbr_s_history": [
-        50.0
+        50.0,
+        53.5
     ],
     "pbr_u": 42.25,
     "pbr_u_history": [
