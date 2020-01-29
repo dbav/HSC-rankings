@@ -19,15 +19,15 @@
 | 15       | Laura Preuß                   ( 1) | 496.50  |                 | 15       | Laura Preuß                   ( 1) | 42.25   |
 |          |                                    |         | **Rankings MS** |          |                                    |         |
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
-| 1        | Tobias Henschel               ( 4) | 511.17  |                 | 1        | Tobias Henschel               ( 4) | 54.57   |
-| 2        | Johannes Rosenzweig           ( 4) | 509.96  |                 | 2        | Hark Empen                    ( 2) | 54.29   |
+| 1        | Tobias Henschel               ( 5) | 514.57  |                 | 1        | Tobias Henschel               ( 5) | 54.85   |
+| 2        | Johannes Rosenzweig           ( 5) | 506.55  |                 | 2        | Hark Empen                    ( 2) | 54.29   |
 | 3        | Alexander Voigt               ( 4) | 506.32  |                 | 3        | Alexander Voigt               ( 4) | 52.27   |
 | 4        | Hark Empen                    ( 2) | 500.44  |                 | 4        | Kevin Erkelenz                ( 0) | 50.00   |
 | 5        | Kevin Erkelenz                ( 0) | 500.00  |                 | 5        | Arne Wischmann                ( 0) | 50.00   |
 | 6        | Arne Wischmann                ( 0) | 500.00  |                 | 6        | Till Staude                   ( 1) | 49.67   |
 | 7        | Till Staude                   ( 1) | 497.90  |                 | 7        | Sebastian Mootz               ( 4) | 49.57   |
 | 8        | Durga P.B. Nasika             ( 1) | 496.49  |                 | 8        | Matti Rohlf                   ( 4) | 49.47   |
-| 9        | Sebastian Mootz               ( 4) | 493.46  |                 | 9        | Johannes Rosenzweig           ( 4) | 49.14   |
+| 9        | Sebastian Mootz               ( 4) | 493.46  |                 | 9        | Johannes Rosenzweig           ( 5) | 48.85   |
 | 10       | Norman Lahr                   ( 2) | 493.30  |                 | 10       | Durga P.B. Nasika             ( 1) | 46.75   |
 | 11       | Matti Rohlf                   ( 4) | 490.96  |                 | 11       | Norman Lahr                   ( 2) | 44.27   |
 |          |                                    |         | **Rankings MD** |          |                                    |         |
