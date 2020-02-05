@@ -1,7 +1,7 @@
 ########################################################################
 #%% import block     ###################################################
 ########################################################################
-from datetime import date, MINYEAR
+from datetime import date, MINYEAR, timedelta
 from CPlayerlist import Playerlist
 from CPlayer import Player
 ########################################################################
@@ -25,8 +25,9 @@ class Match:
   Methods:
     __init__
   """
-  def __init__(self, sideA, sideB, type, games, date=date.today()):
-      self.date             = "{0:4d}-{1:2d}-{2:2d}".format(date.year, date.month, date.day)
+  def __init__(self, sideA, sideB, type, games, current_date=date.today()-timedelta(days=1)): # use if matches from yesterday (or even earlier) are to be entered
+  #def __init__(self, sideA, sideB, type, games, current_date=date.today()):                   # use if matches from today are to be entered
+      self.date             = "{0:04d}-{1:02d}-{2:02d}".format(current_date.year, current_date.month, current_date.day)
       self.sideA            = sideA
       self.sideB            = sideB
       playersA              = [Player.load(i) for i in self.sideA]
