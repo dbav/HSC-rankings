@@ -60,22 +60,22 @@
 | 4        | Divya Sree Madichati          ( 0) | 500.00  |                 | 4        | Divya Sree Madichati          ( 0) | 50.00   |
 |          |                                    |         | **Rankings MX** |          |                                    |         |
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
-| 1        | Tobias Henschel               ( 1) | 503.50  |                 | 1        | Jan Hoffmann                  ( 1) | 51.77   |
-| 2        | Jan Hoffmann                  ( 1) | 502.24  |                 | 2        | Tobias Henschel               ( 1) | 51.75   |
-| 3        | Lea Song-I Park               ( 2) | 500.98  |                 | 3        | Laura Preuß                   ( 2) | 50.90   |
-| 4        | Woon Hong Kwa                 ( 0) | 500.00  |                 | 4        | Woon Hong Kwa                 ( 0) | 50.00   |
-| 5        | Till Staude                   ( 0) | 500.00  |                 | 5        | Till Staude                   ( 0) | 50.00   |
-| 6        | Sebastian Mootz               ( 0) | 500.00  |                 | 6        | Sebastian Mootz               ( 0) | 50.00   |
-| 7        | Matti Rohlf                   ( 0) | 500.00  |                 | 7        | Matti Rohlf                   ( 0) | 50.00   |
-| 8        | Kevin Erkelenz                ( 0) | 500.00  |                 | 8        | Kevin Erkelenz                ( 0) | 50.00   |
-| 9        | Johannes Rosenzweig           ( 0) | 500.00  |                 | 9        | Johannes Rosenzweig           ( 0) | 50.00   |
-| 10       | Hark Empen                    ( 0) | 500.00  |                 | 10       | Hark Empen                    ( 0) | 50.00   |
-| 11       | Durga P.B. Nasika             ( 0) | 500.00  |                 | 11       | Durga P.B. Nasika             ( 0) | 50.00   |
-| 12       | Divya Sree Madichati          ( 0) | 500.00  |                 | 12       | Divya Sree Madichati          ( 0) | 50.00   |
-| 13       | Arne Wischmann                ( 0) | 500.00  |                 | 13       | Arne Wischmann                ( 0) | 50.00   |
-| 14       | Laura Preuß                   ( 2) | 499.02  |                 | 14       | Lea Song-I Park               ( 2) | 49.10   |
-| 15       | Norman Lahr                   ( 1) | 497.76  |                 | 15       | Alexander Voigt               ( 1) | 48.25   |
-| 16       | Alexander Voigt               ( 1) | 496.50  |                 | 16       | Norman Lahr                   ( 1) | 48.23   |
+| 1        | Tobias Henschel               ( 1) | 503.50  |                 | 1        | Divya Sree Madichati          ( 1) | 53.78   |
+| 2        | Divya Sree Madichati          ( 1) | 503.37  |                 | 2        | Alexander Voigt               ( 2) | 52.91   |
+| 3        | Jan Hoffmann                  ( 1) | 502.24  |                 | 3        | Jan Hoffmann                  ( 1) | 51.77   |
+| 4        | Lea Song-I Park               ( 2) | 500.98  |                 | 4        | Tobias Henschel               ( 1) | 51.75   |
+| 5        | Alexander Voigt               ( 2) | 500.15  |                 | 5        | Woon Hong Kwa                 ( 0) | 50.00   |
+| 6        | Woon Hong Kwa                 ( 0) | 500.00  |                 | 6        | Till Staude                   ( 0) | 50.00   |
+| 7        | Till Staude                   ( 0) | 500.00  |                 | 7        | Sebastian Mootz               ( 0) | 50.00   |
+| 8        | Sebastian Mootz               ( 0) | 500.00  |                 | 8        | Matti Rohlf                   ( 0) | 50.00   |
+| 9        | Matti Rohlf                   ( 0) | 500.00  |                 | 9        | Kevin Erkelenz                ( 0) | 50.00   |
+| 10       | Kevin Erkelenz                ( 0) | 500.00  |                 | 10       | Johannes Rosenzweig           ( 0) | 50.00   |
+| 11       | Johannes Rosenzweig           ( 0) | 500.00  |                 | 11       | Hark Empen                    ( 0) | 50.00   |
+| 12       | Hark Empen                    ( 0) | 500.00  |                 | 12       | Durga P.B. Nasika             ( 0) | 50.00   |
+| 13       | Durga P.B. Nasika             ( 0) | 500.00  |                 | 13       | Arne Wischmann                ( 0) | 50.00   |
+| 14       | Arne Wischmann                ( 0) | 500.00  |                 | 14       | Lea Song-I Park               ( 2) | 49.10   |
+| 15       | Laura Preuß                   ( 3) | 495.46  |                 | 15       | Laura Preuß                   ( 3) | 46.01   |
+| 16       | Norman Lahr                   ( 2) | 494.30  |                 | 16       | Norman Lahr                   ( 2) | 44.68   |
 # HSC-rankings
 These are our internal rankings. Each player gets a BAX \[1\] and a PBR \[2\] for each discipline (Wo/Men's singles, Wo/Men's doubles, mixed doubles). There is also an additional BAX and PBR for each player for matches that are in neihter of the aforementioned disciplines, i.e. a male vs. female singles match.
 

@@ -3,9 +3,10 @@
     "bax_d_history": [
         500.0
     ],
-    "bax_m": 500.0,
+    "bax_m": 503.3703125173893,
     "bax_m_history": [
-        500.0
+        500.0,
+        503.3703125173893
     ],
     "bax_s": 500.0,
     "bax_s_history": [
@@ -20,7 +21,39 @@
     "matches_d": [],
     "matches_d_history": [],
     "matches_m": [],
-    "matches_m_history": [],
+    "matches_m_history": [
+        {
+            "baxA": 498.3900469811863,
+            "baxB": 498.25,
+            "date": "2020- 2- 4",
+            "games": [
+                [
+                    11,
+                    21
+                ],
+                [
+                    15,
+                    21
+                ]
+            ],
+            "pbrA": 49.5625,
+            "pbrB": 49.125,
+            "score_difference": -8.0,
+            "sideA": [
+                "Laura Preu\u00df",
+                "Norman Lahr"
+            ],
+            "sideB": [
+                "Divya Sree Madichati",
+                "Alexander Voigt"
+            ],
+            "type": "Mixed doubles",
+            "winner": [
+                "Divya Sree Madichati",
+                "Alexander Voigt"
+            ]
+        }
+    ],
     "matches_s": [],
     "matches_s_history": [],
     "matches_u": [],
@@ -30,9 +63,10 @@
     "pbr_d_history": [
         50.0
     ],
-    "pbr_m": 50.0,
+    "pbr_m": 53.78125,
     "pbr_m_history": [
-        50.0
+        50.0,
+        53.78125
     ],
     "pbr_s": 50.0,
     "pbr_s_history": [

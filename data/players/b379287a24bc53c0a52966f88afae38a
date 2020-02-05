@@ -9,10 +9,11 @@
         496.1890655213293,
         493.131641677821
     ],
-    "bax_m": 496.5,
+    "bax_m": 500.1522236991267,
     "bax_m_history": [
         500.0,
-        496.5
+        496.5,
+        500.1522236991267
     ],
     "bax_s": 506.3241152878151,
     "bax_s_history": [
@@ -258,6 +259,37 @@
                 "Tobias Henschel",
                 "Lea Song-I Park"
             ]
+        },
+        {
+            "baxA": 498.3900469811863,
+            "baxB": 498.25,
+            "date": "2020- 2- 4",
+            "games": [
+                [
+                    11,
+                    21
+                ],
+                [
+                    15,
+                    21
+                ]
+            ],
+            "pbrA": 49.5625,
+            "pbrB": 49.125,
+            "score_difference": -8.0,
+            "sideA": [
+                "Laura Preu\u00df",
+                "Norman Lahr"
+            ],
+            "sideB": [
+                "Divya Sree Madichati",
+                "Alexander Voigt"
+            ],
+            "type": "Mixed doubles",
+            "winner": [
+                "Divya Sree Madichati",
+                "Alexander Voigt"
+            ]
         }
     ],
     "matches_s": [],
@@ -425,10 +457,11 @@
         47.2366943359375,
         45.72028605143229
     ],
-    "pbr_m": 48.25,
+    "pbr_m": 52.90625,
     "pbr_m_history": [
         50.0,
-        48.25
+        48.25,
+        52.90625
     ],
     "pbr_s": 52.270833333333336,
     "pbr_s_history": [

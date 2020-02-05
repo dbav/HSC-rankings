@@ -3,11 +3,12 @@
     "bax_d_history": [
         500.0
     ],
-    "bax_m": 499.02105101662335,
+    "bax_m": 495.4589181745596,
     "bax_m_history": [
         500.0,
         496.5,
-        499.02105101662335
+        499.02105101662335,
+        495.4589181745596
     ],
     "bax_s": 503.5,
     "bax_s_history": [
@@ -90,6 +91,37 @@
                 "Jan Hoffmann",
                 "Laura Preu\u00df"
             ]
+        },
+        {
+            "baxA": 498.3900469811863,
+            "baxB": 498.25,
+            "date": "2020- 2- 4",
+            "games": [
+                [
+                    11,
+                    21
+                ],
+                [
+                    15,
+                    21
+                ]
+            ],
+            "pbrA": 49.5625,
+            "pbrB": 49.125,
+            "score_difference": -8.0,
+            "sideA": [
+                "Laura Preu\u00df",
+                "Norman Lahr"
+            ],
+            "sideB": [
+                "Divya Sree Madichati",
+                "Alexander Voigt"
+            ],
+            "type": "Mixed doubles",
+            "winner": [
+                "Divya Sree Madichati",
+                "Alexander Voigt"
+            ]
         }
     ],
     "matches_s": [],
@@ -159,11 +191,12 @@
     "pbr_d_history": [
         50.0
     ],
-    "pbr_m": 50.89583333333333,
+    "pbr_m": 46.010416666666664,
     "pbr_m_history": [
         50.0,
         48.25,
-        50.89583333333333
+        50.89583333333333,
+        46.010416666666664
     ],
     "pbr_s": 53.5,
     "pbr_s_history": [
