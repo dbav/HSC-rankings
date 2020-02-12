@@ -292,7 +292,6 @@ def print_random_matches(matches):
   print(borderstr)
   print("")
   for i, item in enumerate(matches):
-    print("")
     print("{0:2d}: {1:s}".format(i+1, item))
     print("")
   print("")
