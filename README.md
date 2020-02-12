@@ -35,15 +35,15 @@
 |          |                                    |         | **Rankings MD** |          |                                    |         |
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
 | 1        | Tobias Henschel               ( 4) | 511.45  |                 | 1        | Tobias Henschel               ( 4) | 54.97   |
-| 2        | Hark Empen                    ( 5) | 507.37  |                 | 2        | Matti Rohlf                   ( 8) | 52.58   |
-| 3        | Johannes Rosenzweig           ( 7) | 505.80  |                 | 3        | Hark Empen                    ( 5) | 52.16   |
-| 4        | Arne Wischmann                ( 1) | 501.85  |                 | 4        | Arne Wischmann                ( 1) | 51.86   |
-| 5        | Norman Lahr                   ( 0) | 500.00  |                 | 5        | Norman Lahr                   ( 0) | 50.00   |
-| 6        | Jan Hoffmann                  ( 0) | 500.00  |                 | 6        | Jan Hoffmann                  ( 0) | 50.00   |
-| 7        | Durga P.B. Nasika             ( 0) | 500.00  |                 | 7        | Durga P.B. Nasika             ( 0) | 50.00   |
-| 8        | Matti Rohlf                   ( 8) | 499.19  |                 | 8        | Johannes Rosenzweig           ( 7) | 48.83   |
-| 9        | Kevin Erkelenz                ( 1) | 496.44  |                 | 9        | Kevin Erkelenz                ( 1) | 48.63   |
-| 10       | Till Staude                   ( 4) | 496.02  |                 | 10       | Till Staude                   ( 4) | 48.41   |
+| 2        | Hark Empen                    ( 6) | 508.71  |                 | 2        | Hark Empen                    ( 6) | 52.05   |
+| 3        | Johannes Rosenzweig           ( 8) | 507.27  |                 | 3        | Arne Wischmann                ( 1) | 51.86   |
+| 4        | Arne Wischmann                ( 1) | 501.85  |                 | 4        | Matti Rohlf                   ( 9) | 50.87   |
+| 5        | Norman Lahr                   ( 0) | 500.00  |                 | 5        | Johannes Rosenzweig           ( 8) | 50.38   |
+| 6        | Jan Hoffmann                  ( 0) | 500.00  |                 | 6        | Norman Lahr                   ( 0) | 50.00   |
+| 7        | Durga P.B. Nasika             ( 0) | 500.00  |                 | 7        | Jan Hoffmann                  ( 0) | 50.00   |
+| 8        | Matti Rohlf                   ( 9) | 497.68  |                 | 8        | Durga P.B. Nasika             ( 0) | 50.00   |
+| 9        | Till Staude                   ( 4) | 496.02  |                 | 9        | Kevin Erkelenz                ( 2) | 48.89   |
+| 10       | Kevin Erkelenz                ( 2) | 495.15  |                 | 10       | Till Staude                   ( 4) | 48.41   |
 | 11       | Alexander Voigt               ( 6) | 493.13  |                 | 11       | Sebastian Mootz               ( 4) | 46.85   |
 | 12       | Sebastian Mootz               ( 4) | 488.75  |                 | 12       | Alexander Voigt               ( 6) | 45.72   |
 |          |                                    |         | **Rankings WS** |          |                                    |         |

@@ -1,8 +1,9 @@
 {
-    "bax_d": 496.4426716170466,
+    "bax_d": 495.1455284210733,
     "bax_d_history": [
         500.0,
-        496.4426716170466
+        496.4426716170466,
+        495.1455284210733
     ],
     "bax_m": 500.0,
     "bax_m_history": [
@@ -51,6 +52,41 @@
                 "Matti Rohlf",
                 "Johannes Rosenzweig"
             ]
+        },
+        {
+            "baxA": 506.5853160575148,
+            "baxB": 497.814405614111,
+            "date": "2020-02-11",
+            "games": [
+                [
+                    21,
+                    15
+                ],
+                [
+                    17,
+                    21
+                ],
+                [
+                    25,
+                    23
+                ]
+            ],
+            "pbrA": 50.491948445638016,
+            "pbrB": 50.60152689615885,
+            "score_difference": 1.3333333333333333,
+            "sideA": [
+                "Hark Empen",
+                "Johannes Rosenzweig"
+            ],
+            "sideB": [
+                "Kevin Erkelenz",
+                "Matti Rohlf"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Hark Empen",
+                "Johannes Rosenzweig"
+            ]
         }
     ],
     "matches_m": [],
@@ -89,10 +125,11 @@
     "matches_u": [],
     "matches_u_history": [],
     "name": "Kevin Erkelenz",
-    "pbr_d": 48.625406901041664,
+    "pbr_d": 48.89201100667317,
     "pbr_d_history": [
         50.0,
-        48.625406901041664
+        48.625406901041664,
+        48.89201100667317
     ],
     "pbr_m": 50.0,
     "pbr_m_history": [
