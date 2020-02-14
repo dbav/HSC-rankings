@@ -1,11 +1,12 @@
 {
-    "bax_d": 511.449271796282,
+    "bax_d": 507.1178137811332,
     "bax_d_history": [
         500.0,
         503.77018664213324,
         505.42814230916184,
         508.3742133406135,
-        511.449271796282
+        511.449271796282,
+        507.1178137811332
     ],
     "bax_m": 503.5,
     "bax_m_history": [
@@ -156,6 +157,37 @@
             "winner": [
                 "Tobias Henschel",
                 "Matti Rohlf"
+            ]
+        },
+        {
+            "baxA": 505.724635898141,
+            "baxB": 500.93126834243157,
+            "date": "2020-02-13",
+            "games": [
+                [
+                    17,
+                    21
+                ],
+                [
+                    19,
+                    21
+                ]
+            ],
+            "pbrA": 52.48514302571614,
+            "pbrB": 49.07134850819905,
+            "score_difference": -3.0,
+            "sideA": [
+                "Tobias Henschel",
+                "Durga P.B. Nasika"
+            ],
+            "sideB": [
+                "Hark Empen",
+                "Alexander Voigt"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Hark Empen",
+                "Alexander Voigt"
             ]
         }
     ],
@@ -371,13 +403,14 @@
     "matches_u": [],
     "matches_u_history": [],
     "name": "Tobias Henschel",
-    "pbr_d": 54.97028605143229,
+    "pbr_d": 50.520817279815674,
     "pbr_d_history": [
         50.0,
         53.875,
         51.33333333333333,
         53.09651692708333,
-        54.97028605143229
+        54.97028605143229,
+        50.520817279815674
     ],
     "pbr_m": 51.75,
     "pbr_m_history": [
