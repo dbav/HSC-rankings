@@ -35,16 +35,16 @@
 |          |                                    |         | **Rankings MD** |          |                                    |         |
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
 | 1        | Hark Empen                    ( 9) | 515.33  |                 | 1        | Hark Empen                    ( 9) | 54.37   |
-| 2        | Tobias Henschel               ( 6) | 508.42  |                 | 2        | Tobias Henschel               ( 6) | 52.74   |
+| 2        | Tobias Henschel               ( 7) | 511.03  |                 | 2        | Tobias Henschel               ( 7) | 53.10   |
 | 3        | Johannes Rosenzweig           ( 9) | 503.34  |                 | 3        | Arne Wischmann                ( 1) | 51.86   |
-| 4        | Arne Wischmann                ( 1) | 501.85  |                 | 4        | Matti Rohlf                   ( 9) | 50.87   |
+| 4        | Arne Wischmann                ( 1) | 501.85  |                 | 4        | Alexander Voigt               (10) | 51.38   |
 | 5        | Norman Lahr                   ( 0) | 500.00  |                 | 5        | Norman Lahr                   ( 0) | 50.00   |
 | 6        | Jan Hoffmann                  ( 0) | 500.00  |                 | 6        | Jan Hoffmann                  ( 0) | 50.00   |
-| 7        | Kevin Erkelenz                ( 4) | 497.88  |                 | 7        | Alexander Voigt               ( 9) | 49.30   |
-| 8        | Matti Rohlf                   ( 9) | 497.68  |                 | 8        | Kevin Erkelenz                ( 4) | 49.14   |
-| 9        | Durga P.B. Nasika             ( 1) | 496.58  |                 | 9        | Johannes Rosenzweig           ( 9) | 48.43   |
-| 10       | Till Staude                   ( 4) | 496.02  |                 | 10       | Till Staude                   ( 4) | 48.41   |
-| 11       | Alexander Voigt               ( 9) | 494.14  |                 | 11       | Durga P.B. Nasika             ( 1) | 48.04   |
+| 7        | Alexander Voigt               (10) | 497.88  |                 | 7        | Kevin Erkelenz                ( 4) | 49.14   |
+| 8        | Kevin Erkelenz                ( 4) | 497.88  |                 | 8        | Matti Rohlf                   (10) | 48.94   |
+| 9        | Till Staude                   ( 4) | 496.02  |                 | 9        | Johannes Rosenzweig           ( 9) | 48.43   |
+| 10       | Matti Rohlf                   (10) | 494.47  |                 | 10       | Till Staude                   ( 4) | 48.41   |
+| 11       | Durga P.B. Nasika             ( 2) | 493.45  |                 | 11       | Durga P.B. Nasika             ( 2) | 47.53   |
 | 12       | Sebastian Mootz               ( 4) | 488.75  |                 | 12       | Sebastian Mootz               ( 4) | 46.85   |
 |          |                                    |         | **Rankings WS** |          |                                    |         |
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
