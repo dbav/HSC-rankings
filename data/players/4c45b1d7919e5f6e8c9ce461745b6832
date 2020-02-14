@@ -1,10 +1,11 @@
 {
-    "bax_d": 499.0510098921053,
+    "bax_d": 497.87857945209953,
     "bax_d_history": [
         500.0,
         496.4426716170466,
         495.1455284210733,
-        499.0510098921053
+        499.0510098921053,
+        497.87857945209953
     ],
     "bax_m": 500.0,
     "bax_m_history": [
@@ -119,6 +120,41 @@
                 "Hark Empen",
                 "Kevin Erkelenz"
             ]
+        },
+        {
+            "baxA": 510.842097539243,
+            "baxB": 497.03653208536707,
+            "date": "2020-02-13",
+            "games": [
+                [
+                    21,
+                    11
+                ],
+                [
+                    17,
+                    21
+                ],
+                [
+                    21,
+                    14
+                ]
+            ],
+            "pbrA": 52.143735011418656,
+            "pbrB": 50.63061459859212,
+            "score_difference": 4.333333333333333,
+            "sideA": [
+                "Tobias Henschel",
+                "Hark Empen"
+            ],
+            "sideB": [
+                "Kevin Erkelenz",
+                "Alexander Voigt"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Tobias Henschel",
+                "Hark Empen"
+            ]
         }
     ],
     "matches_m": [],
@@ -157,12 +193,13 @@
     "matches_u": [],
     "matches_u_history": [],
     "name": "Kevin Erkelenz",
-    "pbr_d": 50.47139040629069,
+    "pbr_d": 49.140896042188004,
     "pbr_d_history": [
         50.0,
         48.625406901041664,
         48.89201100667317,
-        50.47139040629069
+        50.47139040629069,
+        49.140896042188004
     ],
     "pbr_m": 50.0,
     "pbr_m_history": [
