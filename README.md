@@ -34,18 +34,18 @@
 | 12       | Sebastian Mootz               ( 5) | 489.75  |                 | 12       | Norman Lahr                   ( 2) | 44.27   |
 |          |                                    |         | **Rankings MD** |          |                                    |         |
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
-| 1        | Hark Empen                    ( 9) | 515.33  |                 | 1        | Hark Empen                    ( 9) | 54.37   |
+| 1        | Hark Empen                    (10) | 517.13  |                 | 1        | Hark Empen                    (10) | 54.75   |
 | 2        | Tobias Henschel               ( 7) | 511.03  |                 | 2        | Tobias Henschel               ( 7) | 53.10   |
-| 3        | Johannes Rosenzweig           ( 9) | 503.34  |                 | 3        | Arne Wischmann                ( 1) | 51.86   |
-| 4        | Arne Wischmann                ( 1) | 501.85  |                 | 4        | Alexander Voigt               (10) | 51.38   |
-| 5        | Norman Lahr                   ( 0) | 500.00  |                 | 5        | Norman Lahr                   ( 0) | 50.00   |
-| 6        | Jan Hoffmann                  ( 0) | 500.00  |                 | 6        | Jan Hoffmann                  ( 0) | 50.00   |
-| 7        | Alexander Voigt               (10) | 497.88  |                 | 7        | Kevin Erkelenz                ( 4) | 49.14   |
-| 8        | Kevin Erkelenz                ( 4) | 497.88  |                 | 8        | Matti Rohlf                   (10) | 48.94   |
-| 9        | Till Staude                   ( 4) | 496.02  |                 | 9        | Johannes Rosenzweig           ( 9) | 48.43   |
-| 10       | Matti Rohlf                   (10) | 494.47  |                 | 10       | Till Staude                   ( 4) | 48.41   |
-| 11       | Durga P.B. Nasika             ( 2) | 493.45  |                 | 11       | Durga P.B. Nasika             ( 2) | 47.53   |
-| 12       | Sebastian Mootz               ( 4) | 488.75  |                 | 12       | Sebastian Mootz               ( 4) | 46.85   |
+| 3        | Johannes Rosenzweig           ( 9) | 503.34  |                 | 3        | Matti Rohlf                   (11) | 52.04   |
+| 4        | Arne Wischmann                ( 1) | 501.85  |                 | 4        | Arne Wischmann                ( 1) | 51.86   |
+| 5        | Norman Lahr                   ( 0) | 500.00  |                 | 5        | Alexander Voigt               (10) | 51.38   |
+| 6        | Jan Hoffmann                  ( 0) | 500.00  |                 | 6        | Norman Lahr                   ( 0) | 50.00   |
+| 7        | Alexander Voigt               (10) | 497.88  |                 | 7        | Jan Hoffmann                  ( 0) | 50.00   |
+| 8        | Kevin Erkelenz                ( 4) | 497.88  |                 | 8        | Kevin Erkelenz                ( 4) | 49.14   |
+| 9        | Matti Rohlf                   (11) | 497.80  |                 | 9        | Johannes Rosenzweig           ( 9) | 48.43   |
+| 10       | Durga P.B. Nasika             ( 2) | 493.45  |                 | 10       | Durga P.B. Nasika             ( 2) | 47.53   |
+| 11       | Till Staude                   ( 5) | 493.23  |                 | 11       | Till Staude                   ( 5) | 46.28   |
+| 12       | Sebastian Mootz               ( 5) | 486.49  |                 | 12       | Sebastian Mootz               ( 5) | 45.50   |
 |          |                                    |         | **Rankings WS** |          |                                    |         |
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
 | 1        | Laura Preuß                   ( 1) | 503.50  |                 | 1        | Laura Preuß                   ( 1) | 53.50   |

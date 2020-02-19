@@ -1,11 +1,12 @@
 {
-    "bax_d": 488.74732232177973,
+    "bax_d": 486.4919228410317,
     "bax_d_history": [
         500.0,
         496.5,
         493.28145759826623,
         491.6369781092132,
-        488.74732232177973
+        488.74732232177973,
+        486.4919228410317
     ],
     "bax_m": 500.0,
     "bax_m_history": [
@@ -154,6 +155,37 @@
             "winner": [
                 "Matti Rohlf",
                 "Johannes Rosenzweig"
+            ]
+        },
+        {
+            "baxA": 504.8961311184574,
+            "baxB": 492.3857651278909,
+            "date": "2020-02-18",
+            "games": [
+                [
+                    21,
+                    11
+                ],
+                [
+                    21,
+                    16
+                ]
+            ],
+            "pbrA": 51.65499577422936,
+            "pbrB": 47.63138834635417,
+            "score_difference": 7.5,
+            "sideA": [
+                "Hark Empen",
+                "Matti Rohlf"
+            ],
+            "sideB": [
+                "Till Staude",
+                "Sebastian Mootz"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Hark Empen",
+                "Matti Rohlf"
             ]
         }
     ],
@@ -309,13 +341,14 @@
     "matches_u": [],
     "matches_u_history": [],
     "name": "Sebastian Mootz",
-    "pbr_d": 46.851969401041664,
+    "pbr_d": 45.50348258763552,
     "pbr_d_history": [
         50.0,
         47.5,
         44.5,
         46.453125,
-        46.851969401041664
+        46.851969401041664,
+        45.50348258763552
     ],
     "pbr_m": 50.0,
     "pbr_m_history": [
