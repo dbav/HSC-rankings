@@ -1,9 +1,10 @@
 {
-    "bax_d": 493.4528614813117,
+    "bax_d": 492.2408697368903,
     "bax_d_history": [
         500.0,
         496.57503986002325,
-        493.4528614813117
+        493.4528614813117,
+        492.2408697368903
     ],
     "bax_m": 500.0,
     "bax_m_history": [
@@ -83,6 +84,41 @@
                 "Tobias Henschel",
                 "Alexander Voigt"
             ]
+        },
+        {
+            "baxA": 502.2411562773748,
+            "baxB": 504.71764328274026,
+            "date": "2020-03-12",
+            "games": [
+                [
+                    19,
+                    21
+                ],
+                [
+                    21,
+                    15
+                ],
+                [
+                    16,
+                    21
+                ]
+            ],
+            "pbrA": 50.31280272702376,
+            "pbrB": 49.99665395542979,
+            "score_difference": -0.3333333333333333,
+            "sideA": [
+                "Durga P.B. Nasika",
+                "Tobias Henschel"
+            ],
+            "sideB": [
+                "Hark Empen",
+                "Till Staude"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Hark Empen",
+                "Till Staude"
+            ]
         }
     ],
     "matches_m": [],
@@ -121,11 +157,12 @@
     "matches_u": [],
     "matches_u_history": [],
     "name": "Durga P.B. Nasika",
-    "pbr_d": 47.52846283713976,
+    "pbr_d": 48.59589172961811,
     "pbr_d_history": [
         50.0,
         48.035674254099526,
-        47.52846283713976
+        47.52846283713976,
+        48.59589172961811
     ],
     "pbr_m": 50.0,
     "pbr_m_history": [
