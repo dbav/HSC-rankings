@@ -226,28 +226,34 @@ def show_players():
 def show_rankings():
   for type in ["ud", "ms", "md", "ws", "wd", "mx"]:
     show_ranking(type)
+  update_rankings()
 def create_ranking(type):
+  min_games_to_appear = 1 # at least this many games must have been played to appear in the rankings
   playerlist  = Playerlist()
   baxlist     = []
   pbrlist     = []
   for i in playerlist.ids:
     player = Player.load(i)
-    if (type == "ms" and player.gender == "m"):
+    # skip players whose status is not active
+    if (not player.status == "active"):
+      continue
+    # add players to rankings if they have played at least min_games_to_apper matches in the respective discipline
+    if   (type == "ms" and player.gender == "m" and len(player.bax_s_history) > min_games_to_appear):
       baxlist.append((player.bax_s, player.name, len(player.bax_s_history)-1))
       pbrlist.append((player.pbr_s, player.name, len(player.pbr_s_history)-1))
-    elif (type == "md" and player.gender == "m"):
+    elif (type == "md" and player.gender == "m" and len(player.bax_d_history) > min_games_to_appear):
       baxlist.append((player.bax_d, player.name, len(player.bax_d_history)-1))
       pbrlist.append((player.pbr_d, player.name, len(player.pbr_d_history)-1))
-    elif (type == "ws" and player.gender == "f"):
+    elif (type == "ws" and player.gender == "f" and len(player.bax_s_history) > min_games_to_appear):
       baxlist.append((player.bax_s, player.name, len(player.bax_s_history)-1))
       pbrlist.append((player.pbr_s, player.name, len(player.pbr_s_history)-1))
-    elif (type == "wd" and player.gender == "f"):
+    elif (type == "wd" and player.gender == "f" and len(player.bax_d_history) > min_games_to_appear):
       baxlist.append((player.bax_d, player.name, len(player.bax_d_history)-1))
       pbrlist.append((player.pbr_d, player.name, len(player.pbr_d_history)-1))
-    elif (type == "mx"):
+    elif (type == "mx"                          and len(player.bax_m_history) > min_games_to_appear):
       baxlist.append((player.bax_m, player.name, len(player.bax_m_history)-1))
       pbrlist.append((player.pbr_m, player.name, len(player.pbr_m_history)-1))
-    elif (type == "ud"):
+    elif (type == "ud"                          and len(player.bax_u_history) > min_games_to_appear):
       baxlist.append((player.bax_u, player.name, len(player.bax_u_history)-1))
       pbrlist.append((player.pbr_u, player.name, len(player.pbr_u_history)-1))
   baxlist.sort(reverse=True)
