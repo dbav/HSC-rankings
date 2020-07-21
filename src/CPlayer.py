@@ -17,6 +17,7 @@ class Player:
     name
     id
     gender
+    status                                        # active or inactive
     bax_s                                         # for singles
     bax_d                                         # for doubles
     bax_m                                         # for mixed
@@ -50,6 +51,7 @@ class Player:
     set_name
     set_id
     set_gender
+    set_status
     set_bax_s
     set_bax_d
     set_bax_m
@@ -104,6 +106,7 @@ class Player:
     self.name              = ""
     self.id                = ""
     self.gender            = ""
+    self.status            = "active"
     self.bax_s             = 500.00
     self.bax_d             = 500.00
     self.bax_m             = 500.00
@@ -134,6 +137,8 @@ class Player:
     self.id = id
   def set_gender(self, gender):
     self.gender = gender
+  def set_status(self, status):
+    self.status = status
   def set_bax_s(self, bax):
     self.bax_s = bax
   def set_bax_d(self, bax):
@@ -263,6 +268,7 @@ class Player:
     player.set_name(playerdict["name"])
     player.set_id(playerdict["id"])
     player.set_gender(playerdict["gender"])
+    player.set_status(playerdict["status"])
     player.set_bax_s(playerdict["bax_s"])
     player.set_bax_d(playerdict["bax_d"])
     player.set_bax_m(playerdict["bax_m"])
