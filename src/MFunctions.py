@@ -228,7 +228,7 @@ def show_rankings():
     show_ranking(type)
   update_rankings()
 def create_ranking(type):
-  min_games_to_appear = 1 # at least this many games must have been played to appear in the rankings
+  min_games_to_appear = 0 # at least this many games must have been played to appear in the rankings
   playerlist  = Playerlist()
   baxlist     = []
   pbrlist     = []
