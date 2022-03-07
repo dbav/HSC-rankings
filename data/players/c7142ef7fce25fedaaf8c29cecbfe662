@@ -1,0 +1,46 @@
+{
+    "bax_d": 467.5,
+    "bax_d_history": [
+        467.5
+    ],
+    "bax_m": 467.5,
+    "bax_m_history": [
+        467.5
+    ],
+    "bax_s": 467.5,
+    "bax_s_history": [
+        467.5
+    ],
+    "bax_u": 467.5,
+    "bax_u_history": [
+        467.5
+    ],
+    "gender": "m",
+    "id": "c7142ef7fce25fedaaf8c29cecbfe662",
+    "matches_d": [],
+    "matches_d_history": [],
+    "matches_m": [],
+    "matches_m_history": [],
+    "matches_s": [],
+    "matches_s_history": [],
+    "matches_u": [],
+    "matches_u_history": [],
+    "name": "Klaus Wagener",
+    "pbr_d": 17.5,
+    "pbr_d_history": [
+        17.5
+    ],
+    "pbr_m": 17.5,
+    "pbr_m_history": [
+        17.5
+    ],
+    "pbr_s": 17.5,
+    "pbr_s_history": [
+        17.5
+    ],
+    "pbr_u": 17.5,
+    "pbr_u_history": [
+        17.5
+    ],
+    "status": "active"
+}

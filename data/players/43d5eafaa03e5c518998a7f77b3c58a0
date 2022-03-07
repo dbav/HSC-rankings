@@ -1,0 +1,46 @@
+{
+    "bax_d": 532.5,
+    "bax_d_history": [
+        532.5
+    ],
+    "bax_m": 532.5,
+    "bax_m_history": [
+        532.5
+    ],
+    "bax_s": 532.5,
+    "bax_s_history": [
+        532.5
+    ],
+    "bax_u": 532.5,
+    "bax_u_history": [
+        532.5
+    ],
+    "gender": "m",
+    "id": "43d5eafaa03e5c518998a7f77b3c58a0",
+    "matches_d": [],
+    "matches_d_history": [],
+    "matches_m": [],
+    "matches_m_history": [],
+    "matches_s": [],
+    "matches_s_history": [],
+    "matches_u": [],
+    "matches_u_history": [],
+    "name": "Johannes Rosenzweig",
+    "pbr_d": 82.5,
+    "pbr_d_history": [
+        82.5
+    ],
+    "pbr_m": 82.5,
+    "pbr_m_history": [
+        82.5
+    ],
+    "pbr_s": 82.5,
+    "pbr_s_history": [
+        82.5
+    ],
+    "pbr_u": 82.5,
+    "pbr_u_history": [
+        82.5
+    ],
+    "status": "active"
+}

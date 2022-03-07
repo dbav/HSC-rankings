@@ -1,0 +1,46 @@
+{
+    "bax_d": 477.5,
+    "bax_d_history": [
+        477.5
+    ],
+    "bax_m": 477.5,
+    "bax_m_history": [
+        477.5
+    ],
+    "bax_s": 477.5,
+    "bax_s_history": [
+        477.5
+    ],
+    "bax_u": 477.5,
+    "bax_u_history": [
+        477.5
+    ],
+    "gender": "m",
+    "id": "6a256572102d51b689bd1a775cb6ba75",
+    "matches_d": [],
+    "matches_d_history": [],
+    "matches_m": [],
+    "matches_m_history": [],
+    "matches_s": [],
+    "matches_s_history": [],
+    "matches_u": [],
+    "matches_u_history": [],
+    "name": "Bodo Voigt",
+    "pbr_d": 27.5,
+    "pbr_d_history": [
+        27.5
+    ],
+    "pbr_m": 27.5,
+    "pbr_m_history": [
+        27.5
+    ],
+    "pbr_s": 27.5,
+    "pbr_s_history": [
+        27.5
+    ],
+    "pbr_u": 27.5,
+    "pbr_u_history": [
+        27.5
+    ],
+    "status": "active"
+}

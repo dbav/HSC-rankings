@@ -1,0 +1,46 @@
+{
+    "bax_d": 507.5,
+    "bax_d_history": [
+        507.5
+    ],
+    "bax_m": 507.5,
+    "bax_m_history": [
+        507.5
+    ],
+    "bax_s": 507.5,
+    "bax_s_history": [
+        507.5
+    ],
+    "bax_u": 507.5,
+    "bax_u_history": [
+        507.5
+    ],
+    "gender": "f",
+    "id": "08f5e8f62a725771b8a7e9b5e1016baa",
+    "matches_d": [],
+    "matches_d_history": [],
+    "matches_m": [],
+    "matches_m_history": [],
+    "matches_s": [],
+    "matches_s_history": [],
+    "matches_u": [],
+    "matches_u_history": [],
+    "name": "Malin Schnepper",
+    "pbr_d": 57.5,
+    "pbr_d_history": [
+        57.5
+    ],
+    "pbr_m": 57.5,
+    "pbr_m_history": [
+        57.5
+    ],
+    "pbr_s": 57.5,
+    "pbr_s_history": [
+        57.5
+    ],
+    "pbr_u": 57.5,
+    "pbr_u_history": [
+        57.5
+    ],
+    "status": "active"
+}

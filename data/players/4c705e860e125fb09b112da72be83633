@@ -1,0 +1,46 @@
+{
+    "bax_d": 462.5,
+    "bax_d_history": [
+        462.5
+    ],
+    "bax_m": 462.5,
+    "bax_m_history": [
+        462.5
+    ],
+    "bax_s": 462.5,
+    "bax_s_history": [
+        462.5
+    ],
+    "bax_u": 462.5,
+    "bax_u_history": [
+        462.5
+    ],
+    "gender": "m",
+    "id": "4c705e860e125fb09b112da72be83633",
+    "matches_d": [],
+    "matches_d_history": [],
+    "matches_m": [],
+    "matches_m_history": [],
+    "matches_s": [],
+    "matches_s_history": [],
+    "matches_u": [],
+    "matches_u_history": [],
+    "name": "Jens Obermann",
+    "pbr_d": 12.5,
+    "pbr_d_history": [
+        12.5
+    ],
+    "pbr_m": 12.5,
+    "pbr_m_history": [
+        12.5
+    ],
+    "pbr_s": 12.5,
+    "pbr_s_history": [
+        12.5
+    ],
+    "pbr_u": 12.5,
+    "pbr_u_history": [
+        12.5
+    ],
+    "status": "active"
+}

@@ -1,0 +1,46 @@
+{
+    "bax_d": 512.5,
+    "bax_d_history": [
+        512.5
+    ],
+    "bax_m": 512.5,
+    "bax_m_history": [
+        512.5
+    ],
+    "bax_s": 512.5,
+    "bax_s_history": [
+        512.5
+    ],
+    "bax_u": 512.5,
+    "bax_u_history": [
+        512.5
+    ],
+    "gender": "m",
+    "id": "bfc6eb5f13bb5d1c9075f08afb1462c9",
+    "matches_d": [],
+    "matches_d_history": [],
+    "matches_m": [],
+    "matches_m_history": [],
+    "matches_s": [],
+    "matches_s_history": [],
+    "matches_u": [],
+    "matches_u_history": [],
+    "name": "Durga P.B. Nasika",
+    "pbr_d": 62.5,
+    "pbr_d_history": [
+        62.5
+    ],
+    "pbr_m": 62.5,
+    "pbr_m_history": [
+        62.5
+    ],
+    "pbr_s": 62.5,
+    "pbr_s_history": [
+        62.5
+    ],
+    "pbr_u": 62.5,
+    "pbr_u_history": [
+        62.5
+    ],
+    "status": "active"
+}

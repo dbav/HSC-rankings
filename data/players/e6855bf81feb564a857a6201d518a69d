@@ -1,0 +1,46 @@
+{
+    "bax_d": 537.5,
+    "bax_d_history": [
+        537.5
+    ],
+    "bax_m": 537.5,
+    "bax_m_history": [
+        537.5
+    ],
+    "bax_s": 537.5,
+    "bax_s_history": [
+        537.5
+    ],
+    "bax_u": 537.5,
+    "bax_u_history": [
+        537.5
+    ],
+    "gender": "m",
+    "id": "e6855bf81feb564a857a6201d518a69d",
+    "matches_d": [],
+    "matches_d_history": [],
+    "matches_m": [],
+    "matches_m_history": [],
+    "matches_s": [],
+    "matches_s_history": [],
+    "matches_u": [],
+    "matches_u_history": [],
+    "name": "Hark Empen",
+    "pbr_d": 87.5,
+    "pbr_d_history": [
+        87.5
+    ],
+    "pbr_m": 87.5,
+    "pbr_m_history": [
+        87.5
+    ],
+    "pbr_s": 87.5,
+    "pbr_s_history": [
+        87.5
+    ],
+    "pbr_u": 87.5,
+    "pbr_u_history": [
+        87.5
+    ],
+    "status": "active"
+}
