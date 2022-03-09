@@ -8,24 +8,25 @@
 | 4        | Alexander Voigt               ( 0) | 522.50  |                 | 4        | Alexander Voigt               ( 0) | 72.50   |
 | 5        | Woon Hong Kwa                 ( 0) | 517.50  |                 | 5        | Woon Hong Kwa                 ( 0) | 67.50   |
 | 6        | Sebastian Mootz               ( 0) | 517.50  |                 | 6        | Sebastian Mootz               ( 0) | 67.50   |
-| 7        | Yvonne Flader                 ( 0) | 512.50  |                 | 7        | Yvonne Flader                 ( 0) | 62.50   |
-| 8        | Durga P.B. Nasika             ( 0) | 512.50  |                 | 8        | Durga P.B. Nasika             ( 0) | 62.50   |
+| 7        | Durga P.B. Nasika             ( 1) | 515.21  |                 | 7        | Yvonne Flader                 ( 0) | 62.50   |
+| 8        | Yvonne Flader                 ( 0) | 512.50  |                 | 8        | Durga P.B. Nasika             ( 1) | 59.75   |
 | 9        | Malin Schnepper               ( 0) | 507.50  |                 | 9        | Malin Schnepper               ( 0) | 57.50   |
 | 10       | Allu Sai Ram Reddy            ( 0) | 507.50  |                 | 10       | Allu Sai Ram Reddy            ( 0) | 57.50   |
-| 11       | Matti Rohlf                   ( 0) | 502.50  |                 | 11       | Matti Rohlf                   ( 0) | 52.50   |
-| 12       | Liza Kohl                     ( 0) | 502.50  |                 | 12       | Liza Kohl                     ( 0) | 52.50   |
-| 13       | Lucie Gavillet                ( 0) | 497.50  |                 | 13       | Lucie Gavillet                ( 0) | 47.50   |
-| 14       | Kevin Erkelenz                ( 0) | 497.50  |                 | 14       | Kevin Erkelenz                ( 0) | 47.50   |
-| 15       | Yu-Tung Yang                  ( 0) | 492.50  |                 | 15       | Yu-Tung Yang                  ( 0) | 42.50   |
-| 16       | Anh Quang Nguyen              ( 0) | 492.50  |                 | 16       | Anh Quang Nguyen              ( 0) | 42.50   |
-| 17       | Thi Mai Phuong Do             ( 0) | 487.50  |                 | 17       | Thi Mai Phuong Do             ( 0) | 37.50   |
-| 18       | Bui Tseng-Nglina              ( 0) | 487.50  |                 | 18       | Bui Tseng-Nglina              ( 0) | 37.50   |
-| 19       | Lea Song-I Park               ( 0) | 482.50  |                 | 19       | Lea Song-I Park               ( 0) | 32.50   |
-| 20       | Arne Empen                    ( 0) | 482.50  |                 | 20       | Arne Empen                    ( 0) | 32.50   |
-| 21       | Bodo Voigt                    ( 0) | 477.50  |                 | 21       | Bodo Voigt                    ( 0) | 27.50   |
-| 22       | Dirk Engel                    ( 0) | 472.50  |                 | 22       | Dirk Engel                    ( 0) | 22.50   |
-| 23       | Klaus Wagener                 ( 0) | 467.50  |                 | 23       | Klaus Wagener                 ( 0) | 17.50   |
-| 24       | Jens Obermann                 ( 0) | 462.50  |                 | 24       | Jens Obermann                 ( 0) | 12.50   |
+| 11       | Karthik                       ( 1) | 503.70  |                 | 11       | Karthik                       ( 1) | 53.50   |
+| 12       | Matti Rohlf                   ( 1) | 499.30  |                 | 12       | Matti Rohlf                   ( 1) | 52.12   |
+| 13       | Liza Kohl                     ( 1) | 499.30  |                 | 13       | Liza Kohl                     ( 1) | 52.12   |
+| 14       | Lucie Gavillet                ( 0) | 497.50  |                 | 14       | Lucie Gavillet                ( 0) | 47.50   |
+| 15       | Kevin Erkelenz                ( 0) | 497.50  |                 | 15       | Kevin Erkelenz                ( 0) | 47.50   |
+| 16       | Yu-Tung Yang                  ( 0) | 492.50  |                 | 16       | Yu-Tung Yang                  ( 0) | 42.50   |
+| 17       | Anh Quang Nguyen              ( 0) | 492.50  |                 | 17       | Anh Quang Nguyen              ( 0) | 42.50   |
+| 18       | Thi Mai Phuong Do             ( 0) | 487.50  |                 | 18       | Thi Mai Phuong Do             ( 0) | 37.50   |
+| 19       | Bui Tseng-Nglina              ( 0) | 487.50  |                 | 19       | Bui Tseng-Nglina              ( 0) | 37.50   |
+| 20       | Lea Song-I Park               ( 0) | 482.50  |                 | 20       | Lea Song-I Park               ( 0) | 32.50   |
+| 21       | Arne Empen                    ( 0) | 482.50  |                 | 21       | Arne Empen                    ( 0) | 32.50   |
+| 22       | Bodo Voigt                    ( 0) | 477.50  |                 | 22       | Bodo Voigt                    ( 0) | 27.50   |
+| 23       | Dirk Engel                    ( 0) | 472.50  |                 | 23       | Dirk Engel                    ( 0) | 22.50   |
+| 24       | Klaus Wagener                 ( 0) | 467.50  |                 | 24       | Klaus Wagener                 ( 0) | 17.50   |
+| 25       | Jens Obermann                 ( 0) | 462.50  |                 | 25       | Jens Obermann                 ( 0) | 12.50   |
 |          |                                    |         | **Rankings MS** |          |                                    |         |
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
 | 1        | Hark Empen                    ( 0) | 537.50  |                 | 1        | Hark Empen                    ( 0) | 87.50   |
@@ -36,14 +37,15 @@
 | 6        | Durga P.B. Nasika             ( 0) | 512.50  |                 | 6        | Durga P.B. Nasika             ( 0) | 62.50   |
 | 7        | Allu Sai Ram Reddy            ( 0) | 507.50  |                 | 7        | Allu Sai Ram Reddy            ( 0) | 57.50   |
 | 8        | Matti Rohlf                   ( 0) | 502.50  |                 | 8        | Matti Rohlf                   ( 0) | 52.50   |
-| 9        | Kevin Erkelenz                ( 0) | 497.50  |                 | 9        | Kevin Erkelenz                ( 0) | 47.50   |
-| 10       | Anh Quang Nguyen              ( 0) | 492.50  |                 | 10       | Anh Quang Nguyen              ( 0) | 42.50   |
-| 11       | Bui Tseng-Nglina              ( 0) | 487.50  |                 | 11       | Bui Tseng-Nglina              ( 0) | 37.50   |
-| 12       | Arne Empen                    ( 0) | 482.50  |                 | 12       | Arne Empen                    ( 0) | 32.50   |
-| 13       | Bodo Voigt                    ( 0) | 477.50  |                 | 13       | Bodo Voigt                    ( 0) | 27.50   |
-| 14       | Dirk Engel                    ( 0) | 472.50  |                 | 14       | Dirk Engel                    ( 0) | 22.50   |
-| 15       | Klaus Wagener                 ( 0) | 467.50  |                 | 15       | Klaus Wagener                 ( 0) | 17.50   |
-| 16       | Jens Obermann                 ( 0) | 462.50  |                 | 16       | Jens Obermann                 ( 0) | 12.50   |
+| 9        | Karthik                       ( 0) | 500.00  |                 | 9        | Karthik                       ( 0) | 50.00   |
+| 10       | Kevin Erkelenz                ( 0) | 497.50  |                 | 10       | Kevin Erkelenz                ( 0) | 47.50   |
+| 11       | Anh Quang Nguyen              ( 0) | 492.50  |                 | 11       | Anh Quang Nguyen              ( 0) | 42.50   |
+| 12       | Bui Tseng-Nglina              ( 0) | 487.50  |                 | 12       | Bui Tseng-Nglina              ( 0) | 37.50   |
+| 13       | Arne Empen                    ( 0) | 482.50  |                 | 13       | Arne Empen                    ( 0) | 32.50   |
+| 14       | Bodo Voigt                    ( 0) | 477.50  |                 | 14       | Bodo Voigt                    ( 0) | 27.50   |
+| 15       | Dirk Engel                    ( 0) | 472.50  |                 | 15       | Dirk Engel                    ( 0) | 22.50   |
+| 16       | Klaus Wagener                 ( 0) | 467.50  |                 | 16       | Klaus Wagener                 ( 0) | 17.50   |
+| 17       | Jens Obermann                 ( 0) | 462.50  |                 | 17       | Jens Obermann                 ( 0) | 12.50   |
 |          |                                    |         | **Rankings MD** |          |                                    |         |
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
 | 1        | Hark Empen                    ( 0) | 537.50  |                 | 1        | Hark Empen                    ( 0) | 87.50   |
@@ -54,14 +56,15 @@
 | 6        | Durga P.B. Nasika             ( 0) | 512.50  |                 | 6        | Durga P.B. Nasika             ( 0) | 62.50   |
 | 7        | Allu Sai Ram Reddy            ( 0) | 507.50  |                 | 7        | Allu Sai Ram Reddy            ( 0) | 57.50   |
 | 8        | Matti Rohlf                   ( 0) | 502.50  |                 | 8        | Matti Rohlf                   ( 0) | 52.50   |
-| 9        | Kevin Erkelenz                ( 0) | 497.50  |                 | 9        | Kevin Erkelenz                ( 0) | 47.50   |
-| 10       | Anh Quang Nguyen              ( 0) | 492.50  |                 | 10       | Anh Quang Nguyen              ( 0) | 42.50   |
-| 11       | Bui Tseng-Nglina              ( 0) | 487.50  |                 | 11       | Bui Tseng-Nglina              ( 0) | 37.50   |
-| 12       | Arne Empen                    ( 0) | 482.50  |                 | 12       | Arne Empen                    ( 0) | 32.50   |
-| 13       | Bodo Voigt                    ( 0) | 477.50  |                 | 13       | Bodo Voigt                    ( 0) | 27.50   |
-| 14       | Dirk Engel                    ( 0) | 472.50  |                 | 14       | Dirk Engel                    ( 0) | 22.50   |
-| 15       | Klaus Wagener                 ( 0) | 467.50  |                 | 15       | Klaus Wagener                 ( 0) | 17.50   |
-| 16       | Jens Obermann                 ( 0) | 462.50  |                 | 16       | Jens Obermann                 ( 0) | 12.50   |
+| 9        | Karthik                       ( 0) | 500.00  |                 | 9        | Karthik                       ( 0) | 50.00   |
+| 10       | Kevin Erkelenz                ( 0) | 497.50  |                 | 10       | Kevin Erkelenz                ( 0) | 47.50   |
+| 11       | Anh Quang Nguyen              ( 0) | 492.50  |                 | 11       | Anh Quang Nguyen              ( 0) | 42.50   |
+| 12       | Bui Tseng-Nglina              ( 0) | 487.50  |                 | 12       | Bui Tseng-Nglina              ( 0) | 37.50   |
+| 13       | Arne Empen                    ( 0) | 482.50  |                 | 13       | Arne Empen                    ( 0) | 32.50   |
+| 14       | Bodo Voigt                    ( 0) | 477.50  |                 | 14       | Bodo Voigt                    ( 0) | 27.50   |
+| 15       | Dirk Engel                    ( 0) | 472.50  |                 | 15       | Dirk Engel                    ( 0) | 22.50   |
+| 16       | Klaus Wagener                 ( 0) | 467.50  |                 | 16       | Klaus Wagener                 ( 0) | 17.50   |
+| 17       | Jens Obermann                 ( 0) | 462.50  |                 | 17       | Jens Obermann                 ( 0) | 12.50   |
 |          |                                    |         | **Rankings WS** |          |                                    |         |
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
 | 1        | Woon Hong Kwa                 ( 0) | 517.50  |                 | 1        | Woon Hong Kwa                 ( 0) | 67.50   |
@@ -96,18 +99,19 @@
 | 10       | Allu Sai Ram Reddy            ( 0) | 507.50  |                 | 10       | Allu Sai Ram Reddy            ( 0) | 57.50   |
 | 11       | Matti Rohlf                   ( 0) | 502.50  |                 | 11       | Matti Rohlf                   ( 0) | 52.50   |
 | 12       | Liza Kohl                     ( 0) | 502.50  |                 | 12       | Liza Kohl                     ( 0) | 52.50   |
-| 13       | Lucie Gavillet                ( 0) | 497.50  |                 | 13       | Lucie Gavillet                ( 0) | 47.50   |
-| 14       | Kevin Erkelenz                ( 0) | 497.50  |                 | 14       | Kevin Erkelenz                ( 0) | 47.50   |
-| 15       | Yu-Tung Yang                  ( 0) | 492.50  |                 | 15       | Yu-Tung Yang                  ( 0) | 42.50   |
-| 16       | Anh Quang Nguyen              ( 0) | 492.50  |                 | 16       | Anh Quang Nguyen              ( 0) | 42.50   |
-| 17       | Thi Mai Phuong Do             ( 0) | 487.50  |                 | 17       | Thi Mai Phuong Do             ( 0) | 37.50   |
-| 18       | Bui Tseng-Nglina              ( 0) | 487.50  |                 | 18       | Bui Tseng-Nglina              ( 0) | 37.50   |
-| 19       | Lea Song-I Park               ( 0) | 482.50  |                 | 19       | Lea Song-I Park               ( 0) | 32.50   |
-| 20       | Arne Empen                    ( 0) | 482.50  |                 | 20       | Arne Empen                    ( 0) | 32.50   |
-| 21       | Bodo Voigt                    ( 0) | 477.50  |                 | 21       | Bodo Voigt                    ( 0) | 27.50   |
-| 22       | Dirk Engel                    ( 0) | 472.50  |                 | 22       | Dirk Engel                    ( 0) | 22.50   |
-| 23       | Klaus Wagener                 ( 0) | 467.50  |                 | 23       | Klaus Wagener                 ( 0) | 17.50   |
-| 24       | Jens Obermann                 ( 0) | 462.50  |                 | 24       | Jens Obermann                 ( 0) | 12.50   |
+| 13       | Karthik                       ( 0) | 500.00  |                 | 13       | Karthik                       ( 0) | 50.00   |
+| 14       | Lucie Gavillet                ( 0) | 497.50  |                 | 14       | Lucie Gavillet                ( 0) | 47.50   |
+| 15       | Kevin Erkelenz                ( 0) | 497.50  |                 | 15       | Kevin Erkelenz                ( 0) | 47.50   |
+| 16       | Yu-Tung Yang                  ( 0) | 492.50  |                 | 16       | Yu-Tung Yang                  ( 0) | 42.50   |
+| 17       | Anh Quang Nguyen              ( 0) | 492.50  |                 | 17       | Anh Quang Nguyen              ( 0) | 42.50   |
+| 18       | Thi Mai Phuong Do             ( 0) | 487.50  |                 | 18       | Thi Mai Phuong Do             ( 0) | 37.50   |
+| 19       | Bui Tseng-Nglina              ( 0) | 487.50  |                 | 19       | Bui Tseng-Nglina              ( 0) | 37.50   |
+| 20       | Lea Song-I Park               ( 0) | 482.50  |                 | 20       | Lea Song-I Park               ( 0) | 32.50   |
+| 21       | Arne Empen                    ( 0) | 482.50  |                 | 21       | Arne Empen                    ( 0) | 32.50   |
+| 22       | Bodo Voigt                    ( 0) | 477.50  |                 | 22       | Bodo Voigt                    ( 0) | 27.50   |
+| 23       | Dirk Engel                    ( 0) | 472.50  |                 | 23       | Dirk Engel                    ( 0) | 22.50   |
+| 24       | Klaus Wagener                 ( 0) | 467.50  |                 | 24       | Klaus Wagener                 ( 0) | 17.50   |
+| 25       | Jens Obermann                 ( 0) | 462.50  |                 | 25       | Jens Obermann                 ( 0) | 12.50   |
 # HSC-rankings
 These are our internal rankings. Each player gets a BAX \[1\] and a PBR \[2\] for each discipline (Wo/Men's singles, Wo/Men's doubles, mixed doubles). There is also an additional BAX and PBR for each player for matches that are in neihter of the aforementioned disciplines, i.e. a male vs. female singles match.
 

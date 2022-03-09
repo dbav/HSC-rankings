@@ -1,23 +1,23 @@
 {
-    "bax_d": 512.5,
+    "bax_d": 500.0,
     "bax_d_history": [
-        512.5
+        500.0
     ],
-    "bax_m": 512.5,
+    "bax_m": 500.0,
     "bax_m_history": [
-        512.5
+        500.0
     ],
-    "bax_s": 512.5,
+    "bax_s": 500.0,
     "bax_s_history": [
-        512.5
+        500.0
     ],
-    "bax_u": 515.208042258928,
+    "bax_u": 503.7012539472459,
     "bax_u_history": [
-        512.5,
-        515.208042258928
+        500.0,
+        503.7012539472459
     ],
     "gender": "m",
-    "id": "bfc6eb5f13bb5d1c9075f08afb1462c9",
+    "id": "29e256790d1d546aaec9231615d9379b",
     "matches_d": [],
     "matches_d_history": [],
     "matches_m": [],
@@ -58,23 +58,23 @@
             ]
         }
     ],
-    "name": "Durga P.B. Nasika",
-    "pbr_d": 62.5,
+    "name": "Karthik",
+    "pbr_d": 50.0,
     "pbr_d_history": [
-        62.5
+        50.0
     ],
-    "pbr_m": 62.5,
+    "pbr_m": 50.0,
     "pbr_m_history": [
-        62.5
+        50.0
     ],
-    "pbr_s": 62.5,
+    "pbr_s": 50.0,
     "pbr_s_history": [
-        62.5
+        50.0
     ],
-    "pbr_u": 59.75,
+    "pbr_u": 53.5,
     "pbr_u_history": [
-        62.5,
-        59.75
+        50.0,
+        53.5
     ],
     "status": "active"
 }

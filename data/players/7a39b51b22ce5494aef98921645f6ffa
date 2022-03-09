@@ -11,9 +11,10 @@
     "bax_s_history": [
         502.5
     ],
-    "bax_u": 502.5,
+    "bax_u": 499.3014654441555,
     "bax_u_history": [
-        502.5
+        502.5,
+        499.3014654441555
     ],
     "gender": "f",
     "id": "7a39b51b22ce5494aef98921645f6ffa",
@@ -24,7 +25,39 @@
     "matches_s": [],
     "matches_s_history": [],
     "matches_u": [],
-    "matches_u_history": [],
+    "matches_u_history": [
+        {
+            "baxA": 506.25,
+            "baxB": 502.5,
+            "date": "2022-03-08",
+            "games": [
+                [
+                    21,
+                    19
+                ],
+                [
+                    21,
+                    14
+                ]
+            ],
+            "pbrA": 56.25,
+            "pbrB": 52.5,
+            "score_difference": 4.5,
+            "sideA": [
+                "Durga P.B. Nasika",
+                "Karthik"
+            ],
+            "sideB": [
+                "Matti Rohlf",
+                "Liza Kohl"
+            ],
+            "type": "Undefined discipline",
+            "winner": [
+                "Durga P.B. Nasika",
+                "Karthik"
+            ]
+        }
+    ],
     "name": "Liza Kohl",
     "pbr_d": 52.5,
     "pbr_d_history": [
@@ -38,9 +71,10 @@
     "pbr_s_history": [
         52.5
     ],
-    "pbr_u": 52.5,
+    "pbr_u": 52.125,
     "pbr_u_history": [
-        52.5
+        52.5,
+        52.125
     ],
     "status": "active"
 }
