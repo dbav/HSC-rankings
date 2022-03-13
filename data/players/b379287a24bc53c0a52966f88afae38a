@@ -7,9 +7,10 @@
     "bax_m_history": [
         522.5
     ],
-    "bax_s": 522.5,
+    "bax_s": 526.791957741072,
     "bax_s_history": [
-        522.5
+        522.5,
+        526.791957741072
     ],
     "bax_u": 522.5,
     "bax_u_history": [
@@ -22,7 +23,36 @@
     "matches_m": [],
     "matches_m_history": [],
     "matches_s": [],
-    "matches_s_history": [],
+    "matches_s_history": [
+        {
+            "baxA": 522.5,
+            "baxB": 532.5,
+            "date": "2022-03-12",
+            "games": [
+                [
+                    24,
+                    22
+                ],
+                [
+                    21,
+                    16
+                ]
+            ],
+            "pbrA": 72.5,
+            "pbrB": 82.5,
+            "score_difference": 3.5,
+            "sideA": [
+                "Alexander Voigt"
+            ],
+            "sideB": [
+                "Johannes Rosenzweig"
+            ],
+            "type": "Men's singles",
+            "winner": [
+                "Alexander Voigt"
+            ]
+        }
+    ],
     "matches_u": [],
     "matches_u_history": [],
     "name": "Alexander Voigt",
@@ -34,9 +64,10 @@
     "pbr_m_history": [
         72.5
     ],
-    "pbr_s": 72.5,
+    "pbr_s": 79.25,
     "pbr_s_history": [
-        72.5
+        72.5,
+        79.25
     ],
     "pbr_u": 72.5,
     "pbr_u_history": [
