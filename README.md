@@ -94,15 +94,15 @@
 | 5        | Woon Hong Kwa                 ( 0) | 517.50  |                 | 5        | Woon Hong Kwa                 ( 0) | 67.50   |
 | 6        | Sebastian Mootz               ( 0) | 517.50  |                 | 6        | Sebastian Mootz               ( 0) | 67.50   |
 | 7        | Yvonne Flader                 ( 0) | 512.50  |                 | 7        | Yvonne Flader                 ( 0) | 62.50   |
-| 8        | Durga P.B. Nasika             ( 0) | 512.50  |                 | 8        | Durga P.B. Nasika             ( 0) | 62.50   |
+| 8        | Matti Rohlf                   ( 2) | 509.59  |                 | 8        | Matti Rohlf                   ( 2) | 57.50   |
 | 9        | Malin Schnepper               ( 0) | 507.50  |                 | 9        | Malin Schnepper               ( 0) | 57.50   |
 | 10       | Allu Sai Ram Reddy            ( 0) | 507.50  |                 | 10       | Allu Sai Ram Reddy            ( 0) | 57.50   |
-| 11       | Matti Rohlf                   ( 0) | 502.50  |                 | 11       | Matti Rohlf                   ( 0) | 52.50   |
-| 12       | Liza Kohl                     ( 0) | 502.50  |                 | 12       | Liza Kohl                     ( 0) | 52.50   |
+| 11       | Durga P.B. Nasika             ( 2) | 503.89  |                 | 11       | Yu-Tung Yang                  ( 2) | 51.50   |
+| 12       | Liza Kohl                     ( 2) | 501.85  |                 | 12       | Liza Kohl                     ( 2) | 51.00   |
 | 13       | Karthik                       ( 0) | 500.00  |                 | 13       | Karthik                       ( 0) | 50.00   |
-| 14       | Lucie Gavillet                ( 0) | 497.50  |                 | 14       | Lucie Gavillet                ( 0) | 47.50   |
-| 15       | Kevin Erkelenz                ( 0) | 497.50  |                 | 15       | Kevin Erkelenz                ( 0) | 47.50   |
-| 16       | Yu-Tung Yang                  ( 0) | 492.50  |                 | 16       | Yu-Tung Yang                  ( 0) | 42.50   |
+| 14       | Lucie Gavillet                ( 0) | 497.50  |                 | 14       | Durga P.B. Nasika             ( 2) | 50.00   |
+| 15       | Kevin Erkelenz                ( 0) | 497.50  |                 | 15       | Lucie Gavillet                ( 0) | 47.50   |
+| 16       | Yu-Tung Yang                  ( 2) | 494.62  |                 | 16       | Kevin Erkelenz                ( 0) | 47.50   |
 | 17       | Anh Quang Nguyen              ( 0) | 492.50  |                 | 17       | Anh Quang Nguyen              ( 0) | 42.50   |
 | 18       | Thi Mai Phuong Do             ( 0) | 487.50  |                 | 18       | Thi Mai Phuong Do             ( 0) | 37.50   |
 | 19       | Bui Tseng-Nglina              ( 0) | 487.50  |                 | 19       | Bui Tseng-Nglina              ( 0) | 37.50   |

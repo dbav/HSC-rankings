@@ -3,9 +3,11 @@
     "bax_d_history": [
         492.5
     ],
-    "bax_m": 492.5,
+    "bax_m": 494.61765917017095,
     "bax_m_history": [
-        492.5
+        492.5,
+        489.791957741072,
+        494.61765917017095
     ],
     "bax_s": 492.5,
     "bax_s_history": [
@@ -20,7 +22,70 @@
     "matches_d": [],
     "matches_d_history": [],
     "matches_m": [],
-    "matches_m_history": [],
+    "matches_m_history": [
+        {
+            "baxA": 502.5,
+            "baxB": 502.5,
+            "date": "2022-03-17",
+            "games": [
+                [
+                    21,
+                    19
+                ],
+                [
+                    21,
+                    9
+                ]
+            ],
+            "pbrA": 52.5,
+            "pbrB": 52.5,
+            "score_difference": 7.0,
+            "sideA": [
+                "Liza Kohl",
+                "Matti Rohlf"
+            ],
+            "sideB": [
+                "Yu-Tung Yang",
+                "Durga P.B. Nasika"
+            ],
+            "type": "Mixed doubles",
+            "winner": [
+                "Liza Kohl",
+                "Matti Rohlf"
+            ]
+        },
+        {
+            "baxA": 497.895978870536,
+            "baxB": 507.104021129464,
+            "date": "2022-03-17",
+            "games": [
+                [
+                    21,
+                    18
+                ],
+                [
+                    21,
+                    16
+                ]
+            ],
+            "pbrA": 50.0,
+            "pbrB": 55.0,
+            "score_difference": 4.0,
+            "sideA": [
+                "Yu-Tung Yang",
+                "Matti Rohlf"
+            ],
+            "sideB": [
+                "Liza Kohl",
+                "Durga P.B. Nasika"
+            ],
+            "type": "Mixed doubles",
+            "winner": [
+                "Yu-Tung Yang",
+                "Matti Rohlf"
+            ]
+        }
+    ],
     "matches_s": [],
     "matches_s_history": [],
     "matches_u": [],
@@ -30,9 +95,11 @@
     "pbr_d_history": [
         42.5
     ],
-    "pbr_m": 42.5,
+    "pbr_m": 51.5,
     "pbr_m_history": [
-        42.5
+        42.5,
+        44.0,
+        51.5
     ],
     "pbr_s": 42.5,
     "pbr_s_history": [
