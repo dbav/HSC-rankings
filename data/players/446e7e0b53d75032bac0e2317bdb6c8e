@@ -3,11 +3,12 @@
     "bax_d_history": [
         492.5
     ],
-    "bax_m": 494.61765917017095,
+    "bax_m": 491.9916039291457,
     "bax_m_history": [
         492.5,
         489.791957741072,
-        494.61765917017095
+        494.61765917017095,
+        491.9916039291457
     ],
     "bax_s": 492.5,
     "bax_s_history": [
@@ -85,6 +86,37 @@
                 "Yu-Tung Yang",
                 "Matti Rohlf"
             ]
+        },
+        {
+            "baxA": 505.69613098158584,
+            "baxB": 508.5588295850855,
+            "date": "2022-04-10",
+            "games": [
+                [
+                    21,
+                    15
+                ],
+                [
+                    21,
+                    16
+                ]
+            ],
+            "pbrA": 53.75,
+            "pbrB": 62.0,
+            "score_difference": 5.5,
+            "sideA": [
+                "Durga P.B. Nasika",
+                "Malin Schnepper"
+            ],
+            "sideB": [
+                "Alexander Voigt",
+                "Yu-Tung Yang"
+            ],
+            "type": "Mixed doubles",
+            "winner": [
+                "Durga P.B. Nasika",
+                "Malin Schnepper"
+            ]
         }
     ],
     "matches_s": [],
@@ -128,11 +160,12 @@
     "pbr_d_history": [
         42.5
     ],
-    "pbr_m": 51.5,
+    "pbr_m": 49.875,
     "pbr_m_history": [
         42.5,
         44.0,
-        51.5
+        51.5,
+        49.875
     ],
     "pbr_s": 42.5,
     "pbr_s_history": [

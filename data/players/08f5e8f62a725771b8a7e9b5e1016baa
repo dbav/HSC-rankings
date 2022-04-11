@@ -3,9 +3,10 @@
     "bax_d_history": [
         507.5
     ],
-    "bax_m": 507.5,
+    "bax_m": 511.085314679457,
     "bax_m_history": [
-        507.5
+        507.5,
+        511.085314679457
     ],
     "bax_s": 507.5,
     "bax_s_history": [
@@ -20,7 +21,39 @@
     "matches_d": [],
     "matches_d_history": [],
     "matches_m": [],
-    "matches_m_history": [],
+    "matches_m_history": [
+        {
+            "baxA": 505.69613098158584,
+            "baxB": 508.5588295850855,
+            "date": "2022-04-10",
+            "games": [
+                [
+                    21,
+                    15
+                ],
+                [
+                    21,
+                    16
+                ]
+            ],
+            "pbrA": 53.75,
+            "pbrB": 62.0,
+            "score_difference": 5.5,
+            "sideA": [
+                "Durga P.B. Nasika",
+                "Malin Schnepper"
+            ],
+            "sideB": [
+                "Alexander Voigt",
+                "Yu-Tung Yang"
+            ],
+            "type": "Mixed doubles",
+            "winner": [
+                "Durga P.B. Nasika",
+                "Malin Schnepper"
+            ]
+        }
+    ],
     "matches_s": [],
     "matches_s_history": [],
     "matches_u": [],
@@ -30,9 +63,10 @@
     "pbr_d_history": [
         57.5
     ],
-    "pbr_m": 57.5,
+    "pbr_m": 62.5,
     "pbr_m_history": [
-        57.5
+        57.5,
+        62.5
     ],
     "pbr_s": 57.5,
     "pbr_s_history": [
