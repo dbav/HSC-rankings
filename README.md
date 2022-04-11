@@ -4,21 +4,21 @@
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
 | 1        | Hark Empen                    ( 0) | 537.50  |                 | 1        | Hark Empen                    ( 0) | 87.50   |
 | 2        | Johannes Rosenzweig           ( 0) | 532.50  |                 | 2        | Johannes Rosenzweig           ( 0) | 82.50   |
-| 3        | Till Staude                   ( 0) | 527.50  |                 | 3        | Till Staude                   ( 0) | 77.50   |
-| 4        | Alexander Voigt               ( 0) | 522.50  |                 | 4        | Alexander Voigt               ( 0) | 72.50   |
-| 5        | Woon Hong Kwa                 ( 0) | 517.50  |                 | 5        | Woon Hong Kwa                 ( 0) | 67.50   |
-| 6        | Sebastian Mootz               ( 0) | 517.50  |                 | 6        | Sebastian Mootz               ( 0) | 67.50   |
-| 7        | Durga P.B. Nasika             ( 1) | 515.21  |                 | 7        | Yvonne Flader                 ( 0) | 62.50   |
-| 8        | Yvonne Flader                 ( 0) | 512.50  |                 | 8        | Durga P.B. Nasika             ( 1) | 59.75   |
+| 3        | Alexander Voigt               ( 1) | 525.02  |                 | 3        | Alexander Voigt               ( 1) | 70.75   |
+| 4        | Till Staude                   ( 1) | 523.31  |                 | 4        | Woon Hong Kwa                 ( 0) | 67.50   |
+| 5        | Durga P.B. Nasika             ( 2) | 518.29  |                 | 5        | Sebastian Mootz               ( 0) | 67.50   |
+| 6        | Woon Hong Kwa                 ( 0) | 517.50  |                 | 6        | Till Staude                   ( 1) | 67.31   |
+| 7        | Sebastian Mootz               ( 0) | 517.50  |                 | 7        | Durga P.B. Nasika             ( 2) | 64.38   |
+| 8        | Yvonne Flader                 ( 0) | 512.50  |                 | 8        | Yvonne Flader                 ( 0) | 62.50   |
 | 9        | Malin Schnepper               ( 0) | 507.50  |                 | 9        | Malin Schnepper               ( 0) | 57.50   |
 | 10       | Allu Sai Ram Reddy            ( 0) | 507.50  |                 | 10       | Allu Sai Ram Reddy            ( 0) | 57.50   |
 | 11       | Karthik                       ( 1) | 503.70  |                 | 11       | Karthik                       ( 1) | 53.50   |
 | 12       | Matti Rohlf                   ( 1) | 499.30  |                 | 12       | Matti Rohlf                   ( 1) | 52.12   |
 | 13       | Liza Kohl                     ( 1) | 499.30  |                 | 13       | Liza Kohl                     ( 1) | 52.12   |
-| 14       | Lucie Gavillet                ( 0) | 497.50  |                 | 14       | Lucie Gavillet                ( 0) | 47.50   |
-| 15       | Kevin Erkelenz                ( 0) | 497.50  |                 | 15       | Kevin Erkelenz                ( 0) | 47.50   |
-| 16       | Yu-Tung Yang                  ( 0) | 492.50  |                 | 16       | Yu-Tung Yang                  ( 0) | 42.50   |
-| 17       | Anh Quang Nguyen              ( 0) | 492.50  |                 | 17       | Anh Quang Nguyen              ( 0) | 42.50   |
+| 14       | Lucie Gavillet                ( 0) | 497.50  |                 | 14       | Yu-Tung Yang                  ( 1) | 49.81   |
+| 15       | Kevin Erkelenz                ( 0) | 497.50  |                 | 15       | Lucie Gavillet                ( 0) | 47.50   |
+| 16       | Anh Quang Nguyen              ( 0) | 492.50  |                 | 16       | Kevin Erkelenz                ( 0) | 47.50   |
+| 17       | Yu-Tung Yang                  ( 1) | 490.90  |                 | 17       | Anh Quang Nguyen              ( 0) | 42.50   |
 | 18       | Thi Mai Phuong Do             ( 0) | 487.50  |                 | 18       | Thi Mai Phuong Do             ( 0) | 37.50   |
 | 19       | Bui Tseng-Nglina              ( 0) | 487.50  |                 | 19       | Bui Tseng-Nglina              ( 0) | 37.50   |
 | 20       | Lea Song-I Park               ( 0) | 482.50  |                 | 20       | Lea Song-I Park               ( 0) | 32.50   |

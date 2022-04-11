@@ -13,10 +13,11 @@
     "bax_s_history": [
         512.5
     ],
-    "bax_u": 515.208042258928,
+    "bax_u": 518.2903240869618,
     "bax_u_history": [
         512.5,
-        515.208042258928
+        515.208042258928,
+        518.2903240869618
     ],
     "gender": "m",
     "id": "bfc6eb5f13bb5d1c9075f08afb1462c9",
@@ -121,6 +122,37 @@
                 "Durga P.B. Nasika",
                 "Karthik"
             ]
+        },
+        {
+            "baxA": 518.854021129464,
+            "baxB": 510.0,
+            "date": "2022-04-10",
+            "games": [
+                [
+                    21,
+                    6
+                ],
+                [
+                    21,
+                    18
+                ]
+            ],
+            "pbrA": 66.125,
+            "pbrB": 60.0,
+            "score_difference": 9.0,
+            "sideA": [
+                "Durga P.B. Nasika",
+                "Alexander Voigt"
+            ],
+            "sideB": [
+                "Till Staude",
+                "Yu-Tung Yang"
+            ],
+            "type": "Undefined discipline",
+            "winner": [
+                "Durga P.B. Nasika",
+                "Alexander Voigt"
+            ]
         }
     ],
     "name": "Durga P.B. Nasika",
@@ -138,10 +170,11 @@
     "pbr_s_history": [
         62.5
     ],
-    "pbr_u": 59.75,
+    "pbr_u": 64.375,
     "pbr_u_history": [
         62.5,
-        59.75
+        59.75,
+        64.375
     ],
     "status": "active"
 }

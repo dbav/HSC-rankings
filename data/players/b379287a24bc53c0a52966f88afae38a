@@ -12,9 +12,10 @@
         522.5,
         526.791957741072
     ],
-    "bax_u": 522.5,
+    "bax_u": 525.0195450013798,
     "bax_u_history": [
-        522.5
+        522.5,
+        525.0195450013798
     ],
     "gender": "m",
     "id": "b379287a24bc53c0a52966f88afae38a",
@@ -54,7 +55,39 @@
         }
     ],
     "matches_u": [],
-    "matches_u_history": [],
+    "matches_u_history": [
+        {
+            "baxA": 518.854021129464,
+            "baxB": 510.0,
+            "date": "2022-04-10",
+            "games": [
+                [
+                    21,
+                    6
+                ],
+                [
+                    21,
+                    18
+                ]
+            ],
+            "pbrA": 66.125,
+            "pbrB": 60.0,
+            "score_difference": 9.0,
+            "sideA": [
+                "Durga P.B. Nasika",
+                "Alexander Voigt"
+            ],
+            "sideB": [
+                "Till Staude",
+                "Yu-Tung Yang"
+            ],
+            "type": "Undefined discipline",
+            "winner": [
+                "Durga P.B. Nasika",
+                "Alexander Voigt"
+            ]
+        }
+    ],
     "name": "Alexander Voigt",
     "pbr_d": 72.5,
     "pbr_d_history": [
@@ -69,9 +102,10 @@
         72.5,
         79.25
     ],
-    "pbr_u": 72.5,
+    "pbr_u": 70.75,
     "pbr_u_history": [
-        72.5
+        72.5,
+        70.75
     ],
     "status": "active"
 }

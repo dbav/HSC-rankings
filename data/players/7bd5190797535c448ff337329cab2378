@@ -11,9 +11,10 @@
     "bax_s_history": [
         527.5
     ],
-    "bax_u": 527.5,
+    "bax_u": 523.3122780645327,
     "bax_u_history": [
-        527.5
+        527.5,
+        523.3122780645327
     ],
     "gender": "m",
     "id": "7bd5190797535c448ff337329cab2378",
@@ -24,7 +25,39 @@
     "matches_s": [],
     "matches_s_history": [],
     "matches_u": [],
-    "matches_u_history": [],
+    "matches_u_history": [
+        {
+            "baxA": 518.854021129464,
+            "baxB": 510.0,
+            "date": "2022-04-10",
+            "games": [
+                [
+                    21,
+                    6
+                ],
+                [
+                    21,
+                    18
+                ]
+            ],
+            "pbrA": 66.125,
+            "pbrB": 60.0,
+            "score_difference": 9.0,
+            "sideA": [
+                "Durga P.B. Nasika",
+                "Alexander Voigt"
+            ],
+            "sideB": [
+                "Till Staude",
+                "Yu-Tung Yang"
+            ],
+            "type": "Undefined discipline",
+            "winner": [
+                "Durga P.B. Nasika",
+                "Alexander Voigt"
+            ]
+        }
+    ],
     "name": "Till Staude",
     "pbr_d": 77.5,
     "pbr_d_history": [
@@ -38,9 +71,10 @@
     "pbr_s_history": [
         77.5
     ],
-    "pbr_u": 77.5,
+    "pbr_u": 67.3125,
     "pbr_u_history": [
-        77.5
+        77.5,
+        67.3125
     ],
     "status": "active"
 }
