@@ -13,26 +13,27 @@
 | 9        | Malin Schnepper               ( 0) | 507.50  |                 | 9        | Malin Schnepper               ( 0) | 57.50   |
 | 10       | Allu Sai Ram Reddy            ( 0) | 507.50  |                 | 10       | Allu Sai Ram Reddy            ( 0) | 57.50   |
 | 11       | Karthik                       ( 1) | 503.70  |                 | 11       | Karthik                       ( 1) | 53.50   |
-| 12       | Matti Rohlf                   ( 1) | 499.30  |                 | 12       | Matti Rohlf                   ( 1) | 52.12   |
-| 13       | Liza Kohl                     ( 1) | 499.30  |                 | 13       | Liza Kohl                     ( 1) | 52.12   |
-| 14       | Lucie Gavillet                ( 0) | 497.50  |                 | 14       | Yu-Tung Yang                  ( 1) | 49.81   |
-| 15       | Kevin Erkelenz                ( 0) | 497.50  |                 | 15       | Lucie Gavillet                ( 0) | 47.50   |
-| 16       | Anh Quang Nguyen              ( 0) | 492.50  |                 | 16       | Kevin Erkelenz                ( 0) | 47.50   |
-| 17       | Yu-Tung Yang                  ( 1) | 490.90  |                 | 17       | Anh Quang Nguyen              ( 0) | 42.50   |
-| 18       | Thi Mai Phuong Do             ( 0) | 487.50  |                 | 18       | Thi Mai Phuong Do             ( 0) | 37.50   |
-| 19       | Bui Tseng-Nglina              ( 0) | 487.50  |                 | 19       | Bui Tseng-Nglina              ( 0) | 37.50   |
-| 20       | Lea Song-I Park               ( 0) | 482.50  |                 | 20       | Lea Song-I Park               ( 0) | 32.50   |
-| 21       | Arne Empen                    ( 0) | 482.50  |                 | 21       | Arne Empen                    ( 0) | 32.50   |
-| 22       | Bodo Voigt                    ( 0) | 477.50  |                 | 22       | Bodo Voigt                    ( 0) | 27.50   |
-| 23       | Dirk Engel                    ( 0) | 472.50  |                 | 23       | Dirk Engel                    ( 0) | 22.50   |
-| 24       | Klaus Wagener                 ( 0) | 467.50  |                 | 24       | Klaus Wagener                 ( 0) | 17.50   |
-| 25       | Jens Obermann                 ( 0) | 462.50  |                 | 25       | Jens Obermann                 ( 0) | 12.50   |
+| 12       | Kora John                     ( 0) | 500.00  |                 | 12       | Matti Rohlf                   ( 1) | 52.12   |
+| 13       | Matti Rohlf                   ( 1) | 499.30  |                 | 13       | Liza Kohl                     ( 1) | 52.12   |
+| 14       | Liza Kohl                     ( 1) | 499.30  |                 | 14       | Kora John                     ( 0) | 50.00   |
+| 15       | Lucie Gavillet                ( 0) | 497.50  |                 | 15       | Yu-Tung Yang                  ( 1) | 49.81   |
+| 16       | Kevin Erkelenz                ( 0) | 497.50  |                 | 16       | Lucie Gavillet                ( 0) | 47.50   |
+| 17       | Anh Quang Nguyen              ( 0) | 492.50  |                 | 17       | Kevin Erkelenz                ( 0) | 47.50   |
+| 18       | Yu-Tung Yang                  ( 1) | 490.90  |                 | 18       | Anh Quang Nguyen              ( 0) | 42.50   |
+| 19       | Thi Mai Phuong Do             ( 0) | 487.50  |                 | 19       | Thi Mai Phuong Do             ( 0) | 37.50   |
+| 20       | Bui Tseng-Nglina              ( 0) | 487.50  |                 | 20       | Bui Tseng-Nglina              ( 0) | 37.50   |
+| 21       | Lea Song-I Park               ( 0) | 482.50  |                 | 21       | Lea Song-I Park               ( 0) | 32.50   |
+| 22       | Arne Empen                    ( 0) | 482.50  |                 | 22       | Arne Empen                    ( 0) | 32.50   |
+| 23       | Bodo Voigt                    ( 0) | 477.50  |                 | 23       | Bodo Voigt                    ( 0) | 27.50   |
+| 24       | Dirk Engel                    ( 0) | 472.50  |                 | 24       | Dirk Engel                    ( 0) | 22.50   |
+| 25       | Klaus Wagener                 ( 0) | 467.50  |                 | 25       | Klaus Wagener                 ( 0) | 17.50   |
+| 26       | Jens Obermann                 ( 0) | 462.50  |                 | 26       | Jens Obermann                 ( 0) | 12.50   |
 |          |                                    |         | **Rankings MS** |          |                                    |         |
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
 | 1        | Hark Empen                    ( 0) | 537.50  |                 | 1        | Hark Empen                    ( 0) | 87.50   |
-| 2        | Johannes Rosenzweig           ( 2) | 530.19  |                 | 2        | Johannes Rosenzweig           ( 2) | 78.33   |
+| 2        | Johannes Rosenzweig           ( 3) | 533.26  |                 | 2        | Johannes Rosenzweig           ( 3) | 81.25   |
 | 3        | Till Staude                   ( 0) | 527.50  |                 | 3        | Till Staude                   ( 0) | 77.50   |
-| 4        | Alexander Voigt               ( 2) | 524.81  |                 | 4        | Alexander Voigt               ( 2) | 76.67   |
+| 4        | Alexander Voigt               ( 3) | 521.74  |                 | 4        | Alexander Voigt               ( 3) | 73.75   |
 | 5        | Sebastian Mootz               ( 0) | 517.50  |                 | 5        | Sebastian Mootz               ( 0) | 67.50   |
 | 6        | Durga P.B. Nasika             ( 0) | 512.50  |                 | 6        | Durga P.B. Nasika             ( 0) | 62.50   |
 | 7        | Allu Sai Ram Reddy            ( 0) | 507.50  |                 | 7        | Allu Sai Ram Reddy            ( 0) | 57.50   |
@@ -71,20 +72,22 @@
 | 2        | Yvonne Flader                 ( 0) | 512.50  |                 | 2        | Yvonne Flader                 ( 0) | 62.50   |
 | 3        | Malin Schnepper               ( 0) | 507.50  |                 | 3        | Malin Schnepper               ( 0) | 57.50   |
 | 4        | Liza Kohl                     ( 0) | 502.50  |                 | 4        | Liza Kohl                     ( 0) | 52.50   |
-| 5        | Lucie Gavillet                ( 0) | 497.50  |                 | 5        | Lucie Gavillet                ( 0) | 47.50   |
-| 6        | Yu-Tung Yang                  ( 0) | 492.50  |                 | 6        | Yu-Tung Yang                  ( 0) | 42.50   |
-| 7        | Thi Mai Phuong Do             ( 0) | 487.50  |                 | 7        | Thi Mai Phuong Do             ( 0) | 37.50   |
-| 8        | Lea Song-I Park               ( 0) | 482.50  |                 | 8        | Lea Song-I Park               ( 0) | 32.50   |
+| 5        | Kora John                     ( 0) | 500.00  |                 | 5        | Kora John                     ( 0) | 50.00   |
+| 6        | Lucie Gavillet                ( 0) | 497.50  |                 | 6        | Lucie Gavillet                ( 0) | 47.50   |
+| 7        | Yu-Tung Yang                  ( 0) | 492.50  |                 | 7        | Yu-Tung Yang                  ( 0) | 42.50   |
+| 8        | Thi Mai Phuong Do             ( 0) | 487.50  |                 | 8        | Thi Mai Phuong Do             ( 0) | 37.50   |
+| 9        | Lea Song-I Park               ( 0) | 482.50  |                 | 9        | Lea Song-I Park               ( 0) | 32.50   |
 |          |                                    |         | **Rankings WD** |          |                                    |         |
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
 | 1        | Woon Hong Kwa                 ( 0) | 517.50  |                 | 1        | Woon Hong Kwa                 ( 0) | 67.50   |
 | 2        | Yvonne Flader                 ( 0) | 512.50  |                 | 2        | Yvonne Flader                 ( 0) | 62.50   |
 | 3        | Malin Schnepper               ( 0) | 507.50  |                 | 3        | Malin Schnepper               ( 0) | 57.50   |
 | 4        | Liza Kohl                     ( 0) | 502.50  |                 | 4        | Liza Kohl                     ( 0) | 52.50   |
-| 5        | Lucie Gavillet                ( 0) | 497.50  |                 | 5        | Lucie Gavillet                ( 0) | 47.50   |
-| 6        | Yu-Tung Yang                  ( 0) | 492.50  |                 | 6        | Yu-Tung Yang                  ( 0) | 42.50   |
-| 7        | Thi Mai Phuong Do             ( 0) | 487.50  |                 | 7        | Thi Mai Phuong Do             ( 0) | 37.50   |
-| 8        | Lea Song-I Park               ( 0) | 482.50  |                 | 8        | Lea Song-I Park               ( 0) | 32.50   |
+| 5        | Kora John                     ( 0) | 500.00  |                 | 5        | Kora John                     ( 0) | 50.00   |
+| 6        | Lucie Gavillet                ( 0) | 497.50  |                 | 6        | Lucie Gavillet                ( 0) | 47.50   |
+| 7        | Yu-Tung Yang                  ( 0) | 492.50  |                 | 7        | Yu-Tung Yang                  ( 0) | 42.50   |
+| 8        | Thi Mai Phuong Do             ( 0) | 487.50  |                 | 8        | Thi Mai Phuong Do             ( 0) | 37.50   |
+| 9        | Lea Song-I Park               ( 0) | 482.50  |                 | 9        | Lea Song-I Park               ( 0) | 32.50   |
 |          |                                    |         | **Rankings MX** |          |                                    |         |
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
 | 1        | Hark Empen                    ( 0) | 537.50  |                 | 1        | Hark Empen                    ( 0) | 87.50   |
@@ -99,19 +102,20 @@
 | 10       | Durga P.B. Nasika             ( 3) | 507.77  |                 | 10       | Matti Rohlf                   ( 2) | 57.50   |
 | 11       | Allu Sai Ram Reddy            ( 0) | 507.50  |                 | 11       | Allu Sai Ram Reddy            ( 0) | 57.50   |
 | 12       | Liza Kohl                     ( 2) | 501.85  |                 | 12       | Liza Kohl                     ( 2) | 51.00   |
-| 13       | Karthik                       ( 0) | 500.00  |                 | 13       | Karthik                       ( 0) | 50.00   |
-| 14       | Lucie Gavillet                ( 0) | 497.50  |                 | 14       | Yu-Tung Yang                  ( 3) | 49.88   |
-| 15       | Kevin Erkelenz                ( 0) | 497.50  |                 | 15       | Lucie Gavillet                ( 0) | 47.50   |
-| 16       | Anh Quang Nguyen              ( 0) | 492.50  |                 | 16       | Kevin Erkelenz                ( 0) | 47.50   |
-| 17       | Yu-Tung Yang                  ( 3) | 491.99  |                 | 17       | Anh Quang Nguyen              ( 0) | 42.50   |
-| 18       | Thi Mai Phuong Do             ( 0) | 487.50  |                 | 18       | Thi Mai Phuong Do             ( 0) | 37.50   |
-| 19       | Bui Tseng-Nglina              ( 0) | 487.50  |                 | 19       | Bui Tseng-Nglina              ( 0) | 37.50   |
-| 20       | Lea Song-I Park               ( 0) | 482.50  |                 | 20       | Lea Song-I Park               ( 0) | 32.50   |
-| 21       | Arne Empen                    ( 0) | 482.50  |                 | 21       | Arne Empen                    ( 0) | 32.50   |
-| 22       | Bodo Voigt                    ( 0) | 477.50  |                 | 22       | Bodo Voigt                    ( 0) | 27.50   |
-| 23       | Dirk Engel                    ( 0) | 472.50  |                 | 23       | Dirk Engel                    ( 0) | 22.50   |
-| 24       | Klaus Wagener                 ( 0) | 467.50  |                 | 24       | Klaus Wagener                 ( 0) | 17.50   |
-| 25       | Jens Obermann                 ( 0) | 462.50  |                 | 25       | Jens Obermann                 ( 0) | 12.50   |
+| 13       | Kora John                     ( 0) | 500.00  |                 | 13       | Kora John                     ( 0) | 50.00   |
+| 14       | Karthik                       ( 0) | 500.00  |                 | 14       | Karthik                       ( 0) | 50.00   |
+| 15       | Lucie Gavillet                ( 0) | 497.50  |                 | 15       | Yu-Tung Yang                  ( 3) | 49.88   |
+| 16       | Kevin Erkelenz                ( 0) | 497.50  |                 | 16       | Lucie Gavillet                ( 0) | 47.50   |
+| 17       | Anh Quang Nguyen              ( 0) | 492.50  |                 | 17       | Kevin Erkelenz                ( 0) | 47.50   |
+| 18       | Yu-Tung Yang                  ( 3) | 491.99  |                 | 18       | Anh Quang Nguyen              ( 0) | 42.50   |
+| 19       | Thi Mai Phuong Do             ( 0) | 487.50  |                 | 19       | Thi Mai Phuong Do             ( 0) | 37.50   |
+| 20       | Bui Tseng-Nglina              ( 0) | 487.50  |                 | 20       | Bui Tseng-Nglina              ( 0) | 37.50   |
+| 21       | Lea Song-I Park               ( 0) | 482.50  |                 | 21       | Lea Song-I Park               ( 0) | 32.50   |
+| 22       | Arne Empen                    ( 0) | 482.50  |                 | 22       | Arne Empen                    ( 0) | 32.50   |
+| 23       | Bodo Voigt                    ( 0) | 477.50  |                 | 23       | Bodo Voigt                    ( 0) | 27.50   |
+| 24       | Dirk Engel                    ( 0) | 472.50  |                 | 24       | Dirk Engel                    ( 0) | 22.50   |
+| 25       | Klaus Wagener                 ( 0) | 467.50  |                 | 25       | Klaus Wagener                 ( 0) | 17.50   |
+| 26       | Jens Obermann                 ( 0) | 462.50  |                 | 26       | Jens Obermann                 ( 0) | 12.50   |
 # HSC-rankings
 These are our internal rankings. Each player gets a BAX \[1\] and a PBR \[2\] for each discipline (Wo/Men's singles, Wo/Men's doubles, mixed doubles). There is also an additional BAX and PBR for each player for matches that are in neihter of the aforementioned disciplines, i.e. a male vs. female singles match.
 
