@@ -3,19 +3,19 @@
 |          |                                    |         | **Rankings UD** |          |                                    |         |
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
 | 1        | Hark Empen                    ( 0) | 537.50  |                 | 1        | Hark Empen                    ( 0) | 87.50   |
-| 2        | Johannes Rosenzweig           ( 0) | 532.50  |                 | 2        | Johannes Rosenzweig           ( 0) | 82.50   |
-| 3        | Alexander Voigt               ( 1) | 525.02  |                 | 3        | Alexander Voigt               ( 1) | 70.75   |
-| 4        | Till Staude                   ( 1) | 523.31  |                 | 4        | Woon Hong Kwa                 ( 0) | 67.50   |
-| 5        | Durga P.B. Nasika             ( 2) | 518.29  |                 | 5        | Sebastian Mootz               ( 0) | 67.50   |
-| 6        | Woon Hong Kwa                 ( 0) | 517.50  |                 | 6        | Till Staude                   ( 1) | 67.31   |
+| 2        | Johannes Rosenzweig           ( 1) | 528.34  |                 | 2        | Johannes Rosenzweig           ( 1) | 74.02   |
+| 3        | Alexander Voigt               ( 2) | 527.82  |                 | 3        | Alexander Voigt               ( 2) | 70.25   |
+| 4        | Till Staude                   ( 2) | 526.25  |                 | 4        | Till Staude                   ( 2) | 68.53   |
+| 5        | Durga P.B. Nasika             ( 2) | 518.29  |                 | 5        | Woon Hong Kwa                 ( 0) | 67.50   |
+| 6        | Woon Hong Kwa                 ( 0) | 517.50  |                 | 6        | Sebastian Mootz               ( 0) | 67.50   |
 | 7        | Sebastian Mootz               ( 0) | 517.50  |                 | 7        | Durga P.B. Nasika             ( 2) | 64.38   |
 | 8        | Yvonne Flader                 ( 0) | 512.50  |                 | 8        | Yvonne Flader                 ( 0) | 62.50   |
-| 9        | Malin Schnepper               ( 0) | 507.50  |                 | 9        | Malin Schnepper               ( 0) | 57.50   |
-| 10       | Allu Sai Ram Reddy            ( 0) | 507.50  |                 | 10       | Allu Sai Ram Reddy            ( 0) | 57.50   |
-| 11       | Karthik                       ( 1) | 503.70  |                 | 11       | Karthik                       ( 1) | 53.50   |
-| 12       | Kora John                     ( 0) | 500.00  |                 | 12       | Matti Rohlf                   ( 1) | 52.12   |
-| 13       | Matti Rohlf                   ( 1) | 499.30  |                 | 13       | Liza Kohl                     ( 1) | 52.12   |
-| 14       | Liza Kohl                     ( 1) | 499.30  |                 | 14       | Kora John                     ( 0) | 50.00   |
+| 9        | Malin Schnepper               ( 0) | 507.50  |                 | 9        | Kora John                     ( 1) | 57.77   |
+| 10       | Allu Sai Ram Reddy            ( 0) | 507.50  |                 | 10       | Malin Schnepper               ( 0) | 57.50   |
+| 11       | Karthik                       ( 1) | 503.70  |                 | 11       | Allu Sai Ram Reddy            ( 0) | 57.50   |
+| 12       | Matti Rohlf                   ( 1) | 499.30  |                 | 12       | Karthik                       ( 1) | 53.50   |
+| 13       | Liza Kohl                     ( 1) | 499.30  |                 | 13       | Matti Rohlf                   ( 1) | 52.12   |
+| 14       | Kora John                     ( 1) | 498.27  |                 | 14       | Liza Kohl                     ( 1) | 52.12   |
 | 15       | Lucie Gavillet                ( 0) | 497.50  |                 | 15       | Yu-Tung Yang                  ( 1) | 49.81   |
 | 16       | Kevin Erkelenz                ( 0) | 497.50  |                 | 16       | Lucie Gavillet                ( 0) | 47.50   |
 | 17       | Anh Quang Nguyen              ( 0) | 492.50  |                 | 17       | Kevin Erkelenz                ( 0) | 47.50   |

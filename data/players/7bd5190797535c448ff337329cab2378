@@ -11,10 +11,11 @@
     "bax_s_history": [
         527.5
     ],
-    "bax_u": 523.3122780645327,
+    "bax_u": 526.2480900119732,
     "bax_u_history": [
         527.5,
-        523.3122780645327
+        523.3122780645327,
+        526.2480900119732
     ],
     "gender": "m",
     "id": "7bd5190797535c448ff337329cab2378",
@@ -56,6 +57,37 @@
                 "Durga P.B. Nasika",
                 "Alexander Voigt"
             ]
+        },
+        {
+            "baxA": 524.1659115329562,
+            "baxB": 516.25,
+            "date": "2022-05-12",
+            "games": [
+                [
+                    21,
+                    16
+                ],
+                [
+                    21,
+                    19
+                ]
+            ],
+            "pbrA": 69.03125,
+            "pbrB": 66.25,
+            "score_difference": 3.5,
+            "sideA": [
+                "Till Staude",
+                "Alexander Voigt"
+            ],
+            "sideB": [
+                "Johannes Rosenzweig",
+                "Kora John"
+            ],
+            "type": "Undefined discipline",
+            "winner": [
+                "Till Staude",
+                "Alexander Voigt"
+            ]
         }
     ],
     "name": "Till Staude",
@@ -71,10 +103,11 @@
     "pbr_s_history": [
         77.5
     ],
-    "pbr_u": 67.3125,
+    "pbr_u": 68.53125,
     "pbr_u_history": [
         77.5,
-        67.3125
+        67.3125,
+        68.53125
     ],
     "status": "active"
 }

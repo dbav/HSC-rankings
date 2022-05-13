@@ -14,9 +14,10 @@
         530.1939597578698,
         533.261958819677
     ],
-    "bax_u": 532.5,
+    "bax_u": 528.3364767374047,
     "bax_u_history": [
-        532.5
+        532.5,
+        528.3364767374047
     ],
     "gender": "m",
     "id": "43d5eafaa03e5c518998a7f77b3c58a0",
@@ -116,7 +117,39 @@
         }
     ],
     "matches_u": [],
-    "matches_u_history": [],
+    "matches_u_history": [
+        {
+            "baxA": 524.1659115329562,
+            "baxB": 516.25,
+            "date": "2022-05-12",
+            "games": [
+                [
+                    21,
+                    16
+                ],
+                [
+                    21,
+                    19
+                ]
+            ],
+            "pbrA": 69.03125,
+            "pbrB": 66.25,
+            "score_difference": 3.5,
+            "sideA": [
+                "Till Staude",
+                "Alexander Voigt"
+            ],
+            "sideB": [
+                "Johannes Rosenzweig",
+                "Kora John"
+            ],
+            "type": "Undefined discipline",
+            "winner": [
+                "Till Staude",
+                "Alexander Voigt"
+            ]
+        }
+    ],
     "name": "Johannes Rosenzweig",
     "pbr_d": 82.5,
     "pbr_d_history": [
@@ -133,9 +166,10 @@
         78.33333333333334,
         81.25
     ],
-    "pbr_u": 82.5,
+    "pbr_u": 74.015625,
     "pbr_u_history": [
-        82.5
+        82.5,
+        74.015625
     ],
     "status": "active"
 }
