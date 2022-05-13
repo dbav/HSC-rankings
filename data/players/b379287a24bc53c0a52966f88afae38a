@@ -1,7 +1,8 @@
 {
-    "bax_d": 522.5,
+    "bax_d": 525.0195450013798,
     "bax_d_history": [
-        522.5
+        522.5,
+        525.0195450013798
     ],
     "bax_m": 517.7095329309574,
     "bax_m_history": [
@@ -24,7 +25,39 @@
     "gender": "m",
     "id": "b379287a24bc53c0a52966f88afae38a",
     "matches_d": [],
-    "matches_d_history": [],
+    "matches_d_history": [
+        {
+            "baxA": 530.0,
+            "baxB": 510.0,
+            "date": "2022-05-12",
+            "games": [
+                [
+                    21,
+                    18
+                ],
+                [
+                    21,
+                    8
+                ]
+            ],
+            "pbrA": 80.0,
+            "pbrB": 60.0,
+            "score_difference": 8.0,
+            "sideA": [
+                "Hark Empen",
+                "Alexander Voigt"
+            ],
+            "sideB": [
+                "Johannes Rosenzweig",
+                "Bui Tseng-Nglina"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Hark Empen",
+                "Alexander Voigt"
+            ]
+        }
+    ],
     "matches_m": [],
     "matches_m_history": [
         {
@@ -216,9 +249,10 @@
         }
     ],
     "name": "Alexander Voigt",
-    "pbr_d": 72.5,
+    "pbr_d": 70.25,
     "pbr_d_history": [
-        72.5
+        72.5,
+        70.25
     ],
     "pbr_m": 60.375,
     "pbr_m_history": [
