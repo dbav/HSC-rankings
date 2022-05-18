@@ -1,8 +1,9 @@
 {
-    "bax_d": 528.7987460527542,
+    "bax_d": 529.7680140556015,
     "bax_d_history": [
         532.5,
-        528.7987460527542
+        528.7987460527542,
+        529.7680140556015
     ],
     "bax_m": 532.5,
     "bax_m_history": [
@@ -53,6 +54,37 @@
             "winner": [
                 "Hark Empen",
                 "Alexander Voigt"
+            ]
+        },
+        {
+            "baxA": 534.4675092017114,
+            "baxB": 489.10243840917906,
+            "date": "2022-05-17",
+            "games": [
+                [
+                    21,
+                    16
+                ],
+                [
+                    21,
+                    19
+                ]
+            ],
+            "pbrA": 72.3125,
+            "pbrB": 56.28125,
+            "score_difference": 3.5,
+            "sideA": [
+                "Hark Empen",
+                "Johannes Rosenzweig"
+            ],
+            "sideB": [
+                "Bui Tseng-Nglina",
+                "Anh Quang Nguyen"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Hark Empen",
+                "Johannes Rosenzweig"
             ]
         }
     ],
@@ -184,10 +216,11 @@
         }
     ],
     "name": "Johannes Rosenzweig",
-    "pbr_d": 77.25,
+    "pbr_d": 68.515625,
     "pbr_d_history": [
         82.5,
-        77.25
+        77.25,
+        68.515625
     ],
     "pbr_m": 82.5,
     "pbr_m_history": [

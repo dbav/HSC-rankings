@@ -1,8 +1,9 @@
 {
-    "bax_d": 491.57127158584075,
+    "bax_d": 490.71863470362035,
     "bax_d_history": [
         492.5,
-        491.57127158584075
+        491.57127158584075,
+        490.71863470362035
     ],
     "bax_m": 492.5,
     "bax_m_history": [
@@ -50,6 +51,37 @@
                 "Hark Empen",
                 "Till Staude"
             ]
+        },
+        {
+            "baxA": 534.4675092017114,
+            "baxB": 489.10243840917906,
+            "date": "2022-05-17",
+            "games": [
+                [
+                    21,
+                    16
+                ],
+                [
+                    21,
+                    19
+                ]
+            ],
+            "pbrA": 72.3125,
+            "pbrB": 56.28125,
+            "score_difference": 3.5,
+            "sideA": [
+                "Hark Empen",
+                "Johannes Rosenzweig"
+            ],
+            "sideB": [
+                "Bui Tseng-Nglina",
+                "Anh Quang Nguyen"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Hark Empen",
+                "Johannes Rosenzweig"
+            ]
         }
     ],
     "matches_m": [],
@@ -59,10 +91,11 @@
     "matches_u": [],
     "matches_u_history": [],
     "name": "Anh Quang Nguyen",
-    "pbr_d": 57.8125,
+    "pbr_d": 63.3125,
     "pbr_d_history": [
         42.5,
-        57.8125
+        57.8125,
+        63.3125
     ],
     "pbr_m": 42.5,
     "pbr_m_history": [
