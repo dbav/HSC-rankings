@@ -31,9 +31,9 @@
 |          |                                    |         | **Rankings MS** |          |                                    |         |
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
 | 1        | Hark Empen                    ( 0) | 537.50  |                 | 1        | Hark Empen                    ( 0) | 87.50   |
-| 2        | Johannes Rosenzweig           ( 3) | 533.26  |                 | 2        | Johannes Rosenzweig           ( 3) | 81.25   |
+| 2        | Johannes Rosenzweig           ( 4) | 534.53  |                 | 2        | Johannes Rosenzweig           ( 4) | 79.52   |
 | 3        | Alexander Voigt               ( 5) | 526.45  |                 | 3        | Alexander Voigt               ( 5) | 76.79   |
-| 4        | Till Staude                   ( 2) | 522.79  |                 | 4        | Till Staude                   ( 2) | 74.46   |
+| 4        | Till Staude                   ( 3) | 521.52  |                 | 4        | Till Staude                   ( 3) | 76.19   |
 | 5        | Sebastian Mootz               ( 0) | 517.50  |                 | 5        | Sebastian Mootz               ( 0) | 67.50   |
 | 6        | Durga P.B. Nasika             ( 0) | 512.50  |                 | 6        | Durga P.B. Nasika             ( 0) | 62.50   |
 | 7        | Allu Sai Ram Reddy            ( 0) | 507.50  |                 | 7        | Allu Sai Ram Reddy            ( 0) | 57.50   |
