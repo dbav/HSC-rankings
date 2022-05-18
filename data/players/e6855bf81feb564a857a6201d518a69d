@@ -1,8 +1,9 @@
 {
-    "bax_d": 539.0390927720479,
+    "bax_d": 540.1362723506686,
     "bax_d_history": [
         537.5,
-        539.0390927720479
+        539.0390927720479,
+        540.1362723506686
     ],
     "bax_m": 537.5,
     "bax_m_history": [
@@ -50,6 +51,37 @@
                 "Hark Empen",
                 "Alexander Voigt"
             ]
+        },
+        {
+            "baxA": 533.2695463860239,
+            "baxB": 502.5,
+            "date": "2022-05-17",
+            "games": [
+                [
+                    21,
+                    16
+                ],
+                [
+                    21,
+                    17
+                ]
+            ],
+            "pbrA": 77.625,
+            "pbrB": 52.5,
+            "score_difference": 4.5,
+            "sideA": [
+                "Hark Empen",
+                "Till Staude"
+            ],
+            "sideB": [
+                "Durga P.B. Nasika",
+                "Anh Quang Nguyen"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Hark Empen",
+                "Till Staude"
+            ]
         }
     ],
     "matches_m": [],
@@ -59,10 +91,11 @@
     "matches_u": [],
     "matches_u_history": [],
     "name": "Hark Empen",
-    "pbr_d": 77.75,
+    "pbr_d": 67.375,
     "pbr_d_history": [
         87.5,
-        77.75
+        77.75,
+        67.375
     ],
     "pbr_m": 87.5,
     "pbr_m_history": [

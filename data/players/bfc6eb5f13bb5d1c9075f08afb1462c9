@@ -1,7 +1,8 @@
 {
-    "bax_d": 512.5,
+    "bax_d": 510.55690553975586,
     "bax_d_history": [
-        512.5
+        512.5,
+        510.55690553975586
     ],
     "bax_m": 507.76690213983926,
     "bax_m_history": [
@@ -23,7 +24,39 @@
     "gender": "m",
     "id": "bfc6eb5f13bb5d1c9075f08afb1462c9",
     "matches_d": [],
-    "matches_d_history": [],
+    "matches_d_history": [
+        {
+            "baxA": 533.2695463860239,
+            "baxB": 502.5,
+            "date": "2022-05-17",
+            "games": [
+                [
+                    21,
+                    16
+                ],
+                [
+                    21,
+                    17
+                ]
+            ],
+            "pbrA": 77.625,
+            "pbrB": 52.5,
+            "score_difference": 4.5,
+            "sideA": [
+                "Hark Empen",
+                "Till Staude"
+            ],
+            "sideB": [
+                "Durga P.B. Nasika",
+                "Anh Quang Nguyen"
+            ],
+            "type": "Men's doubles",
+            "winner": [
+                "Hark Empen",
+                "Till Staude"
+            ]
+        }
+    ],
     "matches_m": [],
     "matches_m_history": [
         {
@@ -188,9 +221,10 @@
         }
     ],
     "name": "Durga P.B. Nasika",
-    "pbr_d": 62.5,
+    "pbr_d": 67.8125,
     "pbr_d_history": [
-        62.5
+        62.5,
+        67.8125
     ],
     "pbr_m": 58.75,
     "pbr_m_history": [

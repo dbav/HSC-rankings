@@ -49,18 +49,18 @@
 | 17       | Jens Obermann                 ( 0) | 462.50  |                 | 17       | Jens Obermann                 ( 0) | 12.50   |
 |          |                                    |         | **Rankings MD** |          |                                    |         |
 | **Rank** | **Name (# of matches)**            | **BAX** |                 | **Rank** | **Name (# of matches)**            | **PBR** |
-| 1        | Hark Empen                    ( 1) | 539.04  |                 | 1        | Hark Empen                    ( 1) | 77.75   |
-| 2        | Johannes Rosenzweig           ( 1) | 528.80  |                 | 2        | Till Staude                   ( 0) | 77.50   |
-| 3        | Till Staude                   ( 0) | 527.50  |                 | 3        | Johannes Rosenzweig           ( 1) | 77.25   |
-| 4        | Alexander Voigt               ( 1) | 525.02  |                 | 4        | Alexander Voigt               ( 1) | 70.25   |
-| 5        | Sebastian Mootz               ( 0) | 517.50  |                 | 5        | Sebastian Mootz               ( 0) | 67.50   |
-| 6        | Durga P.B. Nasika             ( 0) | 512.50  |                 | 6        | Durga P.B. Nasika             ( 0) | 62.50   |
-| 7        | Allu Sai Ram Reddy            ( 0) | 507.50  |                 | 7        | Allu Sai Ram Reddy            ( 0) | 57.50   |
-| 8        | Matti Rohlf                   ( 0) | 502.50  |                 | 8        | Bui Tseng-Nglina              ( 1) | 54.75   |
-| 9        | Karthik                       ( 0) | 500.00  |                 | 9        | Matti Rohlf                   ( 0) | 52.50   |
-| 10       | Kevin Erkelenz                ( 0) | 497.50  |                 | 10       | Karthik                       ( 0) | 50.00   |
-| 11       | Anh Quang Nguyen              ( 0) | 492.50  |                 | 11       | Kevin Erkelenz                ( 0) | 47.50   |
-| 12       | Bui Tseng-Nglina              ( 1) | 486.63  |                 | 12       | Anh Quang Nguyen              ( 0) | 42.50   |
+| 1        | Hark Empen                    ( 2) | 540.14  |                 | 1        | Johannes Rosenzweig           ( 1) | 77.25   |
+| 2        | Till Staude                   ( 1) | 529.18  |                 | 2        | Alexander Voigt               ( 1) | 70.25   |
+| 3        | Johannes Rosenzweig           ( 1) | 528.80  |                 | 3        | Durga P.B. Nasika             ( 1) | 67.81   |
+| 4        | Alexander Voigt               ( 1) | 525.02  |                 | 4        | Sebastian Mootz               ( 0) | 67.50   |
+| 5        | Sebastian Mootz               ( 0) | 517.50  |                 | 5        | Hark Empen                    ( 2) | 67.38   |
+| 6        | Durga P.B. Nasika             ( 1) | 510.56  |                 | 6        | Till Staude                   ( 1) | 67.25   |
+| 7        | Allu Sai Ram Reddy            ( 0) | 507.50  |                 | 7        | Anh Quang Nguyen              ( 1) | 57.81   |
+| 8        | Matti Rohlf                   ( 0) | 502.50  |                 | 8        | Allu Sai Ram Reddy            ( 0) | 57.50   |
+| 9        | Karthik                       ( 0) | 500.00  |                 | 9        | Bui Tseng-Nglina              ( 1) | 54.75   |
+| 10       | Kevin Erkelenz                ( 0) | 497.50  |                 | 10       | Matti Rohlf                   ( 0) | 52.50   |
+| 11       | Anh Quang Nguyen              ( 1) | 491.57  |                 | 11       | Karthik                       ( 0) | 50.00   |
+| 12       | Bui Tseng-Nglina              ( 1) | 486.63  |                 | 12       | Kevin Erkelenz                ( 0) | 47.50   |
 | 13       | Arne Empen                    ( 0) | 482.50  |                 | 13       | Arne Empen                    ( 0) | 32.50   |
 | 14       | Bodo Voigt                    ( 0) | 477.50  |                 | 14       | Bodo Voigt                    ( 0) | 27.50   |
 | 15       | Dirk Engel                    ( 0) | 472.50  |                 | 15       | Dirk Engel                    ( 0) | 22.50   |
