@@ -33,9 +33,9 @@
 | 1        | Hark Empen                    ( 0) | 537.50  |                 | 1        | Hark Empen                    ( 0) | 87.50   |
 | 2        | Johannes Rosenzweig           ( 4) | 534.53  |                 | 2        | Johannes Rosenzweig           ( 4) | 79.52   |
 | 3        | Alexander Voigt               ( 5) | 526.45  |                 | 3        | Alexander Voigt               ( 5) | 76.79   |
-| 4        | Till Staude                   ( 3) | 521.52  |                 | 4        | Till Staude                   ( 3) | 76.19   |
+| 4        | Till Staude                   ( 4) | 524.30  |                 | 4        | Till Staude                   ( 4) | 72.09   |
 | 5        | Sebastian Mootz               ( 0) | 517.50  |                 | 5        | Sebastian Mootz               ( 0) | 67.50   |
-| 6        | Durga P.B. Nasika             ( 0) | 512.50  |                 | 6        | Durga P.B. Nasika             ( 0) | 62.50   |
+| 6        | Durga P.B. Nasika             ( 1) | 509.72  |                 | 6        | Durga P.B. Nasika             ( 1) | 66.59   |
 | 7        | Allu Sai Ram Reddy            ( 0) | 507.50  |                 | 7        | Allu Sai Ram Reddy            ( 0) | 57.50   |
 | 8        | Matti Rohlf                   ( 0) | 502.50  |                 | 8        | Matti Rohlf                   ( 0) | 52.50   |
 | 9        | Karthik                       ( 0) | 500.00  |                 | 9        | Karthik                       ( 0) | 50.00   |

@@ -11,9 +11,10 @@
         503.8922619631717,
         507.76690213983926
     ],
-    "bax_s": 512.5,
+    "bax_s": 509.7162706833714,
     "bax_s_history": [
-        512.5
+        512.5,
+        509.7162706833714
     ],
     "bax_u": 518.2903240869618,
     "bax_u_history": [
@@ -154,7 +155,36 @@
         }
     ],
     "matches_s": [],
-    "matches_s_history": [],
+    "matches_s_history": [
+        {
+            "baxA": 512.5,
+            "baxB": 521.5150740737937,
+            "date": "2022-05-30",
+            "games": [
+                [
+                    19,
+                    21
+                ],
+                [
+                    12,
+                    21
+                ]
+            ],
+            "pbrA": 62.5,
+            "pbrB": 76.1875,
+            "score_difference": -5.5,
+            "sideA": [
+                "Durga P.B. Nasika"
+            ],
+            "sideB": [
+                "Till Staude"
+            ],
+            "type": "Men's singles",
+            "winner": [
+                "Till Staude"
+            ]
+        }
+    ],
     "matches_u": [],
     "matches_u_history": [
         {
@@ -233,9 +263,10 @@
         50.0,
         58.75
     ],
-    "pbr_s": 62.5,
+    "pbr_s": 66.59375,
     "pbr_s_history": [
-        62.5
+        62.5,
+        66.59375
     ],
     "pbr_u": 64.375,
     "pbr_u_history": [
